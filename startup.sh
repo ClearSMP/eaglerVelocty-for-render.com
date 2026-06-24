@@ -1,6 +1,5 @@
 #!/bin/bash
 
-cd Velocity || exit 1
 set -e
 
 HOST="veldariasmp.seedloaf.gg"
