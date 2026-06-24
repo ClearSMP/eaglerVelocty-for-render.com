@@ -2,9 +2,8 @@ FROM eclipse-temurin:21-jre
 
 WORKDIR /app
 
-COPY server.jar server.jar
-COPY plugins ./plugins
+COPY . .
 
-EXPOSE 25565
+RUN chmod +x startup.sh
 
-CMD ["java", "-jar", "server.jar"]
+CMD ["bash", "startup.sh"]
