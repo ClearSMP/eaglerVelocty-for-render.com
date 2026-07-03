@@ -1,7 +1,7 @@
 server_name: 'EaglercraftXVelocity Server'
 server_uuid: cf86374a-92b3-4844-94f2-eb63800d5504
-websocket_connection_timeout: 15000
-websocket_handshake_timeout: 5000
+websocket_connection_timeout: 35000
+websocket_handshake_timeout: 10000
 builtin_http_server_timeout: 10000
 http_websocket_compression_level: 6
 download_vanilla_skins_to_clients: true
