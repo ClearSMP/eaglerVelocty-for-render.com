@@ -9,11 +9,6 @@ CONFIG="velocity.toml"
 BACKEND_PORT=$(dig +short SRV _minecraft._tcp.${HOST} | awk '{print $3}')
 BACKEND_IP=$(dig +short A ${HOST} | awk 'NR==1')
 
-if [ -z "$BACKEND_PORT" ] || [ -z "$BACKEND_IP" ]; then
-    echo "DNS lookup failed"
-    exit 1
-fi
-
 echo "Backend: ${BACKEND_IP}:${BACKEND_PORT}"
 
 # velocity.toml のバックエンド設定を書き換え
