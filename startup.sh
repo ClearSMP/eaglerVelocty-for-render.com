@@ -2,7 +2,7 @@
 
 set -e
 
-HOST="veldariasmp.seedloaf.gg"
+HOST="shadowflare.seedloaf.gg"
 CONFIG="velocity.toml"
 
 # バックエンドサーバーの情報を取得
