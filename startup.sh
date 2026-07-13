@@ -2,7 +2,7 @@
 
 set -e
 
-HOST="shadowflare.seedloaf.gg"
+HOST="mc.shadowflare.cloud-ip.cc"
 CONFIG="velocity.toml"
 
 # バックエンドサーバーの情報を取得
