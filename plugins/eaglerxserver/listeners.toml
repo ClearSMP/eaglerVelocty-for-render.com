@@ -8,7 +8,7 @@
 	# underlying Velocity proxy's bind address, you need to enable the
 	# velocity_clone_listener option to make the server bind the additional ports in
 	# ProxyInitializeEvent.
-	inject_address = "0.0.0.0:8000"
+	inject_address = "0.0.0.0:10000"
 	# Default value is false, can be used to make Velocity bind an additional port
 	# besides the primary bind address specified in velocity.toml. This may cause
 	# problems due to the additional ports being bound early during
