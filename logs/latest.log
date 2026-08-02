@@ -1,0 +1,87 @@
+[21:54:18] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Booting up Velocity 3.4.0-SNAPSHOT (git-6995f415-b464)...
+[21:54:18] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loading localizations...
+[21:54:18] [main/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Connections will use epoll channels, libdeflate (Linux x86_64) compression, OpenSSL 3.x.x (Linux x86_64) ciphers
+[21:54:18] [main/WARN] [com.velocitypowered.proxy.config.VelocityConfiguration]: The proxy is running in offline mode! This is a security risk and you will NOT receive any support!
+[21:54:18] [main/WARN] [com.velocitypowered.proxy.config.VelocityConfiguration]: Player info forwarding is disabled! All players will appear to be connecting from the proxy and will have offline-mode UUIDs.
+[21:54:19] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loading plugins...
+[21:54:19] [main/ERROR] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Can't load plugin eaglermotd due to missing dependency eaglerxvelocity
+[21:54:19] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin clearsmpcore 1.0 by 
+[21:54:19] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin skinsrestorer 15.10.0 by knat, AlexProgrammerDE, Blackfire62, McLive
+[21:54:19] [main/INFO] [eaglerxserver]: Loading EaglercraftXServer 1.1.1...
+[21:54:19] [main/INFO] [eaglerxserver]: (Platform: Velocity)
+[21:54:19] [main/INFO] [eaglerxserver]: Server Name: "ShadowFlare"
+[21:54:19] [main/ERROR] [eaglerxserver]: Could not load server icon: server-icon.png
+javax.imageio.IIOException: Can't read input file!
+	at java.desktop/javax.imageio.ImageIO.read(ImageIO.java:1264) ~[?:?]
+	at net.lax1dude.eaglercraft.backend.server.base.ServerIconLoader.loadServerIcon(ServerIconLoader.java:112) ~[?:?]
+	at net.lax1dude.eaglercraft.backend.server.base.ServerIconLoader$1.loadServerIcon(ServerIconLoader.java:51) ~[?:?]
+	at net.lax1dude.eaglercraft.backend.server.base.EaglerListener.<init>(EaglerListener.java:90) ~[?:?]
+	at net.lax1dude.eaglercraft.backend.server.base.EaglerListener.<init>(EaglerListener.java:58) ~[?:?]
+	at net.lax1dude.eaglercraft.backend.server.base.EaglerXServer.loadProxying(EaglerXServer.java:355) ~[?:?]
+	at net.lax1dude.eaglercraft.backend.server.base.EaglerXServer.load(EaglerXServer.java:339) ~[?:?]
+	at net.lax1dude.eaglercraft.backend.server.velocity.PlatformPluginVelocity.<init>(PlatformPluginVelocity.java:256) ~[?:?]
+	at net.lax1dude.eaglercraft.backend.server.velocity.PlatformPluginVelocity$$FastClassByGuice$$2d9edc.GUICE$TRAMPOLINE(<generated>) ~[?:?]
+	at net.lax1dude.eaglercraft.backend.server.velocity.PlatformPluginVelocity$$FastClassByGuice$$2d9edc.apply(<generated>) ~[?:?]
+	at com.google.inject.internal.DefaultConstructionProxyFactory$FastClassProxy.newInstance(DefaultConstructionProxyFactory.java:82) ~[server.jar:3.4.0-SNAPSHOT (git-6995f415-b464)]
+	at com.google.inject.internal.ConstructorInjector.provision(ConstructorInjector.java:114) ~[server.jar:3.4.0-SNAPSHOT (git-6995f415-b464)]
+	at com.google.inject.internal.ConstructorInjector.construct(ConstructorInjector.java:91) ~[server.jar:3.4.0-SNAPSHOT (git-6995f415-b464)]
+	at com.google.inject.internal.ConstructorBindingImpl$Factory.get(ConstructorBindingImpl.java:300) ~[server.jar:3.4.0-SNAPSHOT (git-6995f415-b464)]
+	at com.google.inject.internal.ProviderToInternalFactoryAdapter.get(ProviderToInternalFactoryAdapter.java:40) ~[server.jar:3.4.0-SNAPSHOT (git-6995f415-b464)]
+	at com.google.inject.internal.SingletonScope$1.get(SingletonScope.java:169) ~[server.jar:3.4.0-SNAPSHOT (git-6995f415-b464)]
+	at com.google.inject.internal.InternalFactoryToProviderAdapter.get(InternalFactoryToProviderAdapter.java:45) ~[server.jar:3.4.0-SNAPSHOT (git-6995f415-b464)]
+	at com.google.inject.internal.InjectorImpl$1.get(InjectorImpl.java:1148) ~[server.jar:3.4.0-SNAPSHOT (git-6995f415-b464)]
+	at com.google.inject.internal.InjectorImpl.getInstance(InjectorImpl.java:1186) ~[server.jar:3.4.0-SNAPSHOT (git-6995f415-b464)]
+	at com.velocitypowered.proxy.plugin.loader.java.JavaPluginLoader.createPlugin(JavaPluginLoader.java:131) ~[server.jar:3.4.0-SNAPSHOT (git-6995f415-b464)]
+	at com.velocitypowered.proxy.plugin.VelocityPluginManager.loadPlugins(VelocityPluginManager.java:173) ~[server.jar:3.4.0-SNAPSHOT (git-6995f415-b464)]
+	at com.velocitypowered.proxy.VelocityServer.loadPlugins(VelocityServer.java:427) ~[server.jar:3.4.0-SNAPSHOT (git-6995f415-b464)]
+	at com.velocitypowered.proxy.VelocityServer.start(VelocityServer.java:298) ~[server.jar:3.4.0-SNAPSHOT (git-6995f415-b464)]
+	at com.velocitypowered.proxy.Velocity.main(Velocity.java:71) ~[server.jar:3.4.0-SNAPSHOT (git-6995f415-b464)]
+[21:54:19] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin eaglerxserver 1.1.1 by lax1dude
+[21:54:19] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin eaglerxrewind-1-5 1.0.3 by lax1dude, ayunami2000
+[21:54:20] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin viaversion 5.10.0 by _MylesC, creeper123123321, Gerrygames, kennytv, Matsv, EnZaXD, RK_01
+[21:54:20] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin viabackwards 5.10.0 by Matsv, kennytv, Gerrygames, creeper123123321, ForceUpdate1, EnZaXD
+[21:54:20] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin viarewind 4.1.2 by EnZaXD, Gerrygames, creeper123123321
+[21:54:20] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin voicechat 2.5.28 by NilaTheDragon, Max Henkel
+[21:54:20] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loaded 9 plugins
+[21:54:20] [Clearsmpcore - Task Executor #0/INFO] [clearsmpcore]: config.yml loaded
+[21:54:20] [Clearsmpcore - Task Executor #0/INFO] [clearsmpcore]: Clearsmpcore enabled (Velocity)
+[21:54:21] [Clearsmpcore - Task Executor #0/WARN] [com.velocitypowered.proxy.network.ConnectionManager]: The server channel initializer has been replaced by java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+[21:54:21] [Clearsmpcore - Task Executor #0/INFO] [eaglerxserver]: Enabling EaglercraftXServer 1.1.1...
+[21:54:21] [Clearsmpcore - Task Executor #0/INFO] [eaglerxserver]: Connecting to skin cache database "jdbc:sqlite:eagler_skins_cache.db"...
+[21:54:21] [SkinsRestorer - Task Executor #1/INFO] [skinsrestorer]: [Critical] ------------------[SkinsRestorer is OFFLINE] -------------------------
+[21:54:21] [SkinsRestorer - Task Executor #1/INFO] [skinsrestorer]: [Critical] Plugin currently can't fetch new skins due to blocked connection!
+[21:54:21] [SkinsRestorer - Task Executor #1/INFO] [skinsrestorer]: [Critical] See https://skinsrestorer.net/firewall for steps to resolve your issue!
+[21:54:21] [SkinsRestorer - Task Executor #1/INFO] [skinsrestorer]: [Critical] ----------------------------------------------------------------------
+[21:54:21] [Clearsmpcore - Task Executor #0/INFO] [eaglerxserver]: Connected to skin cache database successfully!
+[21:54:21] [Clearsmpcore - Task Executor #0/INFO] [eaglerxserver]: Listening for SkinsRestorer skin apply event on vanilla players
+[21:54:22] [Clearsmpcore - Task Executor #0/INFO] [eaglerxrewind-1-5]: EaglerXRewind protocol for Eaglercraft 1.5.2 has been registered
+[21:54:22] [Netty epoll Worker #0/ERROR] [eaglerxserver]: Could not check for server updates: java.io.IOException: Connection failed
+[21:54:22] [VoiceProxyServer/INFO] [de.maxhenkel.voicechat.SimpleVoiceChatVelocity]: Voice chat proxy server started at 0.0.0.0:25565
+[21:54:22] [SkinsRestorer - Task Executor #0/INFO] [skinsrestorer]: ----------------------------------------------
+[21:54:22] [SkinsRestorer - Task Executor #0/INFO] [skinsrestorer]:     +==================+
+[21:54:22] [SkinsRestorer - Task Executor #0/INFO] [skinsrestorer]:     |   SkinsRestorer  |
+[21:54:22] [SkinsRestorer - Task Executor #0/INFO] [skinsrestorer]:     |------------------|
+[21:54:22] [SkinsRestorer - Task Executor #0/INFO] [skinsrestorer]:     +==================+
+[21:54:22] [SkinsRestorer - Task Executor #0/INFO] [skinsrestorer]: ----------------------------------------------
+[21:54:22] [SkinsRestorer - Task Executor #0/INFO] [skinsrestorer]:     Version: 15.10.0
+[21:54:22] [SkinsRestorer - Task Executor #0/INFO] [skinsrestorer]:     Commit: fcb9320
+[21:54:22] [SkinsRestorer - Task Executor #0/INFO] [skinsrestorer]:     A new version (15.12.5) is available!
+[21:54:22] [SkinsRestorer - Task Executor #0/INFO] [skinsrestorer]:     https://modrinth.com/plugin/skinsrestorer/version/15.12.5
+[21:54:22] [SkinsRestorer - Task Executor #0/INFO] [skinsrestorer]: ----------------------------------------------
+[21:54:22] [SkinsRestorer - Task Executor #0/INFO] [skinsrestorer]: Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[21:54:22] [SkinsRestorer - Task Executor #0/INFO] [skinsrestorer]: Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[21:54:23] [Via-Mappingloader-1/INFO] [viaversion]: Loading block connection mappings ...
+[21:54:23] [Clearsmpcore - Task Executor #0/INFO] [viaversion]: Replacing channel initializers; you can safely ignore the following two warnings.
+[21:54:23] [Clearsmpcore - Task Executor #0/WARN] [com.velocitypowered.proxy.network.ConnectionManager]: The server channel initializer has been replaced by java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+[21:54:23] [Clearsmpcore - Task Executor #0/WARN] [com.velocitypowered.proxy.network.ConnectionManager]: The backend channel initializer has been replaced by java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+[21:54:23] [Clearsmpcore - Task Executor #0/INFO] [viabackwards]: Loading translations...
+[21:54:23] [Clearsmpcore - Task Executor #0/INFO] [viabackwards]: Registering protocols...
+[21:54:24] [Clearsmpcore - Task Executor #0/INFO] [viarewind]: Registering protocols...
+[21:54:24] [Clearsmpcore - Task Executor #0/INFO] [viaversion]: ViaVersion detected lowest supported version by the proxy: 1.7.2-1.7.5 (4)
+[21:54:24] [Clearsmpcore - Task Executor #0/INFO] [viaversion]: Highest supported version by the proxy: 1.21.4 (769)
+[21:54:24] [ViaVersion - Task Executor #1/WARN] [viaversion]: Could not check for updates, check your connection.
+[21:54:24] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Listening for GS4 query on /[0:0:0:0:0:0:0:0]:25577
+[21:54:24] [main/INFO] [com.velocitypowered.proxy.Velocity]: Done (6.75s)!
+[21:54:24] [Netty epoll Boss #0/INFO] [eaglerxserver]: Listener "listener0" injected into channel [id: 0x1a3b21be, L:/[0:0:0:0:0:0:0:0]:25565] successfully (Velocity method)
+[21:54:24] [Netty epoll Boss #0/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Listening on /[0:0:0:0:0:0:0:0]:25565
+[21:54:25] [ViaVersion - Task Executor #1/INFO] [viaversion]: Finished mapping loading, shutting down loader executor.
