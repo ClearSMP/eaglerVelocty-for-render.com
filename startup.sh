@@ -27,6 +27,4 @@ fi
 
 echo "velocity.toml updated"
 
-exec java \
-    -Djava.net.preferIPv6Addresses=true \
-    -jar server.jar nogui
+exec java -jar server.jar nogui
