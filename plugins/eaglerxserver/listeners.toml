@@ -1,25 +1,7 @@
-# Defines the list of listeners to enable Eaglercraft support on, each listener's
-# address must be the address of a listener you've also configured in the base
-# Velocity server, unless the listener's cloning option is also enabled.
 [[listener_list]]
-	# The unique name to use when identifying this listener
 	listener_name = "listener0"
-	# The address of the listener to inject into. If this is not the same as the
-	# underlying Velocity proxy's bind address, you need to enable the
-	# velocity_clone_listener option to make the server bind the additional ports in
-	# ProxyInitializeEvent.
 	inject_address = "0.0.0.0:10000"
-	# Default value is false, can be used to make Velocity bind an additional port
-	# besides the primary bind address specified in velocity.toml. This may cause
-	# problems due to the additional ports being bound early during
-	# ProxyInitializeEvent instead of waiting until after the proxy has been fully
-	# initialized.
 	velocity_clone_listener = false
-	# Default value is true, sets if this listener should accept both Eaglercraft
-	# WebSockets and regular Minecraft Java Edition TCP connections. The connection
-	# type is determined from the first packet, where an HTTP/1.1 request will be
-	# treated as an Eaglercraft connection, and anything else will be assumed to be an
-	# ordinary vanilla TCP connection.
 	dual_stack = false
 	# Default value is false, sets if connections to this listener will use an HTTP
 	# header to forward the player's real IP address from a reverse proxy (or
@@ -27,9 +9,6 @@
 	# EaglerXServer's rate limiting and a lot of plugins to work correctly if they are
 	# used behind a reverse HTTP proxy or CloudFlare.
 	forward_ip = false
-	# Default value is 'X-Real-IP', sets the name of the request header that contains
-	# the player's real IP address if the forward_ip option is enabled. This option is
-	# commonly set to X-Forwarded-For or CF-Connecting-IP for a lot of server setups.
 	forward_ip_header = "X-Real-IP"
 	# Default value is false, sets if HTTP and WebSocket connections to this listener
 	# require a header with a secret to be accepted, can be used to prevent someone
@@ -69,7 +48,7 @@
 	# contents of the listener's MOTD, which is the text displayed along with the
 	# server_icon when players add this server's listener address to their client's
 	# Multiplayer menu server list.
-	server_motd = ["&6An EaglercraftX server"]
+	server_motd = ["§r                    §1§lSh§9§lado§b§lwFl§f§lare§r\n§3                        ꜱᴜʀᴠɪᴠᴀʟ"]
 	# Default value is true, is this listener should respond to MOTD queries or not
 	allow_motd = true
 	# Default value is true, is this listener should respond to other query types or
