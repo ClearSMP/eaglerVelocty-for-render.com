@@ -1,6 +1,6 @@
 [[listener_list]]
 	listener_name = "listener0"
-	inject_address = "0.0.0.0:24717"
+	inject_address = "0.0.0.0:10000"
 	velocity_clone_listener = false
 	dual_stack = true
 	# Default value is false, sets if connections to this listener will use an HTTP
