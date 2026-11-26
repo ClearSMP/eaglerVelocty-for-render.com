@@ -1,10 +1,10 @@
 # Config version. Do not change this
-config-version = "2.7"
+config-version = "2.8"
 # What port should the proxy be bound to? By default, we'll bind to all addresses on port 25577.
-bind = "0.0.0.0:25565"
+bind = "0.0.0.0:24717"
 # What should be the MOTD? This gets displayed when the player adds your server to
 # their server list. Only MiniMessage format is accepted.
-motd = "<gradient:#00c6ff:#8e2de2><bold>Veldaria Network</bold></gradient></newline>Join Now! "
+motd = "<gradient:#8B00FF:#FF69B4:#FFFFFF>              ShadowFlare</gradient> <#AAAAAA>[ 1.8-1.26 ]\n<gradient:#FFAA00:#FFD700>             🔥 Survival - Practice - FFA</gradient>"
 # What should we display for the maximum number of players? (Velocity does not support a cap
 # on the number of players online.)
 show-max-players = 70000
@@ -27,7 +27,7 @@ prevent-client-proxy-connections = false
 #                  unable to implement network level firewalling (on a shared host).
 # - "modern":      Forward player IPs and UUIDs as part of the login process using
 #                  Velocity's native forwarding. Only applicable for Minecraft 1.13 or higher.
-player-info-forwarding-mode = "none"
+player-info-forwarding-mode = "modern"
 # If you are using modern or BungeeGuard IP forwarding, configure a file that contains a unique secret here.
 # The file is expected to be UTF-8 encoded and not empty.
 forwarding-secret-file = "forwarding.secret"
@@ -60,17 +60,20 @@ enable-player-address-logging = true
 [servers]
 	# Configure your servers here. Each key represents the server's name, and the value
 	# represents the IP address of the server to connect to.
-	veldariasmp = "play2.eternalzero.cloud.:26403"
-	
+    survival = "play2.eternalzero.cloud.:26403"
+    pvp = "play2.eternalzero.cloud:45048"
 	# In what order we should try servers when a player logs in or is kicked from a server.
-	try = ["veldariasmp"]
+	try = ["survival"]
+
 [forced-hosts]
-	"veldariavsmp.seedloaf.gg:25565" = ["veldariasmp"]
+	"shadowflare.opik.net" = ["survival"]
+    "littlehardcore.mywire.net" = ["pvp"]
+
 [advanced]
 	# Specify a read timeout for connections here. The default is 30 seconds.
 	read-timeout = 150000
 	# Enables TCP fast open support on the proxy. Requires the proxy to run on Linux.
-	tcp-fast-open = false
+	tcp-fast-open = true
 	# How much compression should be done (from 0-9). The default is -1, which uses the
 	# default level of 6.
 	compression-level = -1
@@ -104,6 +107,7 @@ enable-player-address-logging = true
 	haproxy-protocol = false
 	# Enables the logging of commands
 	log-command-executions = false
+
 [query]
 	# If query is enabled, on what port should the query protocol listen on?
 	port = 25577
@@ -113,3 +117,16 @@ enable-player-address-logging = true
 	map = "Velocity"
 	# Whether to enable responding to GameSpy 4 query responses or not.
 	enabled = true
+
+[packet-limiter]
+	#Size of the moving time window in seconds used to calculate average rates.
+	#A larger window tolerates short bursts while still enforcing the configured limits over time.
+	interval = 7
+	#Maximum average number of packets per second a client may send. -1 disables this check.
+	packets-per-second = -1
+	#Maximum average number of compressed (on-wire) bytes per second a client may send. -1 disables this check.
+	bytes-per-second = -1
+	#Maximum average number of decompressed bytes per second a client may send.
+	#Protects against compression bomb attacks where small packets expand to excessive sizes after decompression.
+	#-1 disables this check.
+	decompressed-bytes-per-second = 5242880

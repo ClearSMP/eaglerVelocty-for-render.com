@@ -1,0 +1,21 @@
+[2026/10/28 08:20:32 INFO]:           __             _       
+[2026/10/28 08:20:32 INFO]:   _ __   / /  ___   __ _(_)_ __  
+[2026/10/28 08:20:32 INFO]:  | '_ \ / /  / _ \ / _` | | '_ \ 
+[2026/10/28 08:20:32 INFO]:  | | | / /__| (_) | (_| | | | | |
+[2026/10/28 08:20:32 INFO]:  |_| |_\____/\___/ \__, |_|_| |_|
+[2026/10/28 08:20:32 INFO]:                   |___/            
+[2026/10/28 08:20:32 INFO]:  By: www.nickuc.com - V 2.0.24
+[2026/10/28 08:20:32 INFO]:  
+[2026/10/28 08:20:32 DEBUG]: Loading the messages_en.yml message file...
+[2026/10/28 08:20:32 DEBUG]: Messages were loaded in 45 ms (single file).
+[2026/10/28 08:20:32 DEBUG]: Settings were loaded in 78 ms.
+[2026/10/28 08:20:32 DEBUG]: Loading database...
+[2026/10/28 08:20:32 DEBUG]: Starting logger filter...
+[2026/10/28 08:20:32 INFO]: Loading packetevents-velocity 2.14.0-SNAPSHOT...
+[2026/10/28 08:24:05 DEBUG]: [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'MRpotatochipsX', `unique_id` = 4e2af330eba931128f25e13eaa84cb60,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$argon2id$v=19$m=32768,t=5,p=1$GrKBXmjyaJ7GaZWl9Q4apQ$DJhVZHhNxr6gTVetBlH3R6t9b4+NBs8DhH8mTTeU6BE', `last_ip` = '138.199.231.247', `creation_date` = 2026-10-26 06:29:57.313, `last_seen` = 2026-10-28 08:24:05.007, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"survival","key":"last-server"},{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 4693" (applied to [last_ip, last_seen, settings] columns)
+[2026/10/28 08:24:05 INFO]: The user MRpotatochipsX has successfully logged in.
+[2026/10/28 08:29:29 DEBUG]: [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'TopMember33012', `unique_id` = 2c3c91b49e1b36818d896fe76cefa5dd,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$argon2id$v=19$m=32768,t=5,p=1$z27qzknZYu5bw/zKN2S6bQ$L05/DaKPeDjfpx6z9abVKhu2LwOQdjvdcaZB7U1R5Zc', `last_ip` = '138.199.231.247', `creation_date` = 2026-09-09 11:31:23.999, `last_seen` = 2026-10-28 08:29:29.672, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"survival","key":"last-server"},{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 516" (applied to [last_ip, last_seen, settings] columns)
+[2026/10/28 08:29:29 INFO]: The user TopMember33012 has successfully logged in.
+[2026/10/28 08:34:27 DEBUG]: [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'MRpotatochipsX', `unique_id` = 4e2af330eba931128f25e13eaa84cb60,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$argon2id$v=19$m=32768,t=5,p=1$GrKBXmjyaJ7GaZWl9Q4apQ$DJhVZHhNxr6gTVetBlH3R6t9b4+NBs8DhH8mTTeU6BE', `last_ip` = '138.199.231.247', `creation_date` = 2026-10-26 06:29:57.313, `last_seen` = 2026-10-28 08:34:27.192, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"survival","key":"last-server"},{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 4693" (applied to [last_seen, settings] columns)
+[2026/10/28 08:34:27 DEBUG]: [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'TopMember33012', `unique_id` = 2c3c91b49e1b36818d896fe76cefa5dd,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$argon2id$v=19$m=32768,t=5,p=1$z27qzknZYu5bw/zKN2S6bQ$L05/DaKPeDjfpx6z9abVKhu2LwOQdjvdcaZB7U1R5Zc', `last_ip` = '138.199.231.247', `creation_date` = 2026-09-09 11:31:23.999, `last_seen` = 2026-10-28 08:34:27.192, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"survival","key":"last-server"},{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 516" (applied to [last_seen, settings] columns)
+[2026/10/28 08:34:27 INFO]: Successful plugin core shutdown (took 0.02s)

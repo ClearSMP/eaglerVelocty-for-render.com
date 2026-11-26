@@ -1,0 +1,1604 @@
+==== FALLBACKSERVER DIAGNOSTIC ====
+[ERROR] [19/11/2026] [09:02:06] [PING] Server lobby not found.
+[ERROR] [19/11/2026] [09:02:06] [PING] Server lobby not found.
+[INFO] [19/11/2026] [09:02:06] [PING] Using default ping mode.
+[ERROR] [19/11/2026] [09:22:25] [KICK] Server survival kicked player ClownPierceBALLS for reason: disconnect.timeout
+[ERROR] [19/11/2026] [09:22:25] [FALLBACK] Null lobbies for player ClownPierceBALLS in group survival
+[ERROR] [19/11/2026] [09:25:03] [KICK] Server survival kicked player ClownPierceBALLS for reason: disconnect.timeout
+[ERROR] [19/11/2026] [09:25:03] [FALLBACK] Null lobbies for player ClownPierceBALLS in group survival
+[ERROR] [19/11/2026] [09:35:54] [KICK] Server survival kicked player legacy2016 for reason: velocity.error.internal-server-connection-error
+[ERROR] [19/11/2026] [09:35:54] [FALLBACK] Null lobbies for player legacy2016 in group survival
+[ERROR] [19/11/2026] [09:41:03] [KICK] Server survival kicked player _Ahmed14k_ for reason: velocity.error.internal-server-connection-error
+[ERROR] [19/11/2026] [09:41:03] [FALLBACK] Null lobbies for player _Ahmed14k_ in group survival
+[ERROR] [19/11/2026] [09:47:35] [KICK] Server survival kicked player Drakz for reason: disconnect.timeout
+[ERROR] [19/11/2026] [09:47:35] [FALLBACK] Null lobbies for player Drakz in group survival
+[ERROR] [19/11/2026] [10:21:15] [KICK] Server survival kicked player loggy for reason: velocity.error.internal-server-connection-error
+[ERROR] [19/11/2026] [10:21:15] [FALLBACK] Null lobbies for player loggy in group survival
+[ERROR] [19/11/2026] [10:24:26] [KICK] Server survival kicked player loggy for reason: disconnect.timeout
+[ERROR] [19/11/2026] [10:24:26] [FALLBACK] Null lobbies for player loggy in group survival
+[ERROR] [19/11/2026] [10:50:10] [KICK] Server survival kicked player tococuardente for reason: disconnect.timeout
+[ERROR] [19/11/2026] [10:50:10] [FALLBACK] Null lobbies for player tococuardente in group survival
+[ERROR] [19/11/2026] [10:52:02] [KICK] Server survival kicked player tococuardente for reason: disconnect.timeout
+[ERROR] [19/11/2026] [10:52:02] [FALLBACK] Null lobbies for player tococuardente in group survival
+[ERROR] [19/11/2026] [10:52:36] [KICK] Server survival kicked player noobplayzz for reason: disconnect.timeout
+[ERROR] [19/11/2026] [10:52:36] [FALLBACK] Null lobbies for player noobplayzz in group survival
+[ERROR] [19/11/2026] [11:12:22] [KICK] Server survival kicked player mr_hacker for reason: disconnect.timeout
+[ERROR] [19/11/2026] [11:12:22] [FALLBACK] Null lobbies for player mr_hacker in group survival
+[ERROR] [19/11/2026] [11:18:19] [KICK] Server survival kicked player AgentSlicky4 for reason: disconnect.timeout
+[ERROR] [19/11/2026] [11:18:19] [FALLBACK] Null lobbies for player AgentSlicky4 in group survival
+[ERROR] [19/11/2026] [11:29:44] [KICK] Server survival kicked player loggy for reason: disconnect.timeout
+[ERROR] [19/11/2026] [11:29:44] [FALLBACK] Null lobbies for player loggy in group survival
+[ERROR] [19/11/2026] [11:42:50] [KICK] Server survival kicked player _Ahmed14k_ for reason: disconnect.timeout
+[ERROR] [19/11/2026] [11:42:50] [FALLBACK] Null lobbies for player _Ahmed14k_ in group survival
+[ERROR] [19/11/2026] [11:58:51] [KICK] Server survival kicked player _Ahmed14k_ for reason: disconnect.timeout
+[ERROR] [19/11/2026] [11:58:51] [FALLBACK] Null lobbies for player _Ahmed14k_ in group survival
+[ERROR] [19/11/2026] [12:01:22] [KICK] Server survival kicked player loggy for reason: disconnect.timeout
+[ERROR] [19/11/2026] [12:01:22] [FALLBACK] Null lobbies for player loggy in group survival
+[ERROR] [19/11/2026] [12:03:23] [KICK] Server survival kicked player loggy for reason: disconnect.timeout
+[ERROR] [19/11/2026] [12:03:23] [FALLBACK] Null lobbies for player loggy in group survival
+[ERROR] [19/11/2026] [12:24:03] [KICK] Server survival kicked player ClownPierceBALLS for reason: Lost Connection
+[ERROR] [19/11/2026] [12:24:03] [FALLBACK] Null lobbies for player ClownPierceBALLS in group survival
+[ERROR] [19/11/2026] [12:24:03] [KICK] Server survival kicked player wsgs for reason: Lost Connection
+[ERROR] [19/11/2026] [12:24:03] [FALLBACK] Null lobbies for player wsgs in group survival
+[ERROR] [19/11/2026] [12:24:03] [KICK] Server survival kicked player ShadowZ for reason: Lost Connection
+[ERROR] [19/11/2026] [12:24:03] [FALLBACK] Null lobbies for player ShadowZ in group survival
+[ERROR] [19/11/2026] [12:24:29] [KICK] Server survival kicked player ClownPierceBALLS for reason: Lost Connection
+[ERROR] [19/11/2026] [12:24:29] [FALLBACK] Null lobbies for player ClownPierceBALLS in group survival
+[ERROR] [19/11/2026] [12:24:30] [KICK] Server survival kicked player wsgs for reason: Lost Connection
+[ERROR] [19/11/2026] [12:24:30] [FALLBACK] Null lobbies for player wsgs in group survival
+[ERROR] [19/11/2026] [12:25:06] [KICK] Server survival kicked player wsgs for reason: Lost Connection
+[ERROR] [19/11/2026] [12:25:06] [FALLBACK] Null lobbies for player wsgs in group survival
+[ERROR] [19/11/2026] [12:25:17] [KICK] Server survival kicked player ClownPierceBALLS for reason: Lost Connection
+[ERROR] [19/11/2026] [12:25:17] [FALLBACK] Null lobbies for player ClownPierceBALLS in group survival
+[ERROR] [19/11/2026] [12:25:46] [KICK] Server survival kicked player ClownPierceBALLS for reason: Lost Connection
+[ERROR] [19/11/2026] [12:25:46] [FALLBACK] Null lobbies for player ClownPierceBALLS in group survival
+[ERROR] [19/11/2026] [12:25:59] [KICK] Server survival kicked player AgentSlicky4 for reason: Lost Connection
+[ERROR] [19/11/2026] [12:25:59] [FALLBACK] Null lobbies for player AgentSlicky4 in group survival
+[ERROR] [19/11/2026] [12:26:05] [KICK] Server survival kicked player wsgs for reason: Lost Connection
+[ERROR] [19/11/2026] [12:26:05] [FALLBACK] Null lobbies for player wsgs in group survival
+[ERROR] [19/11/2026] [12:26:34] [KICK] Server survival kicked player ClownPierceBALLS for reason: Lost Connection
+[ERROR] [19/11/2026] [12:26:34] [FALLBACK] Null lobbies for player ClownPierceBALLS in group survival
+[ERROR] [19/11/2026] [12:27:07] [KICK] Server survival kicked player ClownPierceBALLS for reason: Lost Connection
+[ERROR] [19/11/2026] [12:27:07] [FALLBACK] Null lobbies for player ClownPierceBALLS in group survival
+[ERROR] [19/11/2026] [12:28:10] [KICK] Server survival kicked player wsgs for reason: Lost Connection
+[ERROR] [19/11/2026] [12:28:10] [FALLBACK] Null lobbies for player wsgs in group survival
+[ERROR] [19/11/2026] [12:48:23] [KICK] Server survival kicked player JumperWhos for reason: You are banned from this server. Reason: The Ban Hammer has spoken!
+[ERROR] [19/11/2026] [13:11:36] [KICK] Server survival kicked player VXXDmc for reason: disconnect.timeout
+[ERROR] [19/11/2026] [13:11:36] [FALLBACK] Null lobbies for player VXXDmc in group survival
+[ERROR] [19/11/2026] [13:22:28] [KICK] Server survival kicked player Speedy12Hanford for reason: velocity.error.internal-server-connection-error
+[ERROR] [19/11/2026] [13:22:28] [FALLBACK] Null lobbies for player Speedy12Hanford in group survival
+[ERROR] [19/11/2026] [13:22:38] [KICK] Server survival kicked player Youssef_jooYT for reason: velocity.error.internal-server-connection-error
+[ERROR] [19/11/2026] [13:22:38] [FALLBACK] Null lobbies for player Youssef_jooYT in group survival
+[ERROR] [19/11/2026] [13:27:25] [KICK] Server survival kicked player mr_hacker for reason: Lost Connection
+[ERROR] [19/11/2026] [13:27:25] [FALLBACK] Null lobbies for player mr_hacker in group survival
+[ERROR] [19/11/2026] [13:28:19] [KICK] Server survival kicked player Maccemon for reason: Lost Connection
+[ERROR] [19/11/2026] [13:28:19] [FALLBACK] Null lobbies for player Maccemon in group survival
+[ERROR] [19/11/2026] [13:29:15] [KICK] Server survival kicked player Wajiema for reason: Lost Connection
+[ERROR] [19/11/2026] [13:29:15] [FALLBACK] Null lobbies for player Wajiema in group survival
+[ERROR] [19/11/2026] [13:29:24] [KICK] Server survival kicked player TopUser6325 for reason: Lost Connection
+[ERROR] [19/11/2026] [13:29:24] [FALLBACK] Null lobbies for player TopUser6325 in group survival
+[ERROR] [19/11/2026] [13:31:43] [KICK] Server survival kicked player superya122527 for reason: Lost Connection
+[ERROR] [19/11/2026] [13:31:43] [FALLBACK] Null lobbies for player superya122527 in group survival
+[ERROR] [19/11/2026] [13:31:49] [KICK] Server survival kicked player superya122527 for reason: Lost Connection
+[ERROR] [19/11/2026] [13:31:49] [FALLBACK] Null lobbies for player superya122527 in group survival
+[ERROR] [19/11/2026] [13:33:58] [KICK] Server survival kicked player somuel for reason: Lost Connection
+[ERROR] [19/11/2026] [13:33:58] [FALLBACK] Null lobbies for player somuel in group survival
+[ERROR] [19/11/2026] [13:34:04] [KICK] Server survival kicked player somuel for reason: Lost Connection
+[ERROR] [19/11/2026] [13:34:04] [FALLBACK] Null lobbies for player somuel in group survival
+[ERROR] [19/11/2026] [13:34:11] [KICK] Server survival kicked player somuel for reason: Lost Connection
+[ERROR] [19/11/2026] [13:34:11] [FALLBACK] Null lobbies for player somuel in group survival
+[ERROR] [19/11/2026] [13:34:18] [KICK] Server survival kicked player somuel for reason: Lost Connection
+[ERROR] [19/11/2026] [13:34:18] [FALLBACK] Null lobbies for player somuel in group survival
+[ERROR] [19/11/2026] [13:34:23] [KICK] Server survival kicked player somuel for reason: Lost Connection
+[ERROR] [19/11/2026] [13:34:23] [FALLBACK] Null lobbies for player somuel in group survival
+[ERROR] [19/11/2026] [13:34:29] [KICK] Server survival kicked player somuel for reason: Lost Connection
+[ERROR] [19/11/2026] [13:34:29] [FALLBACK] Null lobbies for player somuel in group survival
+[ERROR] [19/11/2026] [13:34:36] [KICK] Server survival kicked player somuel for reason: Lost Connection
+[ERROR] [19/11/2026] [13:34:36] [FALLBACK] Null lobbies for player somuel in group survival
+[ERROR] [19/11/2026] [13:34:41] [KICK] Server survival kicked player somuel for reason: Lost Connection
+[ERROR] [19/11/2026] [13:34:41] [FALLBACK] Null lobbies for player somuel in group survival
+[ERROR] [19/11/2026] [13:34:45] [KICK] Server survival kicked player somuel for reason: Lost Connection
+[ERROR] [19/11/2026] [13:34:45] [FALLBACK] Null lobbies for player somuel in group survival
+[ERROR] [19/11/2026] [13:34:49] [KICK] Server survival kicked player somuel for reason: Lost Connection
+[ERROR] [19/11/2026] [13:34:49] [FALLBACK] Null lobbies for player somuel in group survival
+[ERROR] [19/11/2026] [13:34:53] [KICK] Server survival kicked player somuel for reason: Lost Connection
+[ERROR] [19/11/2026] [13:34:53] [FALLBACK] Null lobbies for player somuel in group survival
+[ERROR] [19/11/2026] [13:34:54] [KICK] Server survival kicked player CyberAssasinXD for reason: Lost Connection
+[ERROR] [19/11/2026] [13:34:54] [FALLBACK] Null lobbies for player CyberAssasinXD in group survival
+[ERROR] [19/11/2026] [13:40:28] [KICK] Server survival kicked player hellogive for reason: Lost Connection
+[ERROR] [19/11/2026] [13:40:28] [FALLBACK] Null lobbies for player hellogive in group survival
+[ERROR] [19/11/2026] [13:44:03] [KICK] Server survival kicked player mrgreen74 for reason: Lost Connection
+[ERROR] [19/11/2026] [13:44:03] [FALLBACK] Null lobbies for player mrgreen74 in group survival
+[ERROR] [19/11/2026] [13:47:35] [KICK] Server survival kicked player knightblue_5610 for reason: Lost Connection
+[ERROR] [19/11/2026] [13:47:35] [FALLBACK] Null lobbies for player knightblue_5610 in group survival
+[ERROR] [19/11/2026] [13:48:00] [KICK] Server survival kicked player EhhZjPwBtJ for reason: Lost Connection
+[ERROR] [19/11/2026] [13:48:00] [FALLBACK] Null lobbies for player EhhZjPwBtJ in group survival
+[ERROR] [19/11/2026] [13:48:03] [KICK] Server survival kicked player EhhZjPwBtJ for reason: Lost Connection
+[ERROR] [19/11/2026] [13:48:03] [FALLBACK] Null lobbies for player EhhZjPwBtJ in group survival
+[ERROR] [19/11/2026] [13:48:10] [KICK] Server survival kicked player EhhZjPwBtJ for reason: Lost Connection
+[ERROR] [19/11/2026] [13:48:10] [FALLBACK] Null lobbies for player EhhZjPwBtJ in group survival
+[ERROR] [19/11/2026] [13:48:19] [KICK] Server survival kicked player Blitzpfote for reason: Lost Connection
+[ERROR] [19/11/2026] [13:48:19] [FALLBACK] Null lobbies for player Blitzpfote in group survival
+[ERROR] [19/11/2026] [13:52:07] [KICK] Server survival kicked player Blitzpfote for reason: Lost Connection
+[ERROR] [19/11/2026] [13:52:07] [FALLBACK] Null lobbies for player Blitzpfote in group survival
+[ERROR] [19/11/2026] [13:56:40] [KICK] Server survival kicked player HHjonkler for reason: Lost Connection
+[ERROR] [19/11/2026] [13:56:40] [FALLBACK] Null lobbies for player HHjonkler in group survival
+[ERROR] [19/11/2026] [14:01:22] [KICK] Server survival kicked player ViggYeeish904 for reason: Lost Connection
+[ERROR] [19/11/2026] [14:01:22] [FALLBACK] Null lobbies for player ViggYeeish904 in group survival
+[ERROR] [19/11/2026] [14:03:01] [KICK] Server survival kicked player skellyboi for reason: Lost Connection
+[ERROR] [19/11/2026] [14:03:01] [FALLBACK] Null lobbies for player skellyboi in group survival
+[ERROR] [19/11/2026] [14:03:01] [KICK] Server survival kicked player somuel for reason: Lost Connection
+[ERROR] [19/11/2026] [14:03:01] [FALLBACK] Null lobbies for player somuel in group survival
+[ERROR] [19/11/2026] [14:03:05] [KICK] Server survival kicked player skellyboi for reason: Lost Connection
+[ERROR] [19/11/2026] [14:03:05] [FALLBACK] Null lobbies for player skellyboi in group survival
+[ERROR] [19/11/2026] [14:03:08] [KICK] Server survival kicked player SURYA for reason: Lost Connection
+[ERROR] [19/11/2026] [14:03:08] [FALLBACK] Null lobbies for player SURYA in group survival
+[ERROR] [19/11/2026] [14:03:11] [KICK] Server survival kicked player skellyboi for reason: Lost Connection
+[ERROR] [19/11/2026] [14:03:11] [FALLBACK] Null lobbies for player skellyboi in group survival
+[ERROR] [19/11/2026] [14:03:17] [KICK] Server survival kicked player skellyboi for reason: Lost Connection
+[ERROR] [19/11/2026] [14:03:17] [FALLBACK] Null lobbies for player skellyboi in group survival
+[ERROR] [19/11/2026] [14:04:14] [KICK] Server survival kicked player somuel for reason: Lost Connection
+[ERROR] [19/11/2026] [14:04:14] [FALLBACK] Null lobbies for player somuel in group survival
+[ERROR] [19/11/2026] [14:06:08] [KICK] Server survival kicked player somuel for reason: Lost Connection
+[ERROR] [19/11/2026] [14:06:08] [FALLBACK] Null lobbies for player somuel in group survival
+[ERROR] [19/11/2026] [14:06:59] [KICK] Server survival kicked player SURYA for reason: Lost Connection
+[ERROR] [19/11/2026] [14:06:59] [FALLBACK] Null lobbies for player SURYA in group survival
+[ERROR] [19/11/2026] [14:09:35] [KICK] Server survival kicked player efdf for reason: Lost Connection
+[ERROR] [19/11/2026] [14:09:35] [FALLBACK] Null lobbies for player efdf in group survival
+[ERROR] [19/11/2026] [14:10:00] [KICK] Server survival kicked player somuel for reason: Lost Connection
+[ERROR] [19/11/2026] [14:10:00] [FALLBACK] Null lobbies for player somuel in group survival
+[ERROR] [19/11/2026] [14:10:06] [KICK] Server survival kicked player somuel for reason: Lost Connection
+[ERROR] [19/11/2026] [14:10:06] [FALLBACK] Null lobbies for player somuel in group survival
+[ERROR] [19/11/2026] [14:10:11] [KICK] Server survival kicked player somuel for reason: Lost Connection
+[ERROR] [19/11/2026] [14:10:11] [FALLBACK] Null lobbies for player somuel in group survival
+[ERROR] [19/11/2026] [14:10:15] [KICK] Server survival kicked player somuel for reason: Lost Connection
+[ERROR] [19/11/2026] [14:10:15] [FALLBACK] Null lobbies for player somuel in group survival
+[ERROR] [19/11/2026] [14:10:18] [KICK] Server survival kicked player somuel for reason: Lost Connection
+[ERROR] [19/11/2026] [14:10:18] [FALLBACK] Null lobbies for player somuel in group survival
+[ERROR] [19/11/2026] [14:10:21] [KICK] Server survival kicked player somuel for reason: Lost Connection
+[ERROR] [19/11/2026] [14:10:21] [FALLBACK] Null lobbies for player somuel in group survival
+[ERROR] [19/11/2026] [14:10:23] [KICK] Server survival kicked player somuel for reason: Lost Connection
+[ERROR] [19/11/2026] [14:10:23] [FALLBACK] Null lobbies for player somuel in group survival
+[ERROR] [19/11/2026] [14:10:26] [KICK] Server survival kicked player somuel for reason: Lost Connection
+[ERROR] [19/11/2026] [14:10:26] [FALLBACK] Null lobbies for player somuel in group survival
+[ERROR] [19/11/2026] [14:10:28] [KICK] Server survival kicked player somuel for reason: Lost Connection
+[ERROR] [19/11/2026] [14:10:28] [FALLBACK] Null lobbies for player somuel in group survival
+[ERROR] [19/11/2026] [14:15:40] [KICK] Server survival kicked player somuel for reason: Lost Connection
+[ERROR] [19/11/2026] [14:15:40] [FALLBACK] Null lobbies for player somuel in group survival
+[ERROR] [19/11/2026] [14:15:52] [KICK] Server survival kicked player somuel for reason: Lost Connection
+[ERROR] [19/11/2026] [14:15:52] [FALLBACK] Null lobbies for player somuel in group survival
+[ERROR] [19/11/2026] [14:17:01] [KICK] Server survival kicked player CyberAssasinXD for reason: Lost Connection
+[ERROR] [19/11/2026] [14:17:01] [FALLBACK] Null lobbies for player CyberAssasinXD in group survival
+[ERROR] [19/11/2026] [14:21:04] [KICK] Server survival kicked player Moneypig for reason: Lost Connection
+[ERROR] [19/11/2026] [14:21:04] [FALLBACK] Null lobbies for player Moneypig in group survival
+[ERROR] [19/11/2026] [14:21:35] [KICK] Server survival kicked player xXTheLightXx for reason: Lost Connection
+[ERROR] [19/11/2026] [14:21:35] [FALLBACK] Null lobbies for player xXTheLightXx in group survival
+[ERROR] [19/11/2026] [14:24:45] [KICK] Server survival kicked player Guest_4504172 for reason: Lost Connection
+[ERROR] [19/11/2026] [14:24:45] [FALLBACK] Null lobbies for player Guest_4504172 in group survival
+[ERROR] [19/11/2026] [14:28:13] [KICK] Server survival kicked player ______smf_wemmbu for reason: Lost Connection
+[ERROR] [19/11/2026] [14:28:13] [FALLBACK] Null lobbies for player ______smf_wemmbu in group survival
+[ERROR] [19/11/2026] [14:28:22] [KICK] Server survival kicked player ______smf_wemmbu for reason: Lost Connection
+[ERROR] [19/11/2026] [14:28:22] [FALLBACK] Null lobbies for player ______smf_wemmbu in group survival
+[ERROR] [19/11/2026] [14:28:29] [KICK] Server survival kicked player ______smf_wemmbu for reason: Lost Connection
+[ERROR] [19/11/2026] [14:28:29] [FALLBACK] Null lobbies for player ______smf_wemmbu in group survival
+[ERROR] [19/11/2026] [14:33:56] [KICK] Server survival kicked player bihari_boy for reason: Lost Connection
+[ERROR] [19/11/2026] [14:33:56] [FALLBACK] Null lobbies for player bihari_boy in group survival
+[ERROR] [19/11/2026] [14:34:22] [KICK] Server survival kicked player bihari_boy for reason: Lost Connection
+[ERROR] [19/11/2026] [14:34:22] [FALLBACK] Null lobbies for player bihari_boy in group survival
+[ERROR] [19/11/2026] [14:39:21] [KICK] Server survival kicked player bihari_boy for reason: Lost Connection
+[ERROR] [19/11/2026] [14:39:21] [FALLBACK] Null lobbies for player bihari_boy in group survival
+[ERROR] [19/11/2026] [14:39:31] [KICK] Server survival kicked player bihari_boy for reason: Lost Connection
+[ERROR] [19/11/2026] [14:39:31] [FALLBACK] Null lobbies for player bihari_boy in group survival
+[ERROR] [19/11/2026] [14:39:43] [KICK] Server survival kicked player bihari_boy for reason: Lost Connection
+[ERROR] [19/11/2026] [14:39:43] [FALLBACK] Null lobbies for player bihari_boy in group survival
+[ERROR] [19/11/2026] [14:39:52] [KICK] Server survival kicked player bihari_boy for reason: Lost Connection
+[ERROR] [19/11/2026] [14:39:52] [FALLBACK] Null lobbies for player bihari_boy in group survival
+[ERROR] [19/11/2026] [14:43:10] [KICK] Server survival kicked player skellyboi for reason: Lost Connection
+[ERROR] [19/11/2026] [14:43:10] [FALLBACK] Null lobbies for player skellyboi in group survival
+[ERROR] [19/11/2026] [14:50:02] [KICK] Server survival kicked player Dr_icecream23 for reason: Lost Connection
+[ERROR] [19/11/2026] [14:50:02] [FALLBACK] Null lobbies for player Dr_icecream23 in group survival
+[ERROR] [19/11/2026] [14:51:13] [KICK] Server survival kicked player TopUser6325 for reason: Lost Connection
+[ERROR] [19/11/2026] [14:51:13] [FALLBACK] Null lobbies for player TopUser6325 in group survival
+[ERROR] [19/11/2026] [14:52:06] [KICK] Server survival kicked player EthanPLAYZ for reason: Lost Connection
+[ERROR] [19/11/2026] [14:52:06] [FALLBACK] Null lobbies for player EthanPLAYZ in group survival
+[ERROR] [19/11/2026] [14:52:19] [KICK] Server survival kicked player EthanPLAYZ for reason: Lost Connection
+[ERROR] [19/11/2026] [14:52:19] [FALLBACK] Null lobbies for player EthanPLAYZ in group survival
+[ERROR] [19/11/2026] [14:56:22] [KICK] Server survival kicked player ArronDimondblade for reason: Lost Connection
+[ERROR] [19/11/2026] [14:56:22] [FALLBACK] Null lobbies for player ArronDimondblade in group survival
+[ERROR] [19/11/2026] [15:00:39] [KICK] Server survival kicked player itsjimmy0412 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:00:39] [FALLBACK] Null lobbies for player itsjimmy0412 in group survival
+[ERROR] [19/11/2026] [15:00:45] [KICK] Server survival kicked player itsjimmy0412 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:00:45] [FALLBACK] Null lobbies for player itsjimmy0412 in group survival
+[ERROR] [19/11/2026] [15:00:57] [KICK] Server survival kicked player itsjimmy0412 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:00:57] [FALLBACK] Null lobbies for player itsjimmy0412 in group survival
+[ERROR] [19/11/2026] [15:01:01] [KICK] Server survival kicked player itsjimmy0412 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:01:01] [FALLBACK] Null lobbies for player itsjimmy0412 in group survival
+[ERROR] [19/11/2026] [15:01:59] [KICK] Server survival kicked player Claytheman6767 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:01:59] [FALLBACK] Null lobbies for player Claytheman6767 in group survival
+[ERROR] [19/11/2026] [15:02:05] [KICK] Server survival kicked player Claytheman6767 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:02:05] [FALLBACK] Null lobbies for player Claytheman6767 in group survival
+[ERROR] [19/11/2026] [15:02:14] [KICK] Server survival kicked player Claytheman6767 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:02:14] [FALLBACK] Null lobbies for player Claytheman6767 in group survival
+[ERROR] [19/11/2026] [15:02:20] [KICK] Server survival kicked player Claytheman6767 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:02:20] [FALLBACK] Null lobbies for player Claytheman6767 in group survival
+[ERROR] [19/11/2026] [15:02:27] [KICK] Server survival kicked player Claytheman6767 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:02:27] [FALLBACK] Null lobbies for player Claytheman6767 in group survival
+[ERROR] [19/11/2026] [15:02:33] [KICK] Server survival kicked player Claytheman6767 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:02:33] [FALLBACK] Null lobbies for player Claytheman6767 in group survival
+[ERROR] [19/11/2026] [15:02:35] [KICK] Server survival kicked player nn___ for reason: Lost Connection
+[ERROR] [19/11/2026] [15:02:35] [FALLBACK] Null lobbies for player nn___ in group survival
+[ERROR] [19/11/2026] [15:02:39] [KICK] Server survival kicked player Claytheman6767 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:02:39] [FALLBACK] Null lobbies for player Claytheman6767 in group survival
+[ERROR] [19/11/2026] [15:02:45] [KICK] Server survival kicked player Claytheman6767 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:02:45] [FALLBACK] Null lobbies for player Claytheman6767 in group survival
+[ERROR] [19/11/2026] [15:02:50] [KICK] Server survival kicked player Claytheman6767 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:02:50] [FALLBACK] Null lobbies for player Claytheman6767 in group survival
+[ERROR] [19/11/2026] [15:02:57] [KICK] Server survival kicked player Claytheman6767 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:02:57] [FALLBACK] Null lobbies for player Claytheman6767 in group survival
+[ERROR] [19/11/2026] [15:03:04] [KICK] Server survival kicked player Claytheman6767 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:03:04] [FALLBACK] Null lobbies for player Claytheman6767 in group survival
+[ERROR] [19/11/2026] [15:08:59] [KICK] Server survival kicked player Claytheman6767 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:08:59] [FALLBACK] Null lobbies for player Claytheman6767 in group survival
+[ERROR] [19/11/2026] [15:09:05] [KICK] Server survival kicked player Claytheman6767 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:09:05] [FALLBACK] Null lobbies for player Claytheman6767 in group survival
+[ERROR] [19/11/2026] [15:09:07] [KICK] Server survival kicked player The_Kller for reason: Lost Connection
+[ERROR] [19/11/2026] [15:09:07] [FALLBACK] Null lobbies for player The_Kller in group survival
+[ERROR] [19/11/2026] [15:09:11] [KICK] Server survival kicked player Claytheman6767 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:09:11] [FALLBACK] Null lobbies for player Claytheman6767 in group survival
+[ERROR] [19/11/2026] [15:09:14] [KICK] Server survival kicked player subaru_2015 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:09:14] [FALLBACK] Null lobbies for player subaru_2015 in group survival
+[ERROR] [19/11/2026] [15:09:15] [KICK] Server survival kicked player The_Kller for reason: Lost Connection
+[ERROR] [19/11/2026] [15:09:15] [FALLBACK] Null lobbies for player The_Kller in group survival
+[ERROR] [19/11/2026] [15:09:16] [KICK] Server survival kicked player Claytheman6767 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:09:16] [FALLBACK] Null lobbies for player Claytheman6767 in group survival
+[ERROR] [19/11/2026] [15:09:22] [KICK] Server survival kicked player Claytheman6767 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:09:22] [FALLBACK] Null lobbies for player Claytheman6767 in group survival
+[ERROR] [19/11/2026] [15:09:28] [KICK] Server survival kicked player Claytheman6767 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:09:28] [FALLBACK] Null lobbies for player Claytheman6767 in group survival
+[ERROR] [19/11/2026] [15:09:34] [KICK] Server survival kicked player Claytheman6767 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:09:34] [FALLBACK] Null lobbies for player Claytheman6767 in group survival
+[ERROR] [19/11/2026] [15:09:40] [KICK] Server survival kicked player Claytheman6767 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:09:40] [FALLBACK] Null lobbies for player Claytheman6767 in group survival
+[ERROR] [19/11/2026] [15:09:46] [KICK] Server survival kicked player Claytheman6767 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:09:46] [FALLBACK] Null lobbies for player Claytheman6767 in group survival
+[ERROR] [19/11/2026] [15:09:52] [KICK] Server survival kicked player Claytheman6767 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:09:52] [FALLBACK] Null lobbies for player Claytheman6767 in group survival
+[ERROR] [19/11/2026] [15:09:58] [KICK] Server survival kicked player Claytheman6767 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:09:58] [FALLBACK] Null lobbies for player Claytheman6767 in group survival
+[ERROR] [19/11/2026] [15:10:04] [KICK] Server survival kicked player Claytheman6767 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:10:04] [FALLBACK] Null lobbies for player Claytheman6767 in group survival
+[ERROR] [19/11/2026] [15:15:40] [KICK] Server survival kicked player CyberAssasinXD for reason: Lost Connection
+[ERROR] [19/11/2026] [15:15:40] [FALLBACK] Null lobbies for player CyberAssasinXD in group survival
+[ERROR] [19/11/2026] [15:19:31] [KICK] Server survival kicked player LXL___LXL for reason: Lost Connection
+[ERROR] [19/11/2026] [15:19:31] [FALLBACK] Null lobbies for player LXL___LXL in group survival
+[ERROR] [19/11/2026] [15:20:13] [KICK] Server survival kicked player Michel123 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:20:13] [FALLBACK] Null lobbies for player Michel123 in group survival
+[ERROR] [19/11/2026] [15:20:35] [KICK] Server survival kicked player Michel123 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:20:35] [FALLBACK] Null lobbies for player Michel123 in group survival
+[ERROR] [19/11/2026] [15:21:08] [KICK] Server survival kicked player BahirMC for reason: Lost Connection
+[ERROR] [19/11/2026] [15:21:08] [FALLBACK] Null lobbies for player BahirMC in group survival
+[ERROR] [19/11/2026] [15:21:14] [KICK] Server survival kicked player BahirMC for reason: Lost Connection
+[ERROR] [19/11/2026] [15:21:14] [FALLBACK] Null lobbies for player BahirMC in group survival
+[ERROR] [19/11/2026] [15:22:15] [KICK] Server survival kicked player notplushy33 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:22:15] [FALLBACK] Null lobbies for player notplushy33 in group survival
+[ERROR] [19/11/2026] [15:22:23] [KICK] Server survival kicked player notplushy33 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:22:23] [FALLBACK] Null lobbies for player notplushy33 in group survival
+[ERROR] [19/11/2026] [15:25:41] [KICK] Server survival kicked player Claytheman6767 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:25:41] [FALLBACK] Null lobbies for player Claytheman6767 in group survival
+[ERROR] [19/11/2026] [15:25:47] [KICK] Server survival kicked player Claytheman6767 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:25:47] [FALLBACK] Null lobbies for player Claytheman6767 in group survival
+[ERROR] [19/11/2026] [15:25:53] [KICK] Server survival kicked player Claytheman6767 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:25:53] [FALLBACK] Null lobbies for player Claytheman6767 in group survival
+[ERROR] [19/11/2026] [15:26:00] [KICK] Server survival kicked player Claytheman6767 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:26:00] [FALLBACK] Null lobbies for player Claytheman6767 in group survival
+[ERROR] [19/11/2026] [15:26:06] [KICK] Server survival kicked player Claytheman6767 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:26:06] [FALLBACK] Null lobbies for player Claytheman6767 in group survival
+[ERROR] [19/11/2026] [15:26:12] [KICK] Server survival kicked player Claytheman6767 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:26:12] [FALLBACK] Null lobbies for player Claytheman6767 in group survival
+[ERROR] [19/11/2026] [15:26:19] [KICK] Server survival kicked player Claytheman6767 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:26:19] [FALLBACK] Null lobbies for player Claytheman6767 in group survival
+[ERROR] [19/11/2026] [15:26:25] [KICK] Server survival kicked player Claytheman6767 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:26:25] [FALLBACK] Null lobbies for player Claytheman6767 in group survival
+[ERROR] [19/11/2026] [15:26:30] [KICK] Server survival kicked player Claytheman6767 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:26:30] [FALLBACK] Null lobbies for player Claytheman6767 in group survival
+[ERROR] [19/11/2026] [15:26:34] [KICK] Server survival kicked player LXL___LXL for reason: Lost Connection
+[ERROR] [19/11/2026] [15:26:34] [FALLBACK] Null lobbies for player LXL___LXL in group survival
+[ERROR] [19/11/2026] [15:26:36] [KICK] Server survival kicked player Claytheman6767 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:26:36] [FALLBACK] Null lobbies for player Claytheman6767 in group survival
+[ERROR] [19/11/2026] [15:26:43] [KICK] Server survival kicked player Claytheman6767 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:26:43] [FALLBACK] Null lobbies for player Claytheman6767 in group survival
+[ERROR] [19/11/2026] [15:27:15] [KICK] Server survival kicked player EthanPLAYZ for reason: Lost Connection
+[ERROR] [19/11/2026] [15:27:15] [FALLBACK] Null lobbies for player EthanPLAYZ in group survival
+[ERROR] [19/11/2026] [15:28:12] [KICK] Server survival kicked player SURYA for reason: Lost Connection
+[ERROR] [19/11/2026] [15:28:12] [FALLBACK] Null lobbies for player SURYA in group survival
+[ERROR] [19/11/2026] [15:28:38] [KICK] Server survival kicked player EhhZjPwBtJ for reason: Lost Connection
+[ERROR] [19/11/2026] [15:28:38] [FALLBACK] Null lobbies for player EhhZjPwBtJ in group survival
+[ERROR] [19/11/2026] [15:35:03] [KICK] Server survival kicked player gameeeeer6000 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:35:03] [FALLBACK] Null lobbies for player gameeeeer6000 in group survival
+[ERROR] [19/11/2026] [15:35:09] [KICK] Server survival kicked player gameeeeer6000 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:35:09] [FALLBACK] Null lobbies for player gameeeeer6000 in group survival
+[ERROR] [19/11/2026] [15:35:38] [KICK] Server survival kicked player NOTCH_IS_HERE for reason: Lost Connection
+[ERROR] [19/11/2026] [15:35:38] [FALLBACK] Null lobbies for player NOTCH_IS_HERE in group survival
+[ERROR] [19/11/2026] [15:35:44] [KICK] Server survival kicked player gameeeeer6000 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:35:44] [FALLBACK] Null lobbies for player gameeeeer6000 in group survival
+[ERROR] [19/11/2026] [15:48:49] [KICK] Server survival kicked player notplushy33 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:48:49] [FALLBACK] Null lobbies for player notplushy33 in group survival
+[ERROR] [19/11/2026] [15:49:50] [KICK] Server survival kicked player AdventureKid15 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:49:50] [FALLBACK] Null lobbies for player AdventureKid15 in group survival
+[ERROR] [19/11/2026] [15:50:18] [KICK] Server survival kicked player Moneypig for reason: Lost Connection
+[ERROR] [19/11/2026] [15:50:18] [FALLBACK] Null lobbies for player Moneypig in group survival
+[ERROR] [19/11/2026] [15:50:19] [KICK] Server survival kicked player ZACAR07 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:50:19] [FALLBACK] Null lobbies for player ZACAR07 in group survival
+[ERROR] [19/11/2026] [15:50:22] [KICK] Server survival kicked player Moneypig for reason: Lost Connection
+[ERROR] [19/11/2026] [15:50:22] [FALLBACK] Null lobbies for player Moneypig in group survival
+[ERROR] [19/11/2026] [15:50:26] [KICK] Server survival kicked player Moneypig for reason: Lost Connection
+[ERROR] [19/11/2026] [15:50:26] [FALLBACK] Null lobbies for player Moneypig in group survival
+[ERROR] [19/11/2026] [15:50:28] [KICK] Server survival kicked player ZACAR07 for reason: Lost Connection
+[ERROR] [19/11/2026] [15:50:28] [FALLBACK] Null lobbies for player ZACAR07 in group survival
+[ERROR] [19/11/2026] [15:50:30] [KICK] Server survival kicked player Moneypig for reason: Lost Connection
+[ERROR] [19/11/2026] [15:50:30] [FALLBACK] Null lobbies for player Moneypig in group survival
+[ERROR] [19/11/2026] [16:00:46] [KICK] Server survival kicked player somuel for reason: Lost Connection
+[ERROR] [19/11/2026] [16:00:46] [FALLBACK] Null lobbies for player somuel in group survival
+[ERROR] [19/11/2026] [16:02:41] [KICK] Server survival kicked player Ty_idk for reason: Lost Connection
+[ERROR] [19/11/2026] [16:02:41] [FALLBACK] Null lobbies for player Ty_idk in group survival
+[ERROR] [19/11/2026] [16:02:46] [KICK] Server survival kicked player Ty_idk for reason: Lost Connection
+[ERROR] [19/11/2026] [16:02:46] [FALLBACK] Null lobbies for player Ty_idk in group survival
+[ERROR] [19/11/2026] [16:03:55] [KICK] Server survival kicked player smootcook63_ for reason: Lost Connection
+[ERROR] [19/11/2026] [16:03:55] [FALLBACK] Null lobbies for player smootcook63_ in group survival
+[ERROR] [19/11/2026] [16:04:01] [KICK] Server survival kicked player smootcook63_ for reason: Lost Connection
+[ERROR] [19/11/2026] [16:04:01] [FALLBACK] Null lobbies for player smootcook63_ in group survival
+[ERROR] [19/11/2026] [16:04:15] [KICK] Server survival kicked player smootcook63_ for reason: Lost Connection
+[ERROR] [19/11/2026] [16:04:15] [FALLBACK] Null lobbies for player smootcook63_ in group survival
+[ERROR] [19/11/2026] [16:04:25] [KICK] Server survival kicked player smootcook63_ for reason: Lost Connection
+[ERROR] [19/11/2026] [16:04:25] [FALLBACK] Null lobbies for player smootcook63_ in group survival
+[ERROR] [19/11/2026] [16:04:42] [KICK] Server survival kicked player smootcook63_ for reason: Lost Connection
+[ERROR] [19/11/2026] [16:04:42] [FALLBACK] Null lobbies for player smootcook63_ in group survival
+[ERROR] [19/11/2026] [16:06:08] [KICK] Server survival kicked player YEETus5454493 for reason: Lost Connection
+[ERROR] [19/11/2026] [16:06:08] [FALLBACK] Null lobbies for player YEETus5454493 in group survival
+[ERROR] [19/11/2026] [16:06:14] [KICK] Server survival kicked player YEETus5454493 for reason: Lost Connection
+[ERROR] [19/11/2026] [16:06:14] [FALLBACK] Null lobbies for player YEETus5454493 in group survival
+[ERROR] [19/11/2026] [16:06:20] [KICK] Server survival kicked player YEETus5454493 for reason: Lost Connection
+[ERROR] [19/11/2026] [16:06:20] [FALLBACK] Null lobbies for player YEETus5454493 in group survival
+[ERROR] [19/11/2026] [16:06:33] [KICK] Server survival kicked player YEETus5454493 for reason: Lost Connection
+[ERROR] [19/11/2026] [16:06:33] [FALLBACK] Null lobbies for player YEETus5454493 in group survival
+[ERROR] [19/11/2026] [16:06:41] [KICK] Server survival kicked player YEETus5454493 for reason: Lost Connection
+[ERROR] [19/11/2026] [16:06:41] [FALLBACK] Null lobbies for player YEETus5454493 in group survival
+[ERROR] [19/11/2026] [16:06:53] [KICK] Server survival kicked player YEETus5454493 for reason: Lost Connection
+[ERROR] [19/11/2026] [16:06:53] [FALLBACK] Null lobbies for player YEETus5454493 in group survival
+[ERROR] [19/11/2026] [16:09:30] [KICK] Server survival kicked player Sir_Reginald9999 for reason: Lost Connection
+[ERROR] [19/11/2026] [16:09:30] [FALLBACK] Null lobbies for player Sir_Reginald9999 in group survival
+[ERROR] [19/11/2026] [16:09:38] [KICK] Server survival kicked player Sir_Reginald9999 for reason: Lost Connection
+[ERROR] [19/11/2026] [16:09:38] [FALLBACK] Null lobbies for player Sir_Reginald9999 in group survival
+[ERROR] [19/11/2026] [16:12:25] [KICK] Server survival kicked player BreadyMC for reason: Lost Connection
+[ERROR] [19/11/2026] [16:12:25] [FALLBACK] Null lobbies for player BreadyMC in group survival
+[ERROR] [19/11/2026] [16:12:33] [KICK] Server survival kicked player BreadyMC for reason: Lost Connection
+[ERROR] [19/11/2026] [16:12:33] [FALLBACK] Null lobbies for player BreadyMC in group survival
+[ERROR] [19/11/2026] [16:13:27] [KICK] Server survival kicked player liam_22334 for reason: Lost Connection
+[ERROR] [19/11/2026] [16:13:27] [FALLBACK] Null lobbies for player liam_22334 in group survival
+[ERROR] [19/11/2026] [16:16:10] [KICK] Server survival kicked player the_god for reason: Lost Connection
+[ERROR] [19/11/2026] [16:16:10] [FALLBACK] Null lobbies for player the_god in group survival
+[ERROR] [19/11/2026] [16:27:02] [KICK] Server survival kicked player BreadyMC for reason: Lost Connection
+[ERROR] [19/11/2026] [16:27:02] [FALLBACK] Null lobbies for player BreadyMC in group survival
+[ERROR] [19/11/2026] [16:28:29] [KICK] Server survival kicked player VoolDeev2457 for reason: Lost Connection
+[ERROR] [19/11/2026] [16:28:29] [FALLBACK] Null lobbies for player VoolDeev2457 in group survival
+[ERROR] [19/11/2026] [16:28:35] [KICK] Server survival kicked player VoolDeev2457 for reason: Lost Connection
+[ERROR] [19/11/2026] [16:28:35] [FALLBACK] Null lobbies for player VoolDeev2457 in group survival
+[ERROR] [19/11/2026] [16:28:40] [KICK] Server survival kicked player VoolDeev2457 for reason: Lost Connection
+[ERROR] [19/11/2026] [16:28:40] [FALLBACK] Null lobbies for player VoolDeev2457 in group survival
+[ERROR] [19/11/2026] [16:28:44] [KICK] Server survival kicked player game_on for reason: Lost Connection
+[ERROR] [19/11/2026] [16:28:44] [FALLBACK] Null lobbies for player game_on in group survival
+[ERROR] [19/11/2026] [16:28:48] [KICK] Server survival kicked player VoolDeev2457 for reason: Lost Connection
+[ERROR] [19/11/2026] [16:28:48] [FALLBACK] Null lobbies for player VoolDeev2457 in group survival
+[ERROR] [19/11/2026] [16:28:52] [KICK] Server survival kicked player game_on for reason: Lost Connection
+[ERROR] [19/11/2026] [16:28:52] [FALLBACK] Null lobbies for player game_on in group survival
+[ERROR] [19/11/2026] [16:28:59] [KICK] Server survival kicked player game_on for reason: Lost Connection
+[ERROR] [19/11/2026] [16:28:59] [FALLBACK] Null lobbies for player game_on in group survival
+[ERROR] [19/11/2026] [16:29:36] [KICK] Server survival kicked player brother_this_guy for reason: Lost Connection
+[ERROR] [19/11/2026] [16:29:36] [FALLBACK] Null lobbies for player brother_this_guy in group survival
+[ERROR] [19/11/2026] [16:31:27] [KICK] Server survival kicked player VoolDeev245 for reason: Lost Connection
+[ERROR] [19/11/2026] [16:31:27] [FALLBACK] Null lobbies for player VoolDeev245 in group survival
+[ERROR] [19/11/2026] [16:31:32] [KICK] Server survival kicked player VoolDeev245 for reason: Lost Connection
+[ERROR] [19/11/2026] [16:31:32] [FALLBACK] Null lobbies for player VoolDeev245 in group survival
+[ERROR] [19/11/2026] [16:31:38] [KICK] Server survival kicked player VoolDeev245 for reason: Lost Connection
+[ERROR] [19/11/2026] [16:31:38] [FALLBACK] Null lobbies for player VoolDeev245 in group survival
+[ERROR] [19/11/2026] [16:31:55] [KICK] Server survival kicked player Notch_is_here for reason: Lost Connection
+[ERROR] [19/11/2026] [16:31:55] [FALLBACK] Null lobbies for player Notch_is_here in group survival
+[ERROR] [19/11/2026] [16:38:07] [KICK] Server survival kicked player YiggYeeg267__ for reason: Lost Connection
+[ERROR] [19/11/2026] [16:38:07] [FALLBACK] Null lobbies for player YiggYeeg267__ in group survival
+[ERROR] [19/11/2026] [16:38:15] [KICK] Server survival kicked player BahirMC for reason: Lost Connection
+[ERROR] [19/11/2026] [16:38:15] [FALLBACK] Null lobbies for player BahirMC in group survival
+[ERROR] [19/11/2026] [16:39:37] [KICK] Server survival kicked player Leon9767 for reason: Lost Connection
+[ERROR] [19/11/2026] [16:39:37] [FALLBACK] Null lobbies for player Leon9767 in group survival
+[ERROR] [19/11/2026] [16:41:44] [KICK] Server survival kicked player klplays8091_ for reason: Lost Connection
+[ERROR] [19/11/2026] [16:41:44] [FALLBACK] Null lobbies for player klplays8091_ in group survival
+[ERROR] [19/11/2026] [16:41:49] [KICK] Server survival kicked player klplays8091_ for reason: Lost Connection
+[ERROR] [19/11/2026] [16:41:49] [FALLBACK] Null lobbies for player klplays8091_ in group survival
+[ERROR] [19/11/2026] [16:42:15] [KICK] Server survival kicked player klplays8091_ for reason: Lost Connection
+[ERROR] [19/11/2026] [16:42:15] [FALLBACK] Null lobbies for player klplays8091_ in group survival
+[ERROR] [19/11/2026] [16:43:20] [KICK] Server survival kicked player klplays8091_ for reason: Lost Connection
+[ERROR] [19/11/2026] [16:43:20] [FALLBACK] Null lobbies for player klplays8091_ in group survival
+[ERROR] [19/11/2026] [16:45:18] [KICK] Server survival kicked player jayjay2222 for reason: Lost Connection
+[ERROR] [19/11/2026] [16:45:18] [FALLBACK] Null lobbies for player jayjay2222 in group survival
+[ERROR] [19/11/2026] [16:45:25] [KICK] Server survival kicked player jayjay2222 for reason: Lost Connection
+[ERROR] [19/11/2026] [16:45:25] [FALLBACK] Null lobbies for player jayjay2222 in group survival
+[ERROR] [19/11/2026] [16:45:38] [KICK] Server survival kicked player jayjay2222 for reason: Lost Connection
+[ERROR] [19/11/2026] [16:45:38] [FALLBACK] Null lobbies for player jayjay2222 in group survival
+[ERROR] [19/11/2026] [16:45:47] [KICK] Server survival kicked player gameeeeer6000 for reason: Lost Connection
+[ERROR] [19/11/2026] [16:45:47] [FALLBACK] Null lobbies for player gameeeeer6000 in group survival
+[ERROR] [19/11/2026] [16:45:53] [KICK] Server survival kicked player gameeeeer6000 for reason: Lost Connection
+[ERROR] [19/11/2026] [16:45:53] [FALLBACK] Null lobbies for player gameeeeer6000 in group survival
+[ERROR] [19/11/2026] [16:54:18] [KICK] Server survival kicked player gameeeeer6000 for reason: Lost Connection
+[ERROR] [19/11/2026] [16:54:18] [FALLBACK] Null lobbies for player gameeeeer6000 in group survival
+[ERROR] [19/11/2026] [16:54:53] [KICK] Server survival kicked player gameeeeer6000 for reason: Lost Connection
+[ERROR] [19/11/2026] [16:54:53] [FALLBACK] Null lobbies for player gameeeeer6000 in group survival
+[ERROR] [19/11/2026] [16:54:58] [KICK] Server survival kicked player gameeeeer6000 for reason: Lost Connection
+[ERROR] [19/11/2026] [16:54:58] [FALLBACK] Null lobbies for player gameeeeer6000 in group survival
+[ERROR] [19/11/2026] [16:56:06] [KICK] Server survival kicked player Captain_Rexy for reason: Lost Connection
+[ERROR] [19/11/2026] [16:56:06] [FALLBACK] Null lobbies for player Captain_Rexy in group survival
+[ERROR] [19/11/2026] [17:00:21] [KICK] Server survival kicked player gameeeeer60000 for reason: Lost Connection
+[ERROR] [19/11/2026] [17:00:21] [FALLBACK] Null lobbies for player gameeeeer60000 in group survival
+[ERROR] [19/11/2026] [17:21:19] [KICK] Server survival kicked player h3llabyss5115 for reason: Lost Connection
+[ERROR] [19/11/2026] [17:21:19] [FALLBACK] Null lobbies for player h3llabyss5115 in group survival
+[ERROR] [19/11/2026] [17:21:24] [KICK] Server survival kicked player h3llabyss5115 for reason: Lost Connection
+[ERROR] [19/11/2026] [17:21:24] [FALLBACK] Null lobbies for player h3llabyss5115 in group survival
+[ERROR] [19/11/2026] [17:22:15] [KICK] Server survival kicked player h3llabyss5115 for reason: Lost Connection
+[ERROR] [19/11/2026] [17:22:15] [FALLBACK] Null lobbies for player h3llabyss5115 in group survival
+[ERROR] [19/11/2026] [17:22:29] [KICK] Server survival kicked player Herman_the_goat_ for reason: Lost Connection
+[ERROR] [19/11/2026] [17:22:29] [FALLBACK] Null lobbies for player Herman_the_goat_ in group survival
+[ERROR] [19/11/2026] [17:22:35] [KICK] Server survival kicked player AdamKB for reason: Lost Connection
+[ERROR] [19/11/2026] [17:22:35] [FALLBACK] Null lobbies for player AdamKB in group survival
+[ERROR] [19/11/2026] [17:22:40] [KICK] Server survival kicked player AdamKB for reason: Lost Connection
+[ERROR] [19/11/2026] [17:22:40] [FALLBACK] Null lobbies for player AdamKB in group survival
+[ERROR] [19/11/2026] [17:22:51] [KICK] Server survival kicked player smootcook63_ for reason: Lost Connection
+[ERROR] [19/11/2026] [17:22:51] [FALLBACK] Null lobbies for player smootcook63_ in group survival
+[ERROR] [19/11/2026] [17:23:06] [KICK] Server survival kicked player h3llabyss5115 for reason: Lost Connection
+[ERROR] [19/11/2026] [17:23:06] [FALLBACK] Null lobbies for player h3llabyss5115 in group survival
+[ERROR] [19/11/2026] [17:23:11] [KICK] Server survival kicked player h3llabyss5115 for reason: Lost Connection
+[ERROR] [19/11/2026] [17:23:11] [FALLBACK] Null lobbies for player h3llabyss5115 in group survival
+[ERROR] [19/11/2026] [17:23:42] [KICK] Server survival kicked player Moneypig for reason: Lost Connection
+[ERROR] [19/11/2026] [17:23:42] [FALLBACK] Null lobbies for player Moneypig in group survival
+[ERROR] [19/11/2026] [17:28:20] [KICK] Server survival kicked player Mudams for reason: Lost Connection
+[ERROR] [19/11/2026] [17:28:20] [FALLBACK] Null lobbies for player Mudams in group survival
+[ERROR] [19/11/2026] [17:28:31] [KICK] Server survival kicked player Mudams for reason: Lost Connection
+[ERROR] [19/11/2026] [17:28:31] [FALLBACK] Null lobbies for player Mudams in group survival
+[ERROR] [19/11/2026] [17:32:25] [KICK] Server survival kicked player YukiTheMC for reason: Lost Connection
+[ERROR] [19/11/2026] [17:32:25] [FALLBACK] Null lobbies for player YukiTheMC in group survival
+[ERROR] [19/11/2026] [17:50:43] [KICK] Server survival kicked player Wsg for reason: Lost Connection
+[ERROR] [19/11/2026] [17:50:43] [FALLBACK] Null lobbies for player Wsg in group survival
+[ERROR] [19/11/2026] [17:51:19] [KICK] Server survival kicked player SURYA for reason: Lost Connection
+[ERROR] [19/11/2026] [17:51:19] [FALLBACK] Null lobbies for player SURYA in group survival
+[ERROR] [19/11/2026] [18:13:42] [KICK] Server survival kicked player somuel for reason: Lost Connection
+[ERROR] [19/11/2026] [18:13:42] [FALLBACK] Null lobbies for player somuel in group survival
+[ERROR] [19/11/2026] [19:25:39] [KICK] Server survival kicked player Dr_icecream23 for reason: Lost Connection
+[ERROR] [19/11/2026] [19:25:39] [FALLBACK] Null lobbies for player Dr_icecream23 in group survival
+[ERROR] [19/11/2026] [19:35:56] [KICK] Server survival kicked player Siuuu for reason: Lost Connection
+[ERROR] [19/11/2026] [19:35:56] [FALLBACK] Null lobbies for player Siuuu in group survival
+[ERROR] [19/11/2026] [19:38:12] [KICK] Server survival kicked player Speedy12Hanford for reason: Lost Connection
+[ERROR] [19/11/2026] [19:38:12] [FALLBACK] Null lobbies for player Speedy12Hanford in group survival
+[ERROR] [19/11/2026] [19:46:46] [KICK] Server survival kicked player respanda_ for reason: Lost Connection
+[ERROR] [19/11/2026] [19:46:46] [FALLBACK] Null lobbies for player respanda_ in group survival
+[ERROR] [19/11/2026] [19:52:56] [KICK] Server survival kicked player Nova__ for reason: Lost Connection
+[ERROR] [19/11/2026] [19:52:56] [FALLBACK] Null lobbies for player Nova__ in group survival
+[ERROR] [19/11/2026] [19:53:24] [KICK] Server survival kicked player Nova__ for reason: Lost Connection
+[ERROR] [19/11/2026] [19:53:24] [FALLBACK] Null lobbies for player Nova__ in group survival
+[ERROR] [19/11/2026] [20:44:34] [KICK] Server survival kicked player Balahlah0 for reason: Lost Connection
+[ERROR] [19/11/2026] [20:44:34] [FALLBACK] Null lobbies for player Balahlah0 in group survival
+[ERROR] [19/11/2026] [20:46:15] [KICK] Server survival kicked player Wsg for reason: Lost Connection
+[ERROR] [19/11/2026] [20:46:15] [FALLBACK] Null lobbies for player Wsg in group survival
+[ERROR] [19/11/2026] [20:54:17] [KICK] Server survival kicked player YukiTheMC for reason: Lost Connection
+[ERROR] [19/11/2026] [20:54:17] [FALLBACK] Null lobbies for player YukiTheMC in group survival
+[ERROR] [19/11/2026] [20:57:16] [KICK] Server survival kicked player Master_Black for reason: Lost Connection
+[ERROR] [19/11/2026] [20:57:16] [FALLBACK] Null lobbies for player Master_Black in group survival
+[ERROR] [19/11/2026] [20:58:18] [KICK] Server survival kicked player IrateTunic for reason: Lost Connection
+[ERROR] [19/11/2026] [20:58:18] [FALLBACK] Null lobbies for player IrateTunic in group survival
+[ERROR] [19/11/2026] [20:58:21] [KICK] Server survival kicked player Master_BlackAlt for reason: Lost Connection
+[ERROR] [19/11/2026] [20:58:21] [FALLBACK] Null lobbies for player Master_BlackAlt in group survival
+[ERROR] [19/11/2026] [21:10:08] [KICK] Server survival kicked player Master_BlackAlt for reason: Lost Connection
+[ERROR] [19/11/2026] [21:10:08] [FALLBACK] Null lobbies for player Master_BlackAlt in group survival
+[ERROR] [19/11/2026] [21:22:00] [KICK] Server survival kicked player Mojang_Studio999 for reason: Lost Connection
+[ERROR] [19/11/2026] [21:22:00] [FALLBACK] Null lobbies for player Mojang_Studio999 in group survival
+[ERROR] [19/11/2026] [21:22:04] [KICK] Server survival kicked player charlottee for reason: Lost Connection
+[ERROR] [19/11/2026] [21:22:04] [FALLBACK] Null lobbies for player charlottee in group survival
+[ERROR] [19/11/2026] [21:23:11] [KICK] Server survival kicked player charlottee for reason: Lost Connection
+[ERROR] [19/11/2026] [21:23:11] [FALLBACK] Null lobbies for player charlottee in group survival
+[ERROR] [19/11/2026] [21:32:19] [KICK] Server survival kicked player smootcook63_ for reason: Lost Connection
+[ERROR] [19/11/2026] [21:32:19] [FALLBACK] Null lobbies for player smootcook63_ in group survival
+[ERROR] [19/11/2026] [21:55:01] [KICK] Server survival kicked player Speedy12Hanford for reason: Lost Connection
+[ERROR] [19/11/2026] [21:55:01] [FALLBACK] Null lobbies for player Speedy12Hanford in group survival
+[ERROR] [19/11/2026] [22:04:04] [KICK] Server survival kicked player khris89_90lug for reason: Lost Connection
+[ERROR] [19/11/2026] [22:04:04] [FALLBACK] Null lobbies for player khris89_90lug in group survival
+[ERROR] [19/11/2026] [22:43:09] [KICK] Server survival kicked player The_sus_guy for reason: Lost Connection
+[ERROR] [19/11/2026] [22:43:09] [FALLBACK] Null lobbies for player The_sus_guy in group survival
+[ERROR] [19/11/2026] [23:06:10] [KICK] Server survival kicked player somuel for reason: Lost Connection
+[ERROR] [19/11/2026] [23:06:10] [FALLBACK] Null lobbies for player somuel in group survival
+[ERROR] [19/11/2026] [23:14:46] [KICK] Server survival kicked player somuel for reason: Lost Connection
+[ERROR] [19/11/2026] [23:14:46] [FALLBACK] Null lobbies for player somuel in group survival
+[ERROR] [19/11/2026] [23:17:35] [KICK] Server survival kicked player minecraftgamer for reason: Lost Connection
+[ERROR] [19/11/2026] [23:17:35] [FALLBACK] Null lobbies for player minecraftgamer in group survival
+[ERROR] [19/11/2026] [23:18:16] [KICK] Server survival kicked player minecraftgamer for reason: Lost Connection
+[ERROR] [19/11/2026] [23:18:16] [FALLBACK] Null lobbies for player minecraftgamer in group survival
+[ERROR] [19/11/2026] [23:44:13] [KICK] Server survival kicked player JUDE_dud for reason: disconnect.timeout
+[ERROR] [19/11/2026] [23:44:13] [FALLBACK] Null lobbies for player JUDE_dud in group survival
+[ERROR] [20/11/2026] [00:16:05] [KICK] Server survival kicked player coryshot for reason: multiplayer.disconnect.flying
+[ERROR] [20/11/2026] [00:16:24] [KICK] Server survival kicked player coryshot for reason: multiplayer.disconnect.flying
+[ERROR] [20/11/2026] [00:16:38] [KICK] Server survival kicked player coryshot for reason: multiplayer.disconnect.flying
+[ERROR] [20/11/2026] [00:16:54] [KICK] Server survival kicked player coryshot for reason: multiplayer.disconnect.flying
+[ERROR] [20/11/2026] [00:17:49] [KICK] Server survival kicked player coryshot for reason: multiplayer.disconnect.flying
+[ERROR] [20/11/2026] [00:18:03] [KICK] Server survival kicked player coryshot for reason: multiplayer.disconnect.flying
+[ERROR] [20/11/2026] [00:18:16] [KICK] Server survival kicked player coryshot for reason: multiplayer.disconnect.flying
+[ERROR] [20/11/2026] [00:18:30] [KICK] Server survival kicked player coryshot for reason: multiplayer.disconnect.flying
+[ERROR] [20/11/2026] [00:19:47] [KICK] Server survival kicked player coryshot for reason: multiplayer.disconnect.flying
+[ERROR] [20/11/2026] [00:20:00] [KICK] Server survival kicked player coryshot for reason: multiplayer.disconnect.flying
+[ERROR] [20/11/2026] [00:20:15] [KICK] Server survival kicked player coryshot for reason: multiplayer.disconnect.flying
+[ERROR] [20/11/2026] [00:20:31] [KICK] Server survival kicked player coryshot for reason: multiplayer.disconnect.flying
+[ERROR] [20/11/2026] [00:20:45] [KICK] Server survival kicked player coryshot for reason: multiplayer.disconnect.flying
+[ERROR] [20/11/2026] [00:21:00] [KICK] Server survival kicked player coryshot for reason: multiplayer.disconnect.flying
+[ERROR] [20/11/2026] [00:21:14] [KICK] Server survival kicked player coryshot for reason: multiplayer.disconnect.flying
+[ERROR] [20/11/2026] [00:21:29] [KICK] Server survival kicked player coryshot for reason: multiplayer.disconnect.flying
+[ERROR] [20/11/2026] [00:21:43] [KICK] Server survival kicked player coryshot for reason: multiplayer.disconnect.flying
+[ERROR] [20/11/2026] [00:21:55] [KICK] Server survival kicked player coryshot for reason: multiplayer.disconnect.flying
+[ERROR] [20/11/2026] [00:24:38] [KICK] Server survival kicked player coryshot for reason: multiplayer.disconnect.flying
+[ERROR] [20/11/2026] [00:34:26] [KICK] Server survival kicked player Michel123 for reason: disconnect.timeout
+[ERROR] [20/11/2026] [00:34:26] [FALLBACK] Null lobbies for player Michel123 in group survival
+[ERROR] [20/11/2026] [00:36:17] [KICK] Server survival kicked player somuel for reason: disconnect.timeout
+[ERROR] [20/11/2026] [00:36:17] [FALLBACK] Null lobbies for player somuel in group survival
+[ERROR] [20/11/2026] [00:56:18] [KICK] Server survival kicked player Jimmy_101_mc for reason: disconnect.timeout
+[ERROR] [20/11/2026] [00:56:18] [FALLBACK] Null lobbies for player Jimmy_101_mc in group survival
+[ERROR] [20/11/2026] [01:10:25] [KICK] Server survival kicked player Banana_12345ALT for reason: disconnect.timeout
+[ERROR] [20/11/2026] [01:10:25] [FALLBACK] Null lobbies for player Banana_12345ALT in group survival
+[ERROR] [20/11/2026] [01:20:43] [KICK] Server survival kicked player YEETus5454493 for reason: disconnect.timeout
+[ERROR] [20/11/2026] [01:20:43] [FALLBACK] Null lobbies for player YEETus5454493 in group survival
+[ERROR] [20/11/2026] [01:59:26] [KICK] Server survival kicked player youseefii78 for reason: You have been temporarily banned for 2 hours:
+"fword"
+[ERROR] [20/11/2026] [02:00:41] [KICK] Server survival kicked player youseefii78 for reason: You are banned from this server for 1 hour 58 minutes 45 seconds. Reason: "fword"
+[ERROR] [20/11/2026] [02:00:56] [KICK] Server survival kicked player youseefii78 for reason: You are banned from this server for 1 hour 58 minutes 30 seconds. Reason: "fword"
+[ERROR] [20/11/2026] [02:01:01] [KICK] Server survival kicked player youseefii78 for reason: You are banned from this server for 1 hour 58 minutes 25 seconds. Reason: "fword"
+[ERROR] [20/11/2026] [02:18:21] [KICK] Server survival kicked player ultimatedredhead for reason: velocity.error.internal-server-connection-error
+[ERROR] [20/11/2026] [02:18:21] [FALLBACK] Null lobbies for player ultimatedredhead in group survival
+[ERROR] [20/11/2026] [02:23:18] [KICK] Server survival kicked player im_a_pro_player for reason: disconnect.timeout
+[ERROR] [20/11/2026] [02:23:18] [FALLBACK] Null lobbies for player im_a_pro_player in group survival
+[ERROR] [20/11/2026] [02:47:20] [KICK] Server survival kicked player ultimatedredhead for reason: disconnect.timeout
+[ERROR] [20/11/2026] [02:47:20] [FALLBACK] Null lobbies for player ultimatedredhead in group survival
+[ERROR] [20/11/2026] [04:00:59] [KICK] Server survival kicked player DrDonut for reason: disconnect.timeout
+[ERROR] [20/11/2026] [04:00:59] [FALLBACK] Null lobbies for player DrDonut in group survival
+[ERROR] [20/11/2026] [04:07:30] [KICK] Server survival kicked player jharkhandi_babu for reason: disconnect.timeout
+[ERROR] [20/11/2026] [04:07:30] [FALLBACK] Null lobbies for player jharkhandi_babu in group survival
+[ERROR] [20/11/2026] [04:42:47] [KICK] Server survival kicked player jharkhandi_babu for reason: disconnect.timeout
+[ERROR] [20/11/2026] [04:42:47] [FALLBACK] Null lobbies for player jharkhandi_babu in group survival
+[ERROR] [20/11/2026] [05:22:20] [KICK] Server survival kicked player Junayad for reason: disconnect.timeout
+[ERROR] [20/11/2026] [05:22:20] [FALLBACK] Null lobbies for player Junayad in group survival
+[ERROR] [20/11/2026] [05:25:28] [KICK] Server survival kicked player Guest_6755004 for reason: disconnect.timeout
+[ERROR] [20/11/2026] [05:25:28] [FALLBACK] Null lobbies for player Guest_6755004 in group survival
+[ERROR] [20/11/2026] [05:38:28] [KICK] Server survival kicked player freshLMAO for reason: velocity.error.internal-server-connection-error
+[ERROR] [20/11/2026] [05:38:28] [FALLBACK] Null lobbies for player freshLMAO in group survival
+[ERROR] [20/11/2026] [05:58:14] [KICK] Server survival kicked player ShadowZ for reason: disconnect.timeout
+[ERROR] [20/11/2026] [05:58:14] [FALLBACK] Null lobbies for player ShadowZ in group survival
+[ERROR] [20/11/2026] [06:06:40] [KICK] Server survival kicked player ShadowZ for reason: You are banned from this server for 45 seconds. Reason: Server Crasher Detected
+[ERROR] [20/11/2026] [06:12:25] [KICK] Server survival kicked player ShadowZ for reason: velocity.error.internal-server-connection-error
+[ERROR] [20/11/2026] [06:12:25] [FALLBACK] Null lobbies for player ShadowZ in group survival
+[ERROR] [20/11/2026] [06:17:17] [KICK] Server survival kicked player ash for reason: velocity.error.internal-server-connection-error
+[ERROR] [20/11/2026] [06:17:17] [FALLBACK] Null lobbies for player ash in group survival
+[ERROR] [20/11/2026] [06:22:04] [KICK] Server survival kicked player legacy2016 for reason: velocity.error.internal-server-connection-error
+[ERROR] [20/11/2026] [06:22:04] [FALLBACK] Null lobbies for player legacy2016 in group survival
+[ERROR] [20/11/2026] [07:12:33] [KICK] Server survival kicked player Drakz for reason: velocity.error.internal-server-connection-error
+[ERROR] [20/11/2026] [07:12:33] [FALLBACK] Null lobbies for player Drakz in group survival
+[ERROR] [20/11/2026] [07:31:39] [KICK] Server survival kicked player Barnaby2_0 for reason: disconnect.timeout
+[ERROR] [20/11/2026] [07:31:39] [FALLBACK] Null lobbies for player Barnaby2_0 in group survival
+[ERROR] [20/11/2026] [07:38:52] [KICK] Server survival kicked player noobplayzz for reason: disconnect.spam
+[ERROR] [20/11/2026] [07:38:52] [FALLBACK] Null lobbies for player noobplayzz in group survival
+[ERROR] [20/11/2026] [07:46:51] [KICK] Server survival kicked player YEETus5454493 for reason: disconnect.timeout
+[ERROR] [20/11/2026] [07:46:51] [FALLBACK] Null lobbies for player YEETus5454493 in group survival
+[ERROR] [20/11/2026] [08:14:14] [KICK] Server survival kicked player YEETus5454493 for reason: multiplayer.disconnect.flying
+[ERROR] [20/11/2026] [08:18:11] [KICK] Server survival kicked player do_not_kill_me for reason: velocity.error.internal-server-connection-error
+[ERROR] [20/11/2026] [08:18:11] [FALLBACK] Null lobbies for player do_not_kill_me in group survival
+[ERROR] [20/11/2026] [08:19:15] [KICK] Server survival kicked player SatoruJoro for reason: disconnect.timeout
+[ERROR] [20/11/2026] [08:19:15] [FALLBACK] Null lobbies for player SatoruJoro in group survival
+[ERROR] [20/11/2026] [08:29:48] [KICK] Server survival kicked player bihari_boy for reason: velocity.error.internal-server-connection-error
+[ERROR] [20/11/2026] [08:29:48] [FALLBACK] Null lobbies for player bihari_boy in group survival
+[ERROR] [20/11/2026] [08:32:06] [KICK] Server survival kicked player MUKI1234567 for reason: multiplayer.disconnect.flying
+[ERROR] [20/11/2026] [08:42:32] [KICK] Server survival kicked player YEETus5454493 for reason: multiplayer.disconnect.flying
+[ERROR] [20/11/2026] [08:44:01] [KICK] Server survival kicked player YEETus5454493 for reason: multiplayer.disconnect.flying
+[ERROR] [20/11/2026] [08:59:57] [KICK] Server survival kicked player Youssef_jooYT for reason: velocity.error.internal-server-connection-error
+[ERROR] [20/11/2026] [08:59:57] [FALLBACK] Null lobbies for player Youssef_jooYT in group survival
+[ERROR] [20/11/2026] [09:01:20] [KICK] Server survival kicked player ClownPierceBALLS for reason: disconnect.timeout
+[ERROR] [20/11/2026] [09:01:20] [FALLBACK] Null lobbies for player ClownPierceBALLS in group survival
+[ERROR] [20/11/2026] [09:15:06] [KICK] Server survival kicked player Slenderman for reason: velocity.error.internal-server-connection-error
+[ERROR] [20/11/2026] [09:15:06] [FALLBACK] Null lobbies for player Slenderman in group survival
+[ERROR] [20/11/2026] [09:21:41] [KICK] Server survival kicked player escapets20 for reason: disconnect.timeout
+[ERROR] [20/11/2026] [09:21:41] [FALLBACK] Null lobbies for player escapets20 in group survival
+[ERROR] [20/11/2026] [09:28:10] [KICK] Server survival kicked player kichap for reason: disconnect.spam
+[ERROR] [20/11/2026] [09:28:10] [FALLBACK] Null lobbies for player kichap in group survival
+[ERROR] [20/11/2026] [09:54:35] [KICK] Server survival kicked player notplushy33 for reason: velocity.error.internal-server-connection-error
+[ERROR] [20/11/2026] [09:54:35] [FALLBACK] Null lobbies for player notplushy33 in group survival
+[ERROR] [20/11/2026] [10:04:22] [KICK] Server survival kicked player escapets20 for reason: velocity.error.internal-server-connection-error
+[ERROR] [20/11/2026] [10:04:22] [FALLBACK] Null lobbies for player escapets20 in group survival
+[ERROR] [20/11/2026] [10:10:24] [KICK] Server survival kicked player notplushy33 for reason: disconnect.timeout
+[ERROR] [20/11/2026] [10:10:24] [FALLBACK] Null lobbies for player notplushy33 in group survival
+[ERROR] [20/11/2026] [10:19:20] [KICK] Server survival kicked player its_your_spidey for reason: disconnect.timeout
+[ERROR] [20/11/2026] [10:19:20] [FALLBACK] Null lobbies for player its_your_spidey in group survival
+[ERROR] [20/11/2026] [10:23:10] [KICK] Server survival kicked player jharkhandi_babu for reason: disconnect.timeout
+[ERROR] [20/11/2026] [10:23:10] [FALLBACK] Null lobbies for player jharkhandi_babu in group survival
+[ERROR] [20/11/2026] [10:27:36] [KICK] Server survival kicked player zex for reason: multiplayer.disconnect.flying
+[ERROR] [20/11/2026] [10:30:54] [KICK] Server survival kicked player JumperWhos for reason: You are banned from this server. Reason: The Ban Hammer has spoken!
+[ERROR] [20/11/2026] [10:31:57] [KICK] Server survival kicked player Maccemon for reason: disconnect.timeout
+[ERROR] [20/11/2026] [10:31:57] [FALLBACK] Null lobbies for player Maccemon in group survival
+[ERROR] [20/11/2026] [10:37:17] [KICK] Server survival kicked player huy for reason: disconnect.timeout
+[ERROR] [20/11/2026] [10:37:17] [FALLBACK] Null lobbies for player huy in group survival
+[ERROR] [20/11/2026] [10:40:09] [KICK] Server survival kicked player huy for reason: disconnect.timeout
+[ERROR] [20/11/2026] [10:40:09] [FALLBACK] Null lobbies for player huy in group survival
+[ERROR] [20/11/2026] [10:51:40] [KICK] Server survival kicked player mr_hacker for reason: multiplayer.disconnect.flying
+[ERROR] [20/11/2026] [11:06:48] [KICK] Server survival kicked player loggy for reason: velocity.error.internal-server-connection-error
+[ERROR] [20/11/2026] [11:06:48] [FALLBACK] Null lobbies for player loggy in group survival
+[ERROR] [20/11/2026] [11:09:59] [KICK] Server survival kicked player hellogive for reason: disconnect.timeout
+[ERROR] [20/11/2026] [11:09:59] [FALLBACK] Null lobbies for player hellogive in group survival
+[ERROR] [20/11/2026] [11:27:25] [KICK] Server survival kicked player loggy for reason: disconnect.timeout
+[ERROR] [20/11/2026] [11:27:25] [FALLBACK] Null lobbies for player loggy in group survival
+[ERROR] [20/11/2026] [11:48:11] [KICK] Server survival kicked player sheri_ahmad_andu for reason: disconnect.timeout
+[ERROR] [20/11/2026] [11:48:11] [FALLBACK] Null lobbies for player sheri_ahmad_andu in group survival
+[ERROR] [20/11/2026] [12:12:30] [KICK] Server survival kicked player its_your_spidey for reason: velocity.error.internal-server-connection-error
+[ERROR] [20/11/2026] [12:12:30] [FALLBACK] Null lobbies for player its_your_spidey in group survival
+[ERROR] [20/11/2026] [12:15:29] [KICK] Server survival kicked player JumperWhos for reason: You are banned from this server. Reason: The Ban Hammer has spoken!
+[ERROR] [20/11/2026] [12:15:30] [KICK] Server survival kicked player JumperWhos for reason: You are banned from this server. Reason: The Ban Hammer has spoken!
+[ERROR] [20/11/2026] [12:28:30] [KICK] Server survival kicked player loggy for reason: disconnect.timeout
+[ERROR] [20/11/2026] [12:28:30] [FALLBACK] Null lobbies for player loggy in group survival
+[ERROR] [20/11/2026] [12:54:39] [KICK] Server survival kicked player _Amethyst_ for reason: velocity.error.internal-server-connection-error
+[ERROR] [20/11/2026] [12:54:39] [FALLBACK] Null lobbies for player _Amethyst_ in group survival
+[ERROR] [20/11/2026] [13:03:50] [KICK] Server survival kicked player Slenderman for reason: disconnect.timeout
+[ERROR] [20/11/2026] [13:03:50] [FALLBACK] Null lobbies for player Slenderman in group survival
+[ERROR] [20/11/2026] [13:09:03] [KICK] Server survival kicked player Slenderman for reason: disconnect.timeout
+[ERROR] [20/11/2026] [13:09:03] [FALLBACK] Null lobbies for player Slenderman in group survival
+[ERROR] [20/11/2026] [13:10:35] [KICK] Server survival kicked player Slenderman for reason: disconnect.timeout
+[ERROR] [20/11/2026] [13:10:35] [FALLBACK] Null lobbies for player Slenderman in group survival
+[ERROR] [20/11/2026] [13:27:31] [KICK] Server survival kicked player Wert_McGurt for reason: disconnect.timeout
+[ERROR] [20/11/2026] [13:27:31] [FALLBACK] Null lobbies for player Wert_McGurt in group survival
+[ERROR] [20/11/2026] [13:34:26] [KICK] Server survival kicked player TuffyApollo for reason: disconnect.timeout
+[ERROR] [20/11/2026] [13:34:26] [FALLBACK] Null lobbies for player TuffyApollo in group survival
+[ERROR] [20/11/2026] [13:35:54] [KICK] Server survival kicked player ____ for reason: disconnect.timeout
+[ERROR] [20/11/2026] [13:35:54] [FALLBACK] Null lobbies for player ____ in group survival
+[ERROR] [20/11/2026] [13:38:07] [KICK] Server survival kicked player Swight4 for reason: multiplayer.disconnect.flying
+[ERROR] [20/11/2026] [13:52:09] [KICK] Server survival kicked player _Ahmed14k_ for reason: disconnect.timeout
+[ERROR] [20/11/2026] [13:52:09] [FALLBACK] Null lobbies for player _Ahmed14k_ in group survival
+[ERROR] [20/11/2026] [13:52:21] [KICK] Server survival kicked player Dr_icecream23 for reason: Kicked from server.
+[ERROR] [20/11/2026] [13:52:21] [FALLBACK] Null lobbies for player Dr_icecream23 in group survival
+[ERROR] [20/11/2026] [13:54:30] [KICK] Server survival kicked player BahirMC for reason: disconnect.timeout
+[ERROR] [20/11/2026] [13:54:30] [FALLBACK] Null lobbies for player BahirMC in group survival
+[ERROR] [20/11/2026] [13:55:14] [KICK] Server survival kicked player Slenderman for reason: disconnect.timeout
+[ERROR] [20/11/2026] [13:55:14] [FALLBACK] Null lobbies for player Slenderman in group survival
+[ERROR] [20/11/2026] [14:05:31] [KICK] Server survival kicked player Dr_icecream23 for reason: You have been temporarily banned for 2 hours:
+"spam"
+[ERROR] [20/11/2026] [14:05:37] [KICK] Server survival kicked player Dr_icecream23 for reason: You are banned from this server for 1 hour 59 minutes 53 seconds. Reason: "spam"
+[ERROR] [20/11/2026] [14:08:16] [KICK] Server survival kicked player HHjonkler for reason: disconnect.spam
+[ERROR] [20/11/2026] [14:08:16] [FALLBACK] Null lobbies for player HHjonkler in group survival
+[ERROR] [20/11/2026] [14:11:28] [KICK] Server survival kicked player Dr_icecream23 for reason: You are banned from this server for 1 hour 54 minutes 3 seconds. Reason: "spam"
+[ERROR] [20/11/2026] [14:11:35] [KICK] Server survival kicked player Dr_icecream23 for reason: You are banned from this server for 1 hour 53 minutes 56 seconds. Reason: "spam"
+[ERROR] [20/11/2026] [14:26:05] [KICK] Server survival kicked player _Ahmed14k_ for reason: velocity.error.internal-server-connection-error
+[ERROR] [20/11/2026] [14:26:05] [FALLBACK] Null lobbies for player _Ahmed14k_ in group survival
+[ERROR] [20/11/2026] [14:29:23] [KICK] Server survival kicked player ultimatedredhead for reason: disconnect.timeout
+[ERROR] [20/11/2026] [14:29:23] [FALLBACK] Null lobbies for player ultimatedredhead in group survival
+[ERROR] [20/11/2026] [14:41:12] [KICK] Server survival kicked player Youssef_jooYT for reason: You have been temporarily banned for 2 hours:
+"spamm"
+[ERROR] [20/11/2026] [14:41:21] [KICK] Server survival kicked player SURYA for reason: disconnect.timeout
+[ERROR] [20/11/2026] [14:41:21] [FALLBACK] Null lobbies for player SURYA in group survival
+[ERROR] [20/11/2026] [14:41:36] [KICK] Server survival kicked player somuel for reason: disconnect.timeout
+[ERROR] [20/11/2026] [14:41:36] [FALLBACK] Null lobbies for player somuel in group survival
+[ERROR] [20/11/2026] [14:44:49] [KICK] Server survival kicked player somuel for reason: disconnect.timeout
+[ERROR] [20/11/2026] [14:44:49] [FALLBACK] Null lobbies for player somuel in group survival
+[ERROR] [20/11/2026] [14:45:04] [KICK] Server survival kicked player JumperWhos for reason: You are banned from this server. Reason: The Ban Hammer has spoken!
+[ERROR] [20/11/2026] [14:51:37] [KICK] Server survival kicked player Dr_icecream23 for reason: You are banned from this server for 1 hour 13 minutes 53 seconds. Reason: "spam"
+[ERROR] [20/11/2026] [14:55:06] [KICK] Server survival kicked player Dr_icecream23 for reason: You are banned from this server for 1 hour 10 minutes 25 seconds. Reason: "spam"
+[ERROR] [20/11/2026] [14:59:23] [KICK] Server survival kicked player __flix__ for reason: disconnect.timeout
+[ERROR] [20/11/2026] [14:59:23] [FALLBACK] Null lobbies for player __flix__ in group survival
+[ERROR] [20/11/2026] [14:59:23] [KICK] Server survival kicked player somuel for reason: velocity.error.internal-server-connection-error
+[ERROR] [20/11/2026] [14:59:23] [FALLBACK] Null lobbies for player somuel in group survival
+[ERROR] [20/11/2026] [15:12:19] [KICK] Server survival kicked player cubo_gognet for reason: velocity.error.internal-server-connection-error
+[ERROR] [20/11/2026] [15:12:19] [FALLBACK] Null lobbies for player cubo_gognet in group survival
+[ERROR] [20/11/2026] [15:15:26] [KICK] Server survival kicked player king_crowned for reason: disconnect.timeout
+[ERROR] [20/11/2026] [15:15:26] [FALLBACK] Null lobbies for player king_crowned in group survival
+[ERROR] [20/11/2026] [15:16:56] [KICK] Server survival kicked player __flix__ for reason: disconnect.timeout
+[ERROR] [20/11/2026] [15:16:56] [FALLBACK] Null lobbies for player __flix__ in group survival
+[ERROR] [20/11/2026] [15:35:31] [KICK] Server survival kicked player Dr_icecream23 for reason: You are banned from this server for 30 minutes. Reason: "spam"
+[ERROR] [20/11/2026] [15:36:28] [KICK] Server survival kicked player Dr_icecream23 for reason: You are banned from this server for 29 minutes 3 seconds. Reason: "spam"
+[ERROR] [20/11/2026] [15:41:23] [KICK] Server survival kicked player Dr_icecream23 for reason: You are banned from this server for 24 minutes 7 seconds. Reason: "spam"
+[ERROR] [20/11/2026] [15:43:32] [KICK] Server survival kicked player somuel for reason: disconnect.timeout
+[ERROR] [20/11/2026] [15:43:32] [FALLBACK] Null lobbies for player somuel in group survival
+[ERROR] [20/11/2026] [15:45:31] [KICK] Server survival kicked player Herman_the_goat_ for reason: disconnect.timeout
+[ERROR] [20/11/2026] [15:45:31] [FALLBACK] Null lobbies for player Herman_the_goat_ in group survival
+[ERROR] [20/11/2026] [15:46:05] [KICK] Server survival kicked player Dr_icecream23 for reason: You are banned from this server for 19 minutes 26 seconds. Reason: "spam"
+[ERROR] [20/11/2026] [15:46:43] [KICK] Server survival kicked player NOTClownpierce1 for reason: disconnect.timeout
+[ERROR] [20/11/2026] [15:46:43] [FALLBACK] Null lobbies for player NOTClownpierce1 in group survival
+[ERROR] [20/11/2026] [15:50:33] [KICK] Server survival kicked player gameeeeer6000 for reason: disconnect.timeout
+[ERROR] [20/11/2026] [15:50:33] [FALLBACK] Null lobbies for player gameeeeer6000 in group survival
+[ERROR] [20/11/2026] [15:51:22] [KICK] Server survival kicked player Youssef_jooYT for reason: You are banned from this server for 49 minutes 50 seconds. Reason: "spamm"
+[ERROR] [20/11/2026] [15:52:15] [KICK] Server survival kicked player Youssef_jooYT for reason: You are banned from this server for 48 minutes 57 seconds. Reason: "spamm"
+[ERROR] [20/11/2026] [15:53:50] [KICK] Server survival kicked player Youssef_jooYT for reason: You are banned from this server for 47 minutes 22 seconds. Reason: "spamm"
+[ERROR] [20/11/2026] [15:54:55] [KICK] Server survival kicked player Dr_icecream23 for reason: You are banned from this server for 10 minutes 36 seconds. Reason: "spam"
+[ERROR] [20/11/2026] [15:55:34] [KICK] Server survival kicked player BahirMC for reason: disconnect.timeout
+[ERROR] [20/11/2026] [15:55:34] [FALLBACK] Null lobbies for player BahirMC in group survival
+[ERROR] [20/11/2026] [15:58:42] [KICK] Server survival kicked player Wembbu for reason: disconnect.timeout
+[ERROR] [20/11/2026] [15:58:42] [FALLBACK] Null lobbies for player Wembbu in group survival
+[ERROR] [20/11/2026] [15:59:18] [KICK] Server survival kicked player Dr_icecream23 for reason: You are banned from this server for 6 minutes 12 seconds. Reason: "spam"
+[ERROR] [20/11/2026] [16:00:30] [KICK] Server survival kicked player Dr_icecream23 for reason: You are banned from this server for 5 minutes 1 second. Reason: "spam"
+[ERROR] [20/11/2026] [16:01:36] [KICK] Server survival kicked player TheEmortalDemon for reason: disconnect.timeout
+[ERROR] [20/11/2026] [16:01:36] [FALLBACK] Null lobbies for player TheEmortalDemon in group survival
+[ERROR] [20/11/2026] [16:06:04] [KICK] Server survival kicked player Youssef_jooYT for reason: You are banned from this server for 35 minutes 7 seconds. Reason: "spamm"
+[ERROR] [20/11/2026] [16:09:48] [KICK] Server survival kicked player Youssef_jooYT for reason: You are banned from this server for 31 minutes 24 seconds. Reason: "spamm"
+[ERROR] [20/11/2026] [16:11:17] [KICK] Server survival kicked player Moneypig for reason: disconnect.timeout
+[ERROR] [20/11/2026] [16:11:17] [FALLBACK] Null lobbies for player Moneypig in group survival
+[ERROR] [20/11/2026] [16:16:27] [KICK] Server survival kicked player YEETus5454493 for reason: disconnect.timeout
+[ERROR] [20/11/2026] [16:16:27] [FALLBACK] Null lobbies for player YEETus5454493 in group survival
+[ERROR] [20/11/2026] [16:18:14] [KICK] Server survival kicked player Youssef_jooYT for reason: You are banned from this server for 22 minutes 58 seconds. Reason: "spamm"
+[ERROR] [20/11/2026] [16:19:56] [KICK] Server survival kicked player cubo_gognet for reason: Lost Connection
+[ERROR] [20/11/2026] [16:19:56] [FALLBACK] Null lobbies for player cubo_gognet in group survival
+[ERROR] [20/11/2026] [16:19:56] [KICK] Server survival kicked player HavocXD12 for reason: Lost Connection
+[ERROR] [20/11/2026] [16:19:56] [FALLBACK] Null lobbies for player HavocXD12 in group survival
+[ERROR] [20/11/2026] [16:19:56] [KICK] Server survival kicked player Speedy12Hanford for reason: Lost Connection
+[ERROR] [20/11/2026] [16:19:56] [KICK] Server survival kicked player EDWIN_THE_V_2323 for reason: Lost Connection
+[ERROR] [20/11/2026] [16:19:56] [FALLBACK] Null lobbies for player Speedy12Hanford in group survival
+[ERROR] [20/11/2026] [16:19:56] [FALLBACK] Null lobbies for player EDWIN_THE_V_2323 in group survival
+[ERROR] [20/11/2026] [16:19:56] [KICK] Server survival kicked player Monika for reason: Lost Connection
+[ERROR] [20/11/2026] [16:19:56] [KICK] Server survival kicked player xXTheLightXx for reason: Lost Connection
+[ERROR] [20/11/2026] [16:19:56] [FALLBACK] Null lobbies for player Monika in group survival
+[ERROR] [20/11/2026] [16:19:56] [FALLBACK] Null lobbies for player xXTheLightXx in group survival
+[ERROR] [20/11/2026] [16:19:56] [KICK] Server survival kicked player Wembbu for reason: Lost Connection
+[ERROR] [20/11/2026] [16:19:56] [KICK] Server survival kicked player im_a_pro_player for reason: Lost Connection
+[ERROR] [20/11/2026] [16:19:56] [FALLBACK] Null lobbies for player Wembbu in group survival
+[ERROR] [20/11/2026] [16:19:56] [FALLBACK] Null lobbies for player im_a_pro_player in group survival
+[ERROR] [20/11/2026] [16:19:56] [KICK] Server survival kicked player HackSlayer_2014_ for reason: Lost Connection
+[ERROR] [20/11/2026] [16:19:56] [FALLBACK] Null lobbies for player HackSlayer_2014_ in group survival
+[ERROR] [20/11/2026] [16:19:56] [KICK] Server survival kicked player wsgs for reason: Lost Connection
+[ERROR] [20/11/2026] [16:19:56] [FALLBACK] Null lobbies for player wsgs in group survival
+[ERROR] [20/11/2026] [16:19:56] [KICK] Server survival kicked player king_crowned for reason: Lost Connection
+[ERROR] [20/11/2026] [16:19:56] [FALLBACK] Null lobbies for player king_crowned in group survival
+[ERROR] [20/11/2026] [16:19:56] [KICK] Server survival kicked player 11rojx for reason: Lost Connection
+[ERROR] [20/11/2026] [16:19:56] [FALLBACK] Null lobbies for player 11rojx in group survival
+[ERROR] [20/11/2026] [16:19:56] [KICK] Server survival kicked player Dr_icecream23 for reason: Lost Connection
+[ERROR] [20/11/2026] [16:19:56] [FALLBACK] Null lobbies for player Dr_icecream23 in group survival
+[ERROR] [20/11/2026] [16:19:56] [KICK] Server survival kicked player gameeeeer6000 for reason: Lost Connection
+[ERROR] [20/11/2026] [16:19:56] [FALLBACK] Null lobbies for player gameeeeer6000 in group survival
+[ERROR] [20/11/2026] [16:19:56] [KICK] Server survival kicked player JUDE_dud for reason: Lost Connection
+[ERROR] [20/11/2026] [16:19:56] [FALLBACK] Null lobbies for player JUDE_dud in group survival
+[ERROR] [20/11/2026] [16:19:56] [KICK] Server survival kicked player pig_22 for reason: Lost Connection
+[ERROR] [20/11/2026] [16:19:56] [FALLBACK] Null lobbies for player pig_22 in group survival
+[ERROR] [20/11/2026] [16:19:59] [KICK] Server survival kicked player _Malek_5G for reason: Lost Connection
+[ERROR] [20/11/2026] [16:19:59] [FALLBACK] Null lobbies for player _Malek_5G in group survival
+[ERROR] [20/11/2026] [16:20:01] [KICK] Server survival kicked player im_a_pro_player for reason: Lost Connection
+[ERROR] [20/11/2026] [16:20:01] [FALLBACK] Null lobbies for player im_a_pro_player in group survival
+[ERROR] [20/11/2026] [16:20:02] [KICK] Server survival kicked player pig_22 for reason: Lost Connection
+[ERROR] [20/11/2026] [16:20:02] [FALLBACK] Null lobbies for player pig_22 in group survival
+[ERROR] [20/11/2026] [16:20:02] [KICK] Server survival kicked player xXTheLightXx for reason: Lost Connection
+[ERROR] [20/11/2026] [16:20:02] [FALLBACK] Null lobbies for player xXTheLightXx in group survival
+[ERROR] [20/11/2026] [16:20:02] [KICK] Server survival kicked player Speedy12Hanford for reason: Lost Connection
+[ERROR] [20/11/2026] [16:20:02] [FALLBACK] Null lobbies for player Speedy12Hanford in group survival
+[ERROR] [20/11/2026] [16:20:03] [KICK] Server survival kicked player cubo_gognet for reason: Lost Connection
+[ERROR] [20/11/2026] [16:20:03] [FALLBACK] Null lobbies for player cubo_gognet in group survival
+[ERROR] [20/11/2026] [16:20:03] [KICK] Server survival kicked player gameeeeer6000 for reason: Lost Connection
+[ERROR] [20/11/2026] [16:20:03] [FALLBACK] Null lobbies for player gameeeeer6000 in group survival
+[ERROR] [20/11/2026] [16:20:03] [KICK] Server survival kicked player HackSlayer_2014_ for reason: Lost Connection
+[ERROR] [20/11/2026] [16:20:03] [FALLBACK] Null lobbies for player HackSlayer_2014_ in group survival
+[ERROR] [20/11/2026] [16:20:03] [KICK] Server survival kicked player _Malek_5G for reason: Lost Connection
+[ERROR] [20/11/2026] [16:20:03] [FALLBACK] Null lobbies for player _Malek_5G in group survival
+[ERROR] [20/11/2026] [16:20:06] [KICK] Server survival kicked player _Malek_5G for reason: Lost Connection
+[ERROR] [20/11/2026] [16:20:06] [FALLBACK] Null lobbies for player _Malek_5G in group survival
+[ERROR] [20/11/2026] [16:20:16] [KICK] Server survival kicked player _Malek_5G for reason: Lost Connection
+[ERROR] [20/11/2026] [16:20:16] [FALLBACK] Null lobbies for player _Malek_5G in group survival
+[ERROR] [20/11/2026] [16:22:16] [KICK] Server survival kicked player Youssef_jooYT for reason: You are banned from this server for 18 minutes 55 seconds. Reason: "spamm"
+[ERROR] [20/11/2026] [16:22:51] [KICK] Server survival kicked player Youssef_jooYT for reason: You are banned from this server for 18 minutes 20 seconds. Reason: "spamm"
+[ERROR] [20/11/2026] [16:27:02] [KICK] Server survival kicked player Youssef_jooYT for reason: You are banned from this server for 14 minutes 9 seconds. Reason: "spamm"
+[ERROR] [20/11/2026] [16:27:07] [KICK] Server survival kicked player Youssef_jooYT for reason: You are banned from this server for 14 minutes 4 seconds. Reason: "spamm"
+[ERROR] [20/11/2026] [16:32:47] [KICK] Server survival kicked player Youssef_jooYT for reason: You are banned from this server for 8 minutes 24 seconds. Reason: "spamm"
+[ERROR] [20/11/2026] [16:41:10] [KICK] Server survival kicked player Youssef_jooYT for reason: You are banned from this server for 1 second. Reason: "spamm"
+[ERROR] [20/11/2026] [16:41:50] [KICK] Server survival kicked player Youssef_jooYT for reason: velocity.error.internal-server-connection-error
+[ERROR] [20/11/2026] [16:41:50] [FALLBACK] Null lobbies for player Youssef_jooYT in group survival
+[ERROR] [20/11/2026] [16:44:35] [KICK] Server survival kicked player gameeeeer6000 for reason: disconnect.timeout
+[ERROR] [20/11/2026] [16:44:35] [FALLBACK] Null lobbies for player gameeeeer6000 in group survival
+[ERROR] [20/11/2026] [16:44:49] [KICK] Server survival kicked player ELIJAH for reason: disconnect.timeout
+[ERROR] [20/11/2026] [16:44:49] [FALLBACK] Null lobbies for player ELIJAH in group survival
+[ERROR] [20/11/2026] [16:49:45] [KICK] Server survival kicked player Youssef_jooYT for reason: disconnect.timeout
+[ERROR] [20/11/2026] [16:49:45] [FALLBACK] Null lobbies for player Youssef_jooYT in group survival
+[ERROR] [20/11/2026] [16:50:30] [KICK] Server survival kicked player Youssef_jooYT for reason: velocity.error.internal-server-connection-error
+[ERROR] [20/11/2026] [16:50:30] [FALLBACK] Null lobbies for player Youssef_jooYT in group survival
+[ERROR] [20/11/2026] [16:52:20] [KICK] Server survival kicked player SURYA for reason: velocity.error.internal-server-connection-error
+[ERROR] [20/11/2026] [16:52:20] [FALLBACK] Null lobbies for player SURYA in group survival
+[ERROR] [20/11/2026] [16:54:44] [KICK] Server survival kicked player JumperWhos for reason: You are banned from this server. Reason: The Ban Hammer has spoken!
+[ERROR] [20/11/2026] [16:54:49] [KICK] Server survival kicked player JumperWhos for reason: You are banned from this server. Reason: The Ban Hammer has spoken!
+[ERROR] [20/11/2026] [17:01:34] [KICK] Server survival kicked player AleksDJ for reason: disconnect.timeout
+[ERROR] [20/11/2026] [17:01:34] [FALLBACK] Null lobbies for player AleksDJ in group survival
+[ERROR] [20/11/2026] [17:28:08] [KICK] Server survival kicked player Herman_the_goat_ for reason: disconnect.timeout
+[ERROR] [20/11/2026] [17:28:08] [FALLBACK] Null lobbies for player Herman_the_goat_ in group survival
+[ERROR] [20/11/2026] [17:43:39] [KICK] Server survival kicked player EDWIN_THE_V_2323 for reason: Lost Connection
+[ERROR] [20/11/2026] [17:43:39] [FALLBACK] Null lobbies for player EDWIN_THE_V_2323 in group survival
+[ERROR] [20/11/2026] [17:43:41] [KICK] Server survival kicked player liam_22334 for reason: Lost Connection
+[ERROR] [20/11/2026] [17:43:41] [FALLBACK] Null lobbies for player liam_22334 in group survival
+[ERROR] [20/11/2026] [17:43:47] [KICK] Server survival kicked player ultimatedredhead for reason: Lost Connection
+[ERROR] [20/11/2026] [17:43:47] [FALLBACK] Null lobbies for player ultimatedredhead in group survival
+[ERROR] [20/11/2026] [17:55:17] [KICK] Server survival kicked player Herman_the_goat_ for reason: disconnect.timeout
+[ERROR] [20/11/2026] [17:55:17] [FALLBACK] Null lobbies for player Herman_the_goat_ in group survival
+[ERROR] [20/11/2026] [18:00:00] [KICK] Server survival kicked player Herman_the_goat_ for reason: disconnect.timeout
+[ERROR] [20/11/2026] [18:00:00] [FALLBACK] Null lobbies for player Herman_the_goat_ in group survival
+[ERROR] [20/11/2026] [18:00:44] [KICK] Server survival kicked player SURYA for reason: disconnect.timeout
+[ERROR] [20/11/2026] [18:00:44] [FALLBACK] Null lobbies for player SURYA in group survival
+[ERROR] [20/11/2026] [18:12:09] [KICK] Server survival kicked player yeeler_alt for reason: BetterAntiSwear
+
+You were kicked for inappropriate language.
+This is offense 3/5.
+Further violations will result in a ban.
+[ERROR] [20/11/2026] [18:24:58] [KICK] Server survival kicked player lilegg for reason: velocity.error.internal-server-connection-error
+[ERROR] [20/11/2026] [18:24:58] [FALLBACK] Null lobbies for player lilegg in group survival
+[ERROR] [20/11/2026] [18:34:03] [KICK] Server survival kicked player JumperWhos for reason: You are banned from this server. Reason: The Ban Hammer has spoken!
+[ERROR] [20/11/2026] [18:34:25] [KICK] Server survival kicked player CyberAssasinXD for reason: BetterAntiSwear
+
+You were kicked for inappropriate language.
+This is offense 3/5.
+Further violations will result in a ban.
+[ERROR] [20/11/2026] [18:46:27] [KICK] Server survival kicked player CyberAssasinXD for reason: You have been banned:
+[BetterAntiSwear] Temp-ban: Repeated swearing (offense 4/5). Ban expires in 2 hours. Appeal at your-discord.gg
+[ERROR] [20/11/2026] [18:46:36] [KICK] Server survival kicked player CyberAssasinXD for reason: You are banned from this server. Reason: [BetterAntiSwear] Temp-ban: Repeated swearing (offense 4/5). Ban expires in 2 hours. Appeal at your-discord.gg
+[ERROR] [20/11/2026] [18:46:52] [KICK] Server survival kicked player CyberAssasinXD for reason: You are banned from this server. Reason: [BetterAntiSwear] Temp-ban: Repeated swearing (offense 4/5). Ban expires in 2 hours. Appeal at your-discord.gg
+[ERROR] [20/11/2026] [18:47:34] [KICK] Server survival kicked player mr_hacker for reason: velocity.error.internal-server-connection-error
+[ERROR] [20/11/2026] [18:47:34] [FALLBACK] Null lobbies for player mr_hacker in group survival
+[ERROR] [20/11/2026] [18:48:26] [KICK] Server survival kicked player CyberAssasinXD for reason: You are banned from this server. Reason: [BetterAntiSwear] Temp-ban: Repeated swearing (offense 4/5). Ban expires in 2 hours. Appeal at your-discord.gg
+[ERROR] [20/11/2026] [18:55:50] [KICK] Server survival kicked player olivio5 for reason: multiplayer.disconnect.flying
+[ERROR] [20/11/2026] [18:56:11] [KICK] Server survival kicked player __flix__ for reason: velocity.error.internal-server-connection-error
+[ERROR] [20/11/2026] [18:56:11] [FALLBACK] Null lobbies for player __flix__ in group survival
+[ERROR] [20/11/2026] [18:56:49] [KICK] Server survival kicked player CyberAssasinXD for reason: You are banned from this server. Reason: [BetterAntiSwear] Temp-ban: Repeated swearing (offense 4/5). Ban expires in 2 hours. Appeal at your-discord.gg
+[ERROR] [20/11/2026] [18:57:01] [KICK] Server survival kicked player olivio5 for reason: disconnect.timeout
+[ERROR] [20/11/2026] [18:57:01] [FALLBACK] Null lobbies for player olivio5 in group survival
+[ERROR] [20/11/2026] [19:01:11] [KICK] Server survival kicked player CyberAssasinXD for reason: You are banned from this server. Reason: [BetterAntiSwear] Temp-ban: Repeated swearing (offense 4/5). Ban expires in 2 hours. Appeal at your-discord.gg
+[ERROR] [20/11/2026] [19:01:43] [KICK] Server survival kicked player hellogive for reason: disconnect.timeout
+[ERROR] [20/11/2026] [19:01:43] [FALLBACK] Null lobbies for player hellogive in group survival
+[ERROR] [20/11/2026] [19:05:44] [KICK] Server survival kicked player im_a_pro_player for reason: You dropped your items too quickly (Hacking?)
+[ERROR] [20/11/2026] [19:05:44] [FALLBACK] Null lobbies for player im_a_pro_player in group survival
+[ERROR] [20/11/2026] [19:06:49] [KICK] Server survival kicked player CyberAssasin for reason: disconnect.timeout
+[ERROR] [20/11/2026] [19:06:49] [FALLBACK] Null lobbies for player CyberAssasin in group survival
+[ERROR] [20/11/2026] [19:09:03] [KICK] Server survival kicked player im_a_pro_player for reason: velocity.error.internal-server-connection-error
+[ERROR] [20/11/2026] [19:09:03] [FALLBACK] Null lobbies for player im_a_pro_player in group survival
+[ERROR] [20/11/2026] [19:18:35] [KICK] Server survival kicked player JumperWhos for reason: You are banned from this server. Reason: The Ban Hammer has spoken!
+[ERROR] [20/11/2026] [19:27:00] [KICK] Server survival kicked player Wsg for reason: velocity.error.internal-server-connection-error
+[ERROR] [20/11/2026] [19:27:00] [FALLBACK] Null lobbies for player Wsg in group survival
+[ERROR] [20/11/2026] [19:29:03] [KICK] Server survival kicked player the_Cat24567 for reason: Lost Connection
+[ERROR] [20/11/2026] [19:29:03] [FALLBACK] Null lobbies for player the_Cat24567 in group survival
+[ERROR] [20/11/2026] [19:29:03] [KICK] Server survival kicked player __flix__ for reason: Lost Connection
+[ERROR] [20/11/2026] [19:29:03] [FALLBACK] Null lobbies for player __flix__ in group survival
+[ERROR] [20/11/2026] [19:29:03] [KICK] Server survival kicked player gameeeeer6000 for reason: Lost Connection
+[ERROR] [20/11/2026] [19:29:03] [FALLBACK] Null lobbies for player gameeeeer6000 in group survival
+[ERROR] [20/11/2026] [19:29:03] [KICK] Server survival kicked player Algazal for reason: Lost Connection
+[ERROR] [20/11/2026] [19:29:03] [FALLBACK] Null lobbies for player Algazal in group survival
+[ERROR] [20/11/2026] [19:29:03] [KICK] Server survival kicked player NOTClownpierce1 for reason: Lost Connection
+[ERROR] [20/11/2026] [19:29:03] [FALLBACK] Null lobbies for player NOTClownpierce1 in group survival
+[ERROR] [20/11/2026] [19:29:03] [KICK] Server survival kicked player CyberAssasin for reason: Lost Connection
+[ERROR] [20/11/2026] [19:29:03] [FALLBACK] Null lobbies for player CyberAssasin in group survival
+[ERROR] [20/11/2026] [19:29:23] [KICK] Server survival kicked player ultrathething for reason: Lost Connection
+[ERROR] [20/11/2026] [19:29:23] [FALLBACK] Null lobbies for player ultrathething in group survival
+[ERROR] [20/11/2026] [19:29:31] [KICK] Server survival kicked player the_Cat24567 for reason: Lost Connection
+[ERROR] [20/11/2026] [19:29:31] [FALLBACK] Null lobbies for player the_Cat24567 in group survival
+[ERROR] [20/11/2026] [19:29:40] [KICK] Server survival kicked player CyberAssasin for reason: Lost Connection
+[ERROR] [20/11/2026] [19:29:40] [FALLBACK] Null lobbies for player CyberAssasin in group survival
+[ERROR] [20/11/2026] [19:36:46] [KICK] Server survival kicked player what_did_i_do for reason: Lost Connection
+[ERROR] [20/11/2026] [19:36:46] [FALLBACK] Null lobbies for player what_did_i_do in group survival
+[ERROR] [20/11/2026] [19:37:41] [KICK] Server survival kicked player what_did_i_do for reason: Lost Connection
+[ERROR] [20/11/2026] [19:37:41] [FALLBACK] Null lobbies for player what_did_i_do in group survival
+[ERROR] [20/11/2026] [19:38:05] [KICK] Server survival kicked player what_did_i_do for reason: Lost Connection
+[ERROR] [20/11/2026] [19:38:05] [FALLBACK] Null lobbies for player what_did_i_do in group survival
+[ERROR] [20/11/2026] [19:38:33] [KICK] Server survival kicked player what_did_i_do for reason: Lost Connection
+[ERROR] [20/11/2026] [19:38:33] [FALLBACK] Null lobbies for player what_did_i_do in group survival
+[ERROR] [20/11/2026] [19:38:46] [KICK] Server survival kicked player EDWIN_THE_V_2323 for reason: Lost Connection
+[ERROR] [20/11/2026] [19:38:46] [FALLBACK] Null lobbies for player EDWIN_THE_V_2323 in group survival
+[ERROR] [20/11/2026] [19:39:57] [KICK] Server survival kicked player what_did_i_do for reason: Lost Connection
+[ERROR] [20/11/2026] [19:39:57] [FALLBACK] Null lobbies for player what_did_i_do in group survival
+[ERROR] [20/11/2026] [19:40:27] [KICK] Server survival kicked player what_did_i_do for reason: Lost Connection
+[ERROR] [20/11/2026] [19:40:27] [FALLBACK] Null lobbies for player what_did_i_do in group survival
+[ERROR] [20/11/2026] [19:40:52] [KICK] Server survival kicked player what_did_i_do for reason: Lost Connection
+[ERROR] [20/11/2026] [19:40:52] [FALLBACK] Null lobbies for player what_did_i_do in group survival
+[ERROR] [20/11/2026] [19:41:19] [KICK] Server survival kicked player what_did_i_do for reason: Lost Connection
+[ERROR] [20/11/2026] [19:41:19] [FALLBACK] Null lobbies for player what_did_i_do in group survival
+[ERROR] [20/11/2026] [19:41:45] [KICK] Server survival kicked player what_did_i_do for reason: Lost Connection
+[ERROR] [20/11/2026] [19:41:45] [FALLBACK] Null lobbies for player what_did_i_do in group survival
+[ERROR] [20/11/2026] [19:44:47] [KICK] Server survival kicked player Dr_icecream23 for reason: Lost Connection
+[ERROR] [20/11/2026] [19:44:47] [FALLBACK] Null lobbies for player Dr_icecream23 in group survival
+[ERROR] [20/11/2026] [19:44:57] [KICK] Server survival kicked player CyberAssasinXD for reason: Lost Connection
+[ERROR] [20/11/2026] [19:44:57] [FALLBACK] Null lobbies for player CyberAssasinXD in group survival
+[ERROR] [20/11/2026] [19:45:07] [KICK] Server survival kicked player The_Honored_One for reason: Lost Connection
+[ERROR] [20/11/2026] [19:45:07] [FALLBACK] Null lobbies for player The_Honored_One in group survival
+[ERROR] [20/11/2026] [19:45:41] [KICK] Server survival kicked player The_Honored_One for reason: Lost Connection
+[ERROR] [20/11/2026] [19:45:41] [FALLBACK] Null lobbies for player The_Honored_One in group survival
+[ERROR] [20/11/2026] [19:48:20] [KICK] Server survival kicked player the_Cat24567 for reason: Lost Connection
+[ERROR] [20/11/2026] [19:48:20] [FALLBACK] Null lobbies for player the_Cat24567 in group survival
+[ERROR] [20/11/2026] [19:48:40] [KICK] Server survival kicked player hellogive for reason: Lost Connection
+[ERROR] [20/11/2026] [19:48:40] [FALLBACK] Null lobbies for player hellogive in group survival
+[ERROR] [20/11/2026] [19:48:56] [KICK] Server survival kicked player The_Honored_One for reason: Lost Connection
+[ERROR] [20/11/2026] [19:48:56] [FALLBACK] Null lobbies for player The_Honored_One in group survival
+[ERROR] [20/11/2026] [19:49:09] [KICK] Server survival kicked player EDWIN_THE_V_2323 for reason: Lost Connection
+[ERROR] [20/11/2026] [19:49:09] [FALLBACK] Null lobbies for player EDWIN_THE_V_2323 in group survival
+[ERROR] [20/11/2026] [19:49:20] [KICK] Server survival kicked player hellogive for reason: Lost Connection
+[ERROR] [20/11/2026] [19:49:20] [FALLBACK] Null lobbies for player hellogive in group survival
+[ERROR] [20/11/2026] [19:49:26] [KICK] Server survival kicked player the_Cat24567 for reason: Lost Connection
+[ERROR] [20/11/2026] [19:49:26] [FALLBACK] Null lobbies for player the_Cat24567 in group survival
+[ERROR] [20/11/2026] [19:49:43] [KICK] Server survival kicked player EDWIN_THE_V_2323 for reason: Lost Connection
+[ERROR] [20/11/2026] [19:49:43] [FALLBACK] Null lobbies for player EDWIN_THE_V_2323 in group survival
+[ERROR] [20/11/2026] [19:50:35] [KICK] Server survival kicked player the_Cat24567 for reason: Lost Connection
+[ERROR] [20/11/2026] [19:50:35] [FALLBACK] Null lobbies for player the_Cat24567 in group survival
+[ERROR] [20/11/2026] [19:50:51] [KICK] Server survival kicked player what_did_i_do for reason: Lost Connection
+[ERROR] [20/11/2026] [19:50:51] [FALLBACK] Null lobbies for player what_did_i_do in group survival
+[ERROR] [20/11/2026] [19:51:48] [KICK] Server survival kicked player what_did_i_do for reason: Lost Connection
+[ERROR] [20/11/2026] [19:51:48] [FALLBACK] Null lobbies for player what_did_i_do in group survival
+[ERROR] [20/11/2026] [19:53:49] [KICK] Server survival kicked player __flix__ for reason: Lost Connection
+[ERROR] [20/11/2026] [19:53:49] [FALLBACK] Null lobbies for player __flix__ in group survival
+[ERROR] [20/11/2026] [19:56:15] [KICK] Server survival kicked player the_Cat24567 for reason: Lost Connection
+[ERROR] [20/11/2026] [19:56:15] [FALLBACK] Null lobbies for player the_Cat24567 in group survival
+[ERROR] [20/11/2026] [19:59:48] [KICK] Server survival kicked player boyblue for reason: Lost Connection
+[ERROR] [20/11/2026] [19:59:48] [FALLBACK] Null lobbies for player boyblue in group survival
+[ERROR] [20/11/2026] [20:04:42] [KICK] Server survival kicked player Dr_icecream23 for reason: Lost Connection
+[ERROR] [20/11/2026] [20:04:42] [FALLBACK] Null lobbies for player Dr_icecream23 in group survival
+[ERROR] [20/11/2026] [20:12:53] [KICK] Server survival kicked player Wsg for reason: Lost Connection
+[ERROR] [20/11/2026] [20:12:53] [FALLBACK] Null lobbies for player Wsg in group survival
+[ERROR] [20/11/2026] [20:13:52] [KICK] Server survival kicked player EthanPLAYZ for reason: Lost Connection
+[ERROR] [20/11/2026] [20:13:52] [FALLBACK] Null lobbies for player EthanPLAYZ in group survival
+[ERROR] [20/11/2026] [20:14:20] [KICK] Server survival kicked player EthanPLAYZ for reason: Lost Connection
+[ERROR] [20/11/2026] [20:14:20] [FALLBACK] Null lobbies for player EthanPLAYZ in group survival
+[ERROR] [20/11/2026] [20:14:27] [KICK] Server survival kicked player Dr_icecream23 for reason: Lost Connection
+[ERROR] [20/11/2026] [20:14:27] [FALLBACK] Null lobbies for player Dr_icecream23 in group survival
+[ERROR] [20/11/2026] [20:14:58] [KICK] Server survival kicked player Wsg for reason: Lost Connection
+[ERROR] [20/11/2026] [20:14:58] [FALLBACK] Null lobbies for player Wsg in group survival
+[ERROR] [20/11/2026] [20:15:25] [KICK] Server survival kicked player Dr_icecream23 for reason: Lost Connection
+[ERROR] [20/11/2026] [20:15:25] [FALLBACK] Null lobbies for player Dr_icecream23 in group survival
+[ERROR] [20/11/2026] [20:15:31] [KICK] Server survival kicked player Wsg for reason: Lost Connection
+[ERROR] [20/11/2026] [20:15:31] [FALLBACK] Null lobbies for player Wsg in group survival
+[ERROR] [20/11/2026] [20:15:40] [KICK] Server survival kicked player TheOnlyRealWasp_ for reason: Lost Connection
+[ERROR] [20/11/2026] [20:15:40] [FALLBACK] Null lobbies for player TheOnlyRealWasp_ in group survival
+[ERROR] [20/11/2026] [20:15:45] [KICK] Server survival kicked player zayqtp for reason: Lost Connection
+[ERROR] [20/11/2026] [20:15:45] [FALLBACK] Null lobbies for player zayqtp in group survival
+[ERROR] [20/11/2026] [20:20:52] [KICK] Server survival kicked player somuel for reason: Lost Connection
+[ERROR] [20/11/2026] [20:20:52] [FALLBACK] Null lobbies for player somuel in group survival
+[ERROR] [20/11/2026] [20:21:54] [KICK] Server survival kicked player Wsg for reason: Lost Connection
+[ERROR] [20/11/2026] [20:21:54] [FALLBACK] Null lobbies for player Wsg in group survival
+[ERROR] [20/11/2026] [20:22:12] [KICK] Server survival kicked player EthanPLAYZ for reason: Lost Connection
+[ERROR] [20/11/2026] [20:22:12] [FALLBACK] Null lobbies for player EthanPLAYZ in group survival
+[ERROR] [20/11/2026] [20:29:49] [KICK] Server survival kicked player EDWIN_THE_V_2323 for reason: Lost Connection
+[ERROR] [20/11/2026] [20:29:49] [FALLBACK] Null lobbies for player EDWIN_THE_V_2323 in group survival
+[ERROR] [20/11/2026] [20:39:54] [KICK] Server survival kicked player EthanPLAYZ for reason: Lost Connection
+[ERROR] [20/11/2026] [20:39:54] [FALLBACK] Null lobbies for player EthanPLAYZ in group survival
+[ERROR] [20/11/2026] [20:41:37] [KICK] Server survival kicked player Dr_icecream23 for reason: Lost Connection
+[ERROR] [20/11/2026] [20:41:37] [FALLBACK] Null lobbies for player Dr_icecream23 in group survival
+[ERROR] [20/11/2026] [21:01:04] [KICK] Server survival kicked player odri2033 for reason: Lost Connection
+[ERROR] [20/11/2026] [21:01:04] [FALLBACK] Null lobbies for player odri2033 in group survival
+[ERROR] [20/11/2026] [21:07:42] [KICK] Server survival kicked player JUDE_dud for reason: Lost Connection
+[ERROR] [20/11/2026] [21:07:42] [FALLBACK] Null lobbies for player JUDE_dud in group survival
+[ERROR] [20/11/2026] [21:07:58] [KICK] Server survival kicked player EDWIN_THE_V_2323 for reason: Lost Connection
+[ERROR] [20/11/2026] [21:07:58] [FALLBACK] Null lobbies for player EDWIN_THE_V_2323 in group survival
+[ERROR] [20/11/2026] [21:24:55] [KICK] Server survival kicked player Survivor_1 for reason: Lost Connection
+[ERROR] [20/11/2026] [21:24:55] [FALLBACK] Null lobbies for player Survivor_1 in group survival
+[ERROR] [20/11/2026] [21:33:17] [KICK] Server survival kicked player EDWIN_THE_V_2323 for reason: Lost Connection
+[ERROR] [20/11/2026] [21:33:17] [FALLBACK] Null lobbies for player EDWIN_THE_V_2323 in group survival
+[ERROR] [20/11/2026] [21:33:38] [KICK] Server survival kicked player baby_GIRL for reason: Lost Connection
+[ERROR] [20/11/2026] [21:33:38] [FALLBACK] Null lobbies for player baby_GIRL in group survival
+[ERROR] [20/11/2026] [21:33:51] [KICK] Server survival kicked player EDWIN_THE_V_2323 for reason: Lost Connection
+[ERROR] [20/11/2026] [21:33:51] [FALLBACK] Null lobbies for player EDWIN_THE_V_2323 in group survival
+[ERROR] [20/11/2026] [21:36:29] [KICK] Server survival kicked player Orion_n for reason: Lost Connection
+[ERROR] [20/11/2026] [21:36:29] [FALLBACK] Null lobbies for player Orion_n in group survival
+[ERROR] [20/11/2026] [21:36:56] [KICK] Server survival kicked player Orion_n for reason: Lost Connection
+[ERROR] [20/11/2026] [21:36:56] [FALLBACK] Null lobbies for player Orion_n in group survival
+[ERROR] [20/11/2026] [21:41:43] [KICK] Server survival kicked player isme12 for reason: Lost Connection
+[ERROR] [20/11/2026] [21:41:43] [FALLBACK] Null lobbies for player isme12 in group survival
+[ERROR] [20/11/2026] [21:46:16] [KICK] Server survival kicked player EDWIN_THE_V_2323 for reason: Lost Connection
+[ERROR] [20/11/2026] [21:46:16] [FALLBACK] Null lobbies for player EDWIN_THE_V_2323 in group survival
+[ERROR] [20/11/2026] [21:50:26] [KICK] Server survival kicked player olivio5 for reason: Lost Connection
+[ERROR] [20/11/2026] [21:50:26] [FALLBACK] Null lobbies for player olivio5 in group survival
+[ERROR] [20/11/2026] [21:53:06] [KICK] Server survival kicked player yafor25 for reason: Lost Connection
+[ERROR] [20/11/2026] [21:53:06] [FALLBACK] Null lobbies for player yafor25 in group survival
+[ERROR] [20/11/2026] [21:53:43] [KICK] Server survival kicked player yafor25 for reason: Lost Connection
+[ERROR] [20/11/2026] [21:53:43] [FALLBACK] Null lobbies for player yafor25 in group survival
+[ERROR] [20/11/2026] [21:54:28] [KICK] Server survival kicked player mani_0 for reason: Lost Connection
+[ERROR] [20/11/2026] [21:54:28] [FALLBACK] Null lobbies for player mani_0 in group survival
+[ERROR] [20/11/2026] [21:56:13] [KICK] Server survival kicked player mani_0 for reason: Lost Connection
+[ERROR] [20/11/2026] [21:56:13] [FALLBACK] Null lobbies for player mani_0 in group survival
+[ERROR] [20/11/2026] [22:09:38] [KICK] Server survival kicked player Karii11 for reason: Lost Connection
+[ERROR] [20/11/2026] [22:09:38] [FALLBACK] Null lobbies for player Karii11 in group survival
+[ERROR] [20/11/2026] [22:18:20] [KICK] Server survival kicked player klplays8091_ for reason: Lost Connection
+[ERROR] [20/11/2026] [22:18:20] [FALLBACK] Null lobbies for player klplays8091_ in group survival
+[ERROR] [20/11/2026] [22:18:30] [KICK] Server survival kicked player Karii11 for reason: Lost Connection
+[ERROR] [20/11/2026] [22:18:30] [FALLBACK] Null lobbies for player Karii11 in group survival
+[ERROR] [20/11/2026] [22:25:26] [KICK] Server survival kicked player ggez for reason: Lost Connection
+[ERROR] [20/11/2026] [22:25:26] [FALLBACK] Null lobbies for player ggez in group survival
+[ERROR] [20/11/2026] [22:25:42] [KICK] Server survival kicked player EDWIN_THE_V_2323 for reason: Lost Connection
+[ERROR] [20/11/2026] [22:25:42] [FALLBACK] Null lobbies for player EDWIN_THE_V_2323 in group survival
+[ERROR] [20/11/2026] [22:26:38] [KICK] Server survival kicked player Ollie_090 for reason: Lost Connection
+[ERROR] [20/11/2026] [22:26:38] [FALLBACK] Null lobbies for player Ollie_090 in group survival
+[ERROR] [20/11/2026] [22:28:18] [KICK] Server survival kicked player Ollie_090 for reason: Lost Connection
+[ERROR] [20/11/2026] [22:28:18] [FALLBACK] Null lobbies for player Ollie_090 in group survival
+[ERROR] [20/11/2026] [22:30:30] [KICK] Server survival kicked player Wsg for reason: Lost Connection
+[ERROR] [20/11/2026] [22:30:30] [FALLBACK] Null lobbies for player Wsg in group survival
+[ERROR] [20/11/2026] [22:44:32] [KICK] Server survival kicked player YeeYeeish885 for reason: Lost Connection
+[ERROR] [20/11/2026] [22:44:32] [FALLBACK] Null lobbies for player YeeYeeish885 in group survival
+[ERROR] [20/11/2026] [22:51:58] [KICK] Server survival kicked player gooooioig for reason: Lost Connection
+[ERROR] [20/11/2026] [22:51:58] [FALLBACK] Null lobbies for player gooooioig in group survival
+[ERROR] [20/11/2026] [22:52:06] [KICK] Server survival kicked player R4D7R1 for reason: Lost Connection
+[ERROR] [20/11/2026] [22:52:06] [FALLBACK] Null lobbies for player R4D7R1 in group survival
+[ERROR] [20/11/2026] [22:52:32] [KICK] Server survival kicked player Karii11 for reason: Lost Connection
+[ERROR] [20/11/2026] [22:52:32] [FALLBACK] Null lobbies for player Karii11 in group survival
+[ERROR] [20/11/2026] [22:56:48] [KICK] Server survival kicked player Karii11 for reason: Lost Connection
+[ERROR] [20/11/2026] [22:56:48] [FALLBACK] Null lobbies for player Karii11 in group survival
+[ERROR] [20/11/2026] [23:15:23] [KICK] Server survival kicked player Karii11 for reason: Lost Connection
+[ERROR] [20/11/2026] [23:15:23] [FALLBACK] Null lobbies for player Karii11 in group survival
+[ERROR] [20/11/2026] [23:34:25] [KICK] Server survival kicked player odri2033 for reason: Lost Connection
+[ERROR] [20/11/2026] [23:34:25] [FALLBACK] Null lobbies for player odri2033 in group survival
+[ERROR] [20/11/2026] [23:43:49] [KICK] Server survival kicked player VaxNathaniel for reason: Lost Connection
+[ERROR] [20/11/2026] [23:43:49] [FALLBACK] Null lobbies for player VaxNathaniel in group survival
+[ERROR] [20/11/2026] [23:44:15] [KICK] Server survival kicked player VaxNathaniel for reason: Lost Connection
+[ERROR] [20/11/2026] [23:44:15] [FALLBACK] Null lobbies for player VaxNathaniel in group survival
+[ERROR] [20/11/2026] [23:44:31] [KICK] Server survival kicked player Karii11 for reason: Lost Connection
+[ERROR] [20/11/2026] [23:44:31] [FALLBACK] Null lobbies for player Karii11 in group survival
+[ERROR] [20/11/2026] [23:45:11] [KICK] Server survival kicked player Jimmy_101_mc for reason: Lost Connection
+[ERROR] [20/11/2026] [23:45:11] [FALLBACK] Null lobbies for player Jimmy_101_mc in group survival
+[ERROR] [20/11/2026] [23:46:33] [KICK] Server survival kicked player Jimmy_101_mc for reason: Lost Connection
+[ERROR] [20/11/2026] [23:46:33] [FALLBACK] Null lobbies for player Jimmy_101_mc in group survival
+[ERROR] [20/11/2026] [23:48:05] [KICK] Server survival kicked player Karii11 for reason: Lost Connection
+[ERROR] [20/11/2026] [23:48:05] [FALLBACK] Null lobbies for player Karii11 in group survival
+[ERROR] [20/11/2026] [23:48:18] [KICK] Server survival kicked player _YYBB_ for reason: Lost Connection
+[ERROR] [20/11/2026] [23:48:18] [FALLBACK] Null lobbies for player _YYBB_ in group survival
+[ERROR] [20/11/2026] [23:50:01] [KICK] Server survival kicked player Karii11 for reason: Lost Connection
+[ERROR] [20/11/2026] [23:50:01] [FALLBACK] Null lobbies for player Karii11 in group survival
+[ERROR] [20/11/2026] [23:51:19] [KICK] Server survival kicked player Karii11 for reason: Lost Connection
+[ERROR] [20/11/2026] [23:51:19] [FALLBACK] Null lobbies for player Karii11 in group survival
+[ERROR] [20/11/2026] [23:54:56] [KICK] Server survival kicked player _YYBB_ for reason: Lost Connection
+[ERROR] [20/11/2026] [23:54:56] [FALLBACK] Null lobbies for player _YYBB_ in group survival
+[ERROR] [20/11/2026] [23:55:11] [KICK] Server survival kicked player slixence for reason: Lost Connection
+[ERROR] [20/11/2026] [23:55:11] [FALLBACK] Null lobbies for player slixence in group survival
+[ERROR] [21/11/2026] [00:05:14] [KICK] Server survival kicked player _YYBB_ for reason: Lost Connection
+[ERROR] [21/11/2026] [00:05:14] [FALLBACK] Null lobbies for player _YYBB_ in group survival
+[ERROR] [21/11/2026] [00:06:00] [KICK] Server survival kicked player somuel for reason: Lost Connection
+[ERROR] [21/11/2026] [00:06:00] [FALLBACK] Null lobbies for player somuel in group survival
+[ERROR] [21/11/2026] [00:21:23] [KICK] Server survival kicked player _Spidey_XD_ for reason: Lost Connection
+[ERROR] [21/11/2026] [00:21:23] [FALLBACK] Null lobbies for player _Spidey_XD_ in group survival
+[ERROR] [21/11/2026] [00:24:04] [KICK] Server survival kicked player Guest_9056598 for reason: Lost Connection
+[ERROR] [21/11/2026] [00:24:04] [FALLBACK] Null lobbies for player Guest_9056598 in group survival
+[ERROR] [21/11/2026] [00:26:52] [KICK] Server survival kicked player Jimmy_101_mc for reason: Lost Connection
+[ERROR] [21/11/2026] [00:26:52] [FALLBACK] Null lobbies for player Jimmy_101_mc in group survival
+[ERROR] [21/11/2026] [00:31:36] [KICK] Server survival kicked player _Spidey_XD_ for reason: Lost Connection
+[ERROR] [21/11/2026] [00:31:36] [FALLBACK] Null lobbies for player _Spidey_XD_ in group survival
+[ERROR] [21/11/2026] [00:33:08] [KICK] Server survival kicked player _Spidey_XD_ for reason: Lost Connection
+[ERROR] [21/11/2026] [00:33:08] [FALLBACK] Null lobbies for player _Spidey_XD_ in group survival
+[ERROR] [21/11/2026] [00:47:29] [KICK] Server survival kicked player miles for reason: Lost Connection
+[ERROR] [21/11/2026] [00:47:29] [FALLBACK] Null lobbies for player miles in group survival
+[ERROR] [21/11/2026] [00:47:40] [KICK] Server survival kicked player EDWIN_THE_V_2323 for reason: Lost Connection
+[ERROR] [21/11/2026] [00:47:40] [FALLBACK] Null lobbies for player EDWIN_THE_V_2323 in group survival
+[ERROR] [21/11/2026] [00:53:22] [KICK] Server survival kicked player Karii11 for reason: Lost Connection
+[ERROR] [21/11/2026] [00:53:22] [FALLBACK] Null lobbies for player Karii11 in group survival
+[ERROR] [21/11/2026] [01:07:30] [KICK] Server survival kicked player _Spidey_XD_ for reason: Lost Connection
+[ERROR] [21/11/2026] [01:07:30] [FALLBACK] Null lobbies for player _Spidey_XD_ in group survival
+[ERROR] [21/11/2026] [01:10:08] [KICK] Server survival kicked player _Spidey_XD_ for reason: Lost Connection
+[ERROR] [21/11/2026] [01:10:08] [FALLBACK] Null lobbies for player _Spidey_XD_ in group survival
+[ERROR] [21/11/2026] [01:11:47] [KICK] Server survival kicked player scammer2000 for reason: Lost Connection
+[ERROR] [21/11/2026] [01:11:47] [FALLBACK] Null lobbies for player scammer2000 in group survival
+[ERROR] [21/11/2026] [01:13:50] [KICK] Server survival kicked player SatoruJoro for reason: Lost Connection
+[ERROR] [21/11/2026] [01:13:50] [FALLBACK] Null lobbies for player SatoruJoro in group survival
+[ERROR] [21/11/2026] [01:14:43] [KICK] Server survival kicked player slixence for reason: Lost Connection
+[ERROR] [21/11/2026] [01:14:43] [FALLBACK] Null lobbies for player slixence in group survival
+[ERROR] [21/11/2026] [01:14:48] [KICK] Server survival kicked player CRUZAYDE for reason: Lost Connection
+[ERROR] [21/11/2026] [01:14:48] [FALLBACK] Null lobbies for player CRUZAYDE in group survival
+[ERROR] [21/11/2026] [01:47:02] [KICK] Server survival kicked player slixence for reason: disconnect.timeout
+[ERROR] [21/11/2026] [01:47:02] [FALLBACK] Null lobbies for player slixence in group survival
+[ERROR] [21/11/2026] [01:49:17] [KICK] Server survival kicked player Ninja_Man for reason: disconnect.timeout
+[ERROR] [21/11/2026] [01:49:17] [FALLBACK] Null lobbies for player Ninja_Man in group survival
+[ERROR] [21/11/2026] [01:52:13] [KICK] Server survival kicked player CyberAssasinXD for reason: You are banned from this server. Reason: [BetterAntiSwear] Temp-ban: Repeated swearing (offense 4/5). Ban expires in 2 hours. Appeal at your-discord.gg
+[ERROR] [21/11/2026] [01:52:23] [KICK] Server survival kicked player CyberAssasinXD for reason: You are banned from this server. Reason: [BetterAntiSwear] Temp-ban: Repeated swearing (offense 4/5). Ban expires in 2 hours. Appeal at your-discord.gg
+[ERROR] [21/11/2026] [01:52:57] [KICK] Server survival kicked player Ninja_Man for reason: disconnect.timeout
+[ERROR] [21/11/2026] [01:52:57] [FALLBACK] Null lobbies for player Ninja_Man in group survival
+[ERROR] [21/11/2026] [01:53:03] [KICK] Server survival kicked player CyberAssasinXD for reason: You are banned from this server. Reason: [BetterAntiSwear] Temp-ban: Repeated swearing (offense 4/5). Ban expires in 2 hours. Appeal at your-discord.gg
+[ERROR] [21/11/2026] [01:58:25] [KICK] Server survival kicked player CyberAssasinXD for reason: You are banned from this server. Reason: [BetterAntiSwear] Temp-ban: Repeated swearing (offense 4/5). Ban expires in 2 hours. Appeal at your-discord.gg
+[ERROR] [21/11/2026] [01:59:23] [KICK] Server survival kicked player Ninja_Man for reason: disconnect.timeout
+[ERROR] [21/11/2026] [01:59:23] [FALLBACK] Null lobbies for player Ninja_Man in group survival
+[ERROR] [21/11/2026] [02:14:07] [KICK] Server survival kicked player miles for reason: disconnect.timeout
+[ERROR] [21/11/2026] [02:14:07] [FALLBACK] Null lobbies for player miles in group survival
+[ERROR] [21/11/2026] [02:23:23] [KICK] Server survival kicked player legacy2016 for reason: Lost Connection
+[ERROR] [21/11/2026] [02:23:23] [FALLBACK] Null lobbies for player legacy2016 in group survival
+[ERROR] [21/11/2026] [02:23:30] [KICK] Server survival kicked player legacy2016 for reason: You are banned from this server for 53 seconds. Reason: Server Crasher Detected
+[ERROR] [21/11/2026] [02:29:14] [KICK] Server survival kicked player legacy2016 for reason: multiplayer.disconnect.flying
+[ERROR] [21/11/2026] [02:31:03] [KICK] Server survival kicked player 67_ for reason: disconnect.timeout
+[ERROR] [21/11/2026] [02:31:03] [FALLBACK] Null lobbies for player 67_ in group survival
+[ERROR] [21/11/2026] [02:37:36] [KICK] Server survival kicked player CyberAssasinXD for reason: You are banned from this server. Reason: [BetterAntiSwear] Temp-ban: Repeated swearing (offense 4/5). Ban expires in 2 hours. Appeal at your-discord.gg
+[ERROR] [21/11/2026] [02:37:59] [KICK] Server survival kicked player Calitsmedave_ for reason: velocity.error.internal-server-connection-error
+[ERROR] [21/11/2026] [02:37:59] [FALLBACK] Null lobbies for player Calitsmedave_ in group survival
+[ERROR] [21/11/2026] [02:38:51] [KICK] Server survival kicked player _Spidey_XD_ for reason: disconnect.timeout
+[ERROR] [21/11/2026] [02:38:51] [FALLBACK] Null lobbies for player _Spidey_XD_ in group survival
+[ERROR] [21/11/2026] [02:43:29] [KICK] Server survival kicked player RedstoneDude for reason: disconnect.timeout
+[ERROR] [21/11/2026] [02:43:29] [FALLBACK] Null lobbies for player RedstoneDude in group survival
+[ERROR] [21/11/2026] [02:43:49] [KICK] Server survival kicked player Slenderman for reason: velocity.error.internal-server-connection-error
+[ERROR] [21/11/2026] [02:43:49] [FALLBACK] Null lobbies for player Slenderman in group survival
+[ERROR] [21/11/2026] [02:48:43] [KICK] Server survival kicked player CyberAssasinXD for reason: You are banned from this server. Reason: [BetterAntiSwear] Temp-ban: Repeated swearing (offense 4/5). Ban expires in 2 hours. Appeal at your-discord.gg
+[ERROR] [21/11/2026] [02:50:28] [KICK] Server survival kicked player olivio5 for reason: disconnect.timeout
+[ERROR] [21/11/2026] [02:50:28] [FALLBACK] Null lobbies for player olivio5 in group survival
+[ERROR] [21/11/2026] [02:56:08] [KICK] Server survival kicked player CyberAssasin for reason: disconnect.spam
+[ERROR] [21/11/2026] [02:56:08] [FALLBACK] Null lobbies for player CyberAssasin in group survival
+[ERROR] [21/11/2026] [02:57:06] [KICK] Server survival kicked player CyberAssasin for reason: disconnect.spam
+[ERROR] [21/11/2026] [02:57:06] [FALLBACK] Null lobbies for player CyberAssasin in group survival
+[ERROR] [21/11/2026] [03:08:16] [KICK] Server survival kicked player Dr_icecream23 for reason: disconnect.timeout
+[ERROR] [21/11/2026] [03:08:16] [FALLBACK] Null lobbies for player Dr_icecream23 in group survival
+[ERROR] [21/11/2026] [03:15:58] [KICK] Server survival kicked player coryshot for reason: disconnect.timeout
+[ERROR] [21/11/2026] [03:15:58] [FALLBACK] Null lobbies for player coryshot in group survival
+[ERROR] [21/11/2026] [03:25:53] [KICK] Server survival kicked player pig_22 for reason: multiplayer.disconnect.flying
+[ERROR] [21/11/2026] [03:29:27] [KICK] Server survival kicked player SURYA for reason: velocity.error.internal-server-connection-error
+[ERROR] [21/11/2026] [03:29:27] [FALLBACK] Null lobbies for player SURYA in group survival
+[ERROR] [21/11/2026] [03:30:31] [KICK] Server survival kicked player jjjjj67 for reason: Lost Connection
+[ERROR] [21/11/2026] [03:30:31] [FALLBACK] Null lobbies for player jjjjj67 in group survival
+[ERROR] [21/11/2026] [03:30:47] [KICK] Server survival kicked player AhmedPlatinumI for reason: velocity.error.internal-server-connection-error
+[ERROR] [21/11/2026] [03:30:47] [FALLBACK] Null lobbies for player AhmedPlatinumI in group survival
+[ERROR] [21/11/2026] [03:30:58] [KICK] Server survival kicked player KingAurelis for reason: Lost Connection
+[ERROR] [21/11/2026] [03:30:58] [FALLBACK] Null lobbies for player KingAurelis in group survival
+[ERROR] [21/11/2026] [04:22:55] [KICK] Server survival kicked player notplushy33 for reason: velocity.error.internal-server-connection-error
+[ERROR] [21/11/2026] [04:22:55] [FALLBACK] Null lobbies for player notplushy33 in group survival
+[ERROR] [21/11/2026] [04:51:33] [KICK] Server survival kicked player Ahmad for reason: disconnect.timeout
+[ERROR] [21/11/2026] [04:51:33] [FALLBACK] Null lobbies for player Ahmad in group survival
+[ERROR] [21/11/2026] [04:55:54] [KICK] Server survival kicked player Ahmad for reason: disconnect.timeout
+[ERROR] [21/11/2026] [04:55:54] [FALLBACK] Null lobbies for player Ahmad in group survival
+[ERROR] [21/11/2026] [04:58:44] [KICK] Server survival kicked player Ahmad for reason: disconnect.timeout
+[ERROR] [21/11/2026] [04:58:44] [FALLBACK] Null lobbies for player Ahmad in group survival
+[ERROR] [21/11/2026] [05:03:24] [KICK] Server survival kicked player Ahmad for reason: disconnect.timeout
+[ERROR] [21/11/2026] [05:03:24] [FALLBACK] Null lobbies for player Ahmad in group survival
+[ERROR] [21/11/2026] [05:05:59] [KICK] Server survival kicked player Ahmad for reason: disconnect.spam
+[ERROR] [21/11/2026] [05:05:59] [FALLBACK] Null lobbies for player Ahmad in group survival
+[ERROR] [21/11/2026] [05:06:44] [KICK] Server survival kicked player Ahmad for reason: disconnect.timeout
+[ERROR] [21/11/2026] [05:06:44] [FALLBACK] Null lobbies for player Ahmad in group survival
+[ERROR] [21/11/2026] [05:16:38] [KICK] Server survival kicked player SURYA for reason: disconnect.timeout
+[ERROR] [21/11/2026] [05:16:38] [FALLBACK] Null lobbies for player SURYA in group survival
+[ERROR] [21/11/2026] [05:18:01] [KICK] Server survival kicked player _Spidey_XD_ for reason: disconnect.timeout
+[ERROR] [21/11/2026] [05:18:01] [FALLBACK] Null lobbies for player _Spidey_XD_ in group survival
+[ERROR] [21/11/2026] [05:21:54] [KICK] Server survival kicked player Ahmad for reason: disconnect.timeout
+[ERROR] [21/11/2026] [05:21:54] [FALLBACK] Null lobbies for player Ahmad in group survival
+[ERROR] [21/11/2026] [05:23:20] [KICK] Server survival kicked player Ahmad for reason: disconnect.timeout
+[ERROR] [21/11/2026] [05:23:20] [FALLBACK] Null lobbies for player Ahmad in group survival
+[ERROR] [21/11/2026] [05:24:49] [KICK] Server survival kicked player Ahmad for reason: disconnect.timeout
+[ERROR] [21/11/2026] [05:24:49] [FALLBACK] Null lobbies for player Ahmad in group survival
+[ERROR] [21/11/2026] [05:27:16] [KICK] Server survival kicked player Ahmad for reason: disconnect.timeout
+[ERROR] [21/11/2026] [05:27:16] [FALLBACK] Null lobbies for player Ahmad in group survival
+[ERROR] [21/11/2026] [05:28:16] [KICK] Server survival kicked player Ahmad for reason: disconnect.timeout
+[ERROR] [21/11/2026] [05:28:16] [FALLBACK] Null lobbies for player Ahmad in group survival
+[ERROR] [21/11/2026] [05:34:47] [KICK] Server survival kicked player Ahmad for reason: disconnect.timeout
+[ERROR] [21/11/2026] [05:34:47] [FALLBACK] Null lobbies for player Ahmad in group survival
+[ERROR] [21/11/2026] [05:36:27] [KICK] Server survival kicked player Ahmad for reason: disconnect.timeout
+[ERROR] [21/11/2026] [05:36:27] [FALLBACK] Null lobbies for player Ahmad in group survival
+[ERROR] [21/11/2026] [05:37:28] [KICK] Server survival kicked player notplushy33 for reason: disconnect.timeout
+[ERROR] [21/11/2026] [05:37:28] [FALLBACK] Null lobbies for player notplushy33 in group survival
+[ERROR] [21/11/2026] [05:38:00] [KICK] Server survival kicked player Ahmad for reason: disconnect.timeout
+[ERROR] [21/11/2026] [05:38:00] [FALLBACK] Null lobbies for player Ahmad in group survival
+[ERROR] [21/11/2026] [05:40:13] [KICK] Server survival kicked player notplushy33 for reason: disconnect.timeout
+[ERROR] [21/11/2026] [05:40:13] [FALLBACK] Null lobbies for player notplushy33 in group survival
+[ERROR] [21/11/2026] [05:42:05] [KICK] Server survival kicked player SURYA for reason: velocity.error.internal-server-connection-error
+[ERROR] [21/11/2026] [05:42:05] [FALLBACK] Null lobbies for player SURYA in group survival
+[ERROR] [21/11/2026] [05:44:48] [KICK] Server survival kicked player white for reason: disconnect.timeout
+[ERROR] [21/11/2026] [05:44:48] [FALLBACK] Null lobbies for player white in group survival
+[ERROR] [21/11/2026] [05:46:02] [KICK] Server survival kicked player white for reason: disconnect.timeout
+[ERROR] [21/11/2026] [05:46:02] [FALLBACK] Null lobbies for player white in group survival
+[ERROR] [21/11/2026] [06:01:55] [KICK] Server survival kicked player Noah_James_____ for reason: disconnect.timeout
+[ERROR] [21/11/2026] [06:01:55] [FALLBACK] Null lobbies for player Noah_James_____ in group survival
+[ERROR] [21/11/2026] [06:09:31] [KICK] Server survival kicked player Dr_icecream23 for reason: disconnect.timeout
+[ERROR] [21/11/2026] [06:09:31] [FALLBACK] Null lobbies for player Dr_icecream23 in group survival
+[ERROR] [21/11/2026] [06:24:38] [KICK] Server survival kicked player coryshot for reason: disconnect.timeout
+[ERROR] [21/11/2026] [06:24:38] [FALLBACK] Null lobbies for player coryshot in group survival
+[ERROR] [21/11/2026] [06:29:45] [KICK] Server survival kicked player coryshot for reason: disconnect.timeout
+[ERROR] [21/11/2026] [06:29:45] [FALLBACK] Null lobbies for player coryshot in group survival
+[ERROR] [21/11/2026] [06:30:09] [KICK] Server survival kicked player coryshot for reason: velocity.error.internal-server-connection-error
+[ERROR] [21/11/2026] [06:30:09] [FALLBACK] Null lobbies for player coryshot in group survival
+[ERROR] [21/11/2026] [06:32:00] [KICK] Server survival kicked player coryshot for reason: velocity.error.internal-server-connection-error
+[ERROR] [21/11/2026] [06:32:00] [FALLBACK] Null lobbies for player coryshot in group survival
+[ERROR] [21/11/2026] [06:33:10] [KICK] Server survival kicked player coryshot for reason: velocity.error.internal-server-connection-error
+[ERROR] [21/11/2026] [06:33:10] [FALLBACK] Null lobbies for player coryshot in group survival
+[ERROR] [21/11/2026] [06:34:06] [KICK] Server survival kicked player coryshot for reason: disconnect.timeout
+[ERROR] [21/11/2026] [06:34:06] [FALLBACK] Null lobbies for player coryshot in group survival
+[ERROR] [21/11/2026] [06:35:15] [KICK] Server survival kicked player coryshot for reason: disconnect.timeout
+[ERROR] [21/11/2026] [06:35:15] [FALLBACK] Null lobbies for player coryshot in group survival
+[ERROR] [21/11/2026] [06:35:33] [KICK] Server survival kicked player coryshot for reason: disconnect.timeout
+[ERROR] [21/11/2026] [06:35:33] [FALLBACK] Null lobbies for player coryshot in group survival
+[ERROR] [21/11/2026] [06:37:47] [KICK] Server survival kicked player senay for reason: disconnect.timeout
+[ERROR] [21/11/2026] [06:37:47] [FALLBACK] Null lobbies for player senay in group survival
+[ERROR] [21/11/2026] [06:55:39] [KICK] Server survival kicked player pig_22 for reason: multiplayer.disconnect.flying
+[ERROR] [21/11/2026] [06:56:45] [KICK] Server survival kicked player pig_22 for reason: velocity.error.internal-server-connection-error
+[ERROR] [21/11/2026] [06:56:45] [FALLBACK] Null lobbies for player pig_22 in group survival
+[ERROR] [21/11/2026] [07:12:47] [KICK] Server survival kicked player _YYBB_ for reason: disconnect.timeout
+[ERROR] [21/11/2026] [07:12:47] [FALLBACK] Null lobbies for player _YYBB_ in group survival
+[ERROR] [21/11/2026] [07:19:26] [KICK] Server survival kicked player king_uzair for reason: disconnect.timeout
+[ERROR] [21/11/2026] [07:19:26] [FALLBACK] Null lobbies for player king_uzair in group survival
+[ERROR] [21/11/2026] [07:27:49] [KICK] Server survival kicked player escapets20 for reason: disconnect.timeout
+[ERROR] [21/11/2026] [07:27:49] [FALLBACK] Null lobbies for player escapets20 in group survival
+[ERROR] [21/11/2026] [08:21:00] [KICK] Server survival kicked player _FlameFrags_Fan_ for reason: disconnect.timeout
+[ERROR] [21/11/2026] [08:21:00] [FALLBACK] Null lobbies for player _FlameFrags_Fan_ in group survival
+[ERROR] [21/11/2026] [08:48:45] [KICK] Server survival kicked player 11rojx for reason: disconnect.spam
+[ERROR] [21/11/2026] [08:48:45] [FALLBACK] Null lobbies for player 11rojx in group survival
+[ERROR] [21/11/2026] [08:49:21] [KICK] Server survival kicked player bigboyjordan for reason: disconnect.timeout
+[ERROR] [21/11/2026] [08:49:21] [FALLBACK] Null lobbies for player bigboyjordan in group survival
+[ERROR] [21/11/2026] [08:54:11] [KICK] Server survival kicked player Drakz for reason: disconnect.timeout
+[ERROR] [21/11/2026] [08:54:11] [FALLBACK] Null lobbies for player Drakz in group survival
+[ERROR] [21/11/2026] [08:59:00] [KICK] Server survival kicked player bigboyjordan for reason: disconnect.timeout
+[ERROR] [21/11/2026] [08:59:00] [FALLBACK] Null lobbies for player bigboyjordan in group survival
+[ERROR] [21/11/2026] [09:01:15] [KICK] Server survival kicked player bigboyjordan for reason: disconnect.timeout
+[ERROR] [21/11/2026] [09:01:15] [FALLBACK] Null lobbies for player bigboyjordan in group survival
+[ERROR] [21/11/2026] [09:09:41] [KICK] Server survival kicked player 11rojx for reason: disconnect.timeout
+[ERROR] [21/11/2026] [09:09:41] [FALLBACK] Null lobbies for player 11rojx in group survival
+[ERROR] [21/11/2026] [09:11:05] [KICK] Server survival kicked player bigboyjordan for reason: disconnect.timeout
+[ERROR] [21/11/2026] [09:11:05] [FALLBACK] Null lobbies for player bigboyjordan in group survival
+[ERROR] [21/11/2026] [09:15:36] [KICK] Server survival kicked player bigboyjordan for reason: disconnect.timeout
+[ERROR] [21/11/2026] [09:15:36] [FALLBACK] Null lobbies for player bigboyjordan in group survival
+[ERROR] [21/11/2026] [09:22:03] [KICK] Server survival kicked player cubo_gognet for reason: disconnect.timeout
+[ERROR] [21/11/2026] [09:22:03] [FALLBACK] Null lobbies for player cubo_gognet in group survival
+[ERROR] [21/11/2026] [09:31:13] [KICK] Server survival kicked player bigboyjordan for reason: disconnect.timeout
+[ERROR] [21/11/2026] [09:31:13] [FALLBACK] Null lobbies for player bigboyjordan in group survival
+[ERROR] [21/11/2026] [09:33:34] [KICK] Server survival kicked player bigboyjordan for reason: velocity.error.internal-server-connection-error
+[ERROR] [21/11/2026] [09:33:34] [FALLBACK] Null lobbies for player bigboyjordan in group survival
+[ERROR] [21/11/2026] [10:11:06] [KICK] Server survival kicked player FemboyFeetSmeler for reason: disconnect.timeout
+[ERROR] [21/11/2026] [10:11:06] [FALLBACK] Null lobbies for player FemboyFeetSmeler in group survival
+[ERROR] [21/11/2026] [10:52:18] [KICK] Server survival kicked player Guest_7542499 for reason: velocity.error.internal-server-connection-error
+[ERROR] [21/11/2026] [10:52:18] [FALLBACK] Null lobbies for player Guest_7542499 in group survival
+[ERROR] [21/11/2026] [10:55:30] [KICK] Server survival kicked player loggy for reason: disconnect.timeout
+[ERROR] [21/11/2026] [10:55:30] [FALLBACK] Null lobbies for player loggy in group survival
+[ERROR] [21/11/2026] [11:51:34] [KICK] Server survival kicked player Drakz for reason: disconnect.timeout
+[ERROR] [21/11/2026] [11:51:34] [FALLBACK] Null lobbies for player Drakz in group survival
+[ERROR] [21/11/2026] [12:03:07] [KICK] Server survival kicked player JumperWhos for reason: You are banned from this server. Reason: The Ban Hammer has spoken!
+[ERROR] [21/11/2026] [12:06:59] [KICK] Server survival kicked player _Spidey_XD_ for reason: You have been temporarily banned for 2 hours:
+"spamm
+[ERROR] [21/11/2026] [12:07:11] [KICK] Server survival kicked player _Spidey_XD_ for reason: You are banned from this server for 1 hour 59 minutes 47 seconds. Reason: "spamm
+[ERROR] [21/11/2026] [12:08:59] [KICK] Server survival kicked player TopChampion141 for reason: You have been temporarily banned for 2 hours:
+"ban evading spam"
+[ERROR] [21/11/2026] [12:25:33] [KICK] Server survival kicked player FlametheGoat for reason: velocity.error.internal-server-connection-error
+[ERROR] [21/11/2026] [12:25:33] [FALLBACK] Null lobbies for player FlametheGoat in group survival
+[ERROR] [21/11/2026] [12:33:45] [KICK] Server survival kicked player CyberAssasinXD for reason: You are banned from this server. Reason: [BetterAntiSwear] Temp-ban: Repeated swearing (offense 4/5). Ban expires in 2 hours. Appeal at your-discord.gg
+[ERROR] [21/11/2026] [12:36:21] [KICK] Server survival kicked player YeeDarver1818 for reason: disconnect.timeout
+[ERROR] [21/11/2026] [12:36:21] [FALLBACK] Null lobbies for player YeeDarver1818 in group survival
+[ERROR] [21/11/2026] [12:39:15] [KICK] Server survival kicked player CyberAssasinXD for reason: You are banned from this server. Reason: [BetterAntiSwear] Temp-ban: Repeated swearing (offense 4/5). Ban expires in 2 hours. Appeal at your-discord.gg
+[ERROR] [21/11/2026] [12:43:49] [KICK] Server survival kicked player do_not_kill_me for reason: disconnect.timeout
+[ERROR] [21/11/2026] [12:43:49] [FALLBACK] Null lobbies for player do_not_kill_me in group survival
+[ERROR] [21/11/2026] [13:03:14] [KICK] Server survival kicked player N0TUR_J3RE for reason: disconnect.timeout
+[ERROR] [21/11/2026] [13:03:14] [FALLBACK] Null lobbies for player N0TUR_J3RE in group survival
+[ERROR] [21/11/2026] [13:04:05] [KICK] Server survival kicked player 11rojx for reason: multiplayer.disconnect.flying
+[ERROR] [21/11/2026] [13:04:36] [KICK] Server survival kicked player N0TUR_J3RE for reason: disconnect.timeout
+[ERROR] [21/11/2026] [13:04:36] [FALLBACK] Null lobbies for player N0TUR_J3RE in group survival
+[ERROR] [21/11/2026] [13:07:07] [KICK] Server survival kicked player N0TUR_J3RE for reason: disconnect.timeout
+[ERROR] [21/11/2026] [13:07:07] [FALLBACK] Null lobbies for player N0TUR_J3RE in group survival
+[ERROR] [21/11/2026] [13:20:44] [KICK] Server survival kicked player 11rojx for reason: disconnect.timeout
+[ERROR] [21/11/2026] [13:20:44] [FALLBACK] Null lobbies for player 11rojx in group survival
+[ERROR] [21/11/2026] [13:31:40] [KICK] Server survival kicked player Slenderman for reason: disconnect.timeout
+[ERROR] [21/11/2026] [13:31:40] [FALLBACK] Null lobbies for player Slenderman in group survival
+[ERROR] [21/11/2026] [13:32:14] [KICK] Server survival kicked player killerbunny_25 for reason: velocity.error.internal-server-connection-error
+[ERROR] [21/11/2026] [13:32:14] [FALLBACK] Null lobbies for player killerbunny_25 in group survival
+[ERROR] [21/11/2026] [13:44:39] [KICK] Server survival kicked player JumperWhos for reason: You are banned from this server. Reason: The Ban Hammer has spoken!
+[ERROR] [21/11/2026] [13:44:54] [KICK] Server survival kicked player isme12 for reason: disconnect.timeout
+[ERROR] [21/11/2026] [13:44:54] [FALLBACK] Null lobbies for player isme12 in group survival
+[ERROR] [21/11/2026] [14:14:08] [KICK] Server survival kicked player JumperWhos for reason: You are banned from this server. Reason: The Ban Hammer has spoken!
+[ERROR] [21/11/2026] [14:18:40] [KICK] Server survival kicked player Dr_icecream23 for reason: disconnect.timeout
+[ERROR] [21/11/2026] [14:18:40] [FALLBACK] Null lobbies for player Dr_icecream23 in group survival
+[ERROR] [21/11/2026] [14:38:17] [KICK] Server survival kicked player JumperWhos for reason: You are banned from this server. Reason: The Ban Hammer has spoken!
+[ERROR] [21/11/2026] [14:48:57] [KICK] Server survival kicked player hoanganhdz for reason: disconnect.timeout
+[ERROR] [21/11/2026] [14:48:57] [FALLBACK] Null lobbies for player hoanganhdz in group survival
+[ERROR] [21/11/2026] [15:00:40] [KICK] Server survival kicked player Karii11 for reason: BetterAntiSwear
+
+You were kicked for inappropriate language.
+This is offense 3/5.
+Further violations will result in a ban.
+[ERROR] [21/11/2026] [15:22:28] [KICK] Server survival kicked player CyberAssasinXD for reason: You are banned from this server. Reason: [BetterAntiSwear] Temp-ban: Repeated swearing (offense 4/5). Ban expires in 2 hours. Appeal at your-discord.gg
+[ERROR] [21/11/2026] [15:31:09] [KICK] Server survival kicked player tuffspear for reason: BetterAntiSwear
+
+You were kicked for inappropriate language.
+This is offense 3/5.
+Further violations will result in a ban.
+[ERROR] [21/11/2026] [15:32:56] [KICK] Server survival kicked player CyberAssasin for reason: disconnect.timeout
+[ERROR] [21/11/2026] [15:32:56] [FALLBACK] Null lobbies for player CyberAssasin in group survival
+[ERROR] [21/11/2026] [15:36:48] [KICK] Server survival kicked player _CyberXD_ for reason: disconnect.spam
+[ERROR] [21/11/2026] [15:36:48] [FALLBACK] Null lobbies for player _CyberXD_ in group survival
+[ERROR] [21/11/2026] [15:42:17] [KICK] Server survival kicked player _CyberXD_ for reason: disconnect.spam
+[ERROR] [21/11/2026] [15:42:17] [FALLBACK] Null lobbies for player _CyberXD_ in group survival
+[ERROR] [21/11/2026] [15:52:35] [KICK] Server survival kicked player Yo_kev123 for reason: disconnect.timeout
+[ERROR] [21/11/2026] [15:52:35] [FALLBACK] Null lobbies for player Yo_kev123 in group survival
+[ERROR] [21/11/2026] [15:59:39] [KICK] Server survival kicked player _Ahmed14k_ for reason: disconnect.spam
+[ERROR] [21/11/2026] [15:59:39] [FALLBACK] Null lobbies for player _Ahmed14k_ in group survival
+[ERROR] [21/11/2026] [16:00:27] [KICK] Server survival kicked player Youssef_jooYT for reason: disconnect.spam
+[ERROR] [21/11/2026] [16:00:27] [FALLBACK] Null lobbies for player Youssef_jooYT in group survival
+[ERROR] [21/11/2026] [16:01:45] [KICK] Server survival kicked player Youssef_jooYT for reason: disconnect.spam
+[ERROR] [21/11/2026] [16:01:45] [FALLBACK] Null lobbies for player Youssef_jooYT in group survival
+[ERROR] [21/11/2026] [16:02:30] [KICK] Server survival kicked player Youssef_jooYT for reason: disconnect.spam
+[ERROR] [21/11/2026] [16:02:30] [FALLBACK] Null lobbies for player Youssef_jooYT in group survival
+[ERROR] [21/11/2026] [16:03:18] [KICK] Server survival kicked player Youssef_jooYT for reason: disconnect.spam
+[ERROR] [21/11/2026] [16:03:18] [FALLBACK] Null lobbies for player Youssef_jooYT in group survival
+[ERROR] [21/11/2026] [16:05:37] [KICK] Server survival kicked player Youssef_jooYT for reason: disconnect.spam
+[ERROR] [21/11/2026] [16:05:37] [FALLBACK] Null lobbies for player Youssef_jooYT in group survival
+[ERROR] [21/11/2026] [16:05:51] [KICK] Server survival kicked player _Ahmed14k_ for reason: disconnect.spam
+[ERROR] [21/11/2026] [16:05:51] [FALLBACK] Null lobbies for player _Ahmed14k_ in group survival
+[ERROR] [21/11/2026] [16:06:23] [KICK] Server survival kicked player _Ahmed14k_ for reason: disconnect.spam
+[ERROR] [21/11/2026] [16:06:23] [FALLBACK] Null lobbies for player _Ahmed14k_ in group survival
+[ERROR] [21/11/2026] [16:11:20] [KICK] Server survival kicked player _Ahmed14k_ for reason: disconnect.spam
+[ERROR] [21/11/2026] [16:11:20] [FALLBACK] Null lobbies for player _Ahmed14k_ in group survival
+[ERROR] [21/11/2026] [16:12:25] [KICK] Server survival kicked player _Ahmed14k_ for reason: disconnect.spam
+[ERROR] [21/11/2026] [16:12:25] [FALLBACK] Null lobbies for player _Ahmed14k_ in group survival
+[ERROR] [21/11/2026] [16:14:20] [KICK] Server survival kicked player Youssef_jooYT for reason: disconnect.spam
+[ERROR] [21/11/2026] [16:14:20] [FALLBACK] Null lobbies for player Youssef_jooYT in group survival
+[ERROR] [21/11/2026] [16:19:15] [KICK] Server survival kicked player _Ahmed14k_ for reason: disconnect.spam
+[ERROR] [21/11/2026] [16:19:15] [FALLBACK] Null lobbies for player _Ahmed14k_ in group survival
+[ERROR] [21/11/2026] [16:20:07] [KICK] Server survival kicked player Youssef_jooYT for reason: disconnect.spam
+[ERROR] [21/11/2026] [16:20:07] [FALLBACK] Null lobbies for player Youssef_jooYT in group survival
+[ERROR] [21/11/2026] [16:24:37] [KICK] Server survival kicked player bigboyjordan for reason: disconnect.timeout
+[ERROR] [21/11/2026] [16:24:37] [FALLBACK] Null lobbies for player bigboyjordan in group survival
+[ERROR] [21/11/2026] [16:25:39] [KICK] Server survival kicked player bigboyjordan for reason: velocity.error.internal-server-connection-error
+[ERROR] [21/11/2026] [16:25:39] [FALLBACK] Null lobbies for player bigboyjordan in group survival
+[ERROR] [21/11/2026] [16:25:43] [KICK] Server survival kicked player wisp for reason: Lost Connection
+[ERROR] [21/11/2026] [16:25:43] [FALLBACK] Null lobbies for player wisp in group survival
+[ERROR] [21/11/2026] [16:25:48] [KICK] Server survival kicked player Youssef_jooYT for reason: disconnect.spam
+[ERROR] [21/11/2026] [16:25:48] [FALLBACK] Null lobbies for player Youssef_jooYT in group survival
+[ERROR] [21/11/2026] [16:26:27] [KICK] Server survival kicked player _CyberXD_ for reason: disconnect.spam
+[ERROR] [21/11/2026] [16:26:27] [FALLBACK] Null lobbies for player _CyberXD_ in group survival
+[ERROR] [21/11/2026] [16:26:57] [KICK] Server survival kicked player _Ahmed14k_ for reason: disconnect.spam
+[ERROR] [21/11/2026] [16:26:57] [FALLBACK] Null lobbies for player _Ahmed14k_ in group survival
+[ERROR] [21/11/2026] [16:27:09] [KICK] Server survival kicked player Youssef_jooYT for reason: disconnect.spam
+[ERROR] [21/11/2026] [16:27:09] [FALLBACK] Null lobbies for player Youssef_jooYT in group survival
+[ERROR] [21/11/2026] [16:28:00] [KICK] Server survival kicked player Youssef_jooYT for reason: disconnect.spam
+[ERROR] [21/11/2026] [16:28:00] [FALLBACK] Null lobbies for player Youssef_jooYT in group survival
+[ERROR] [21/11/2026] [16:43:05] [KICK] Server survival kicked player _CyberXD_ for reason: disconnect.spam
+[ERROR] [21/11/2026] [16:43:05] [FALLBACK] Null lobbies for player _CyberXD_ in group survival
+[ERROR] [21/11/2026] [16:44:49] [KICK] Server survival kicked player _CyberXD_ for reason: disconnect.spam
+[ERROR] [21/11/2026] [16:44:49] [FALLBACK] Null lobbies for player _CyberXD_ in group survival
+[ERROR] [21/11/2026] [16:48:18] [KICK] Server survival kicked player DANYELLISMYWIf for reason: disconnect.timeout
+[ERROR] [21/11/2026] [16:48:18] [FALLBACK] Null lobbies for player DANYELLISMYWIf in group survival
+[ERROR] [21/11/2026] [16:50:20] [KICK] Server survival kicked player qbedwars4 for reason: disconnect.timeout
+[ERROR] [21/11/2026] [16:50:20] [FALLBACK] Null lobbies for player qbedwars4 in group survival
+[ERROR] [21/11/2026] [16:51:06] [KICK] Server survival kicked player purrfect_rose for reason: disconnect.timeout
+[ERROR] [21/11/2026] [16:51:06] [FALLBACK] Null lobbies for player purrfect_rose in group survival
+[ERROR] [21/11/2026] [16:57:48] [KICK] Server survival kicked player _Ahmed14k_ for reason: velocity.error.internal-server-connection-error
+[ERROR] [21/11/2026] [16:57:48] [FALLBACK] Null lobbies for player _Ahmed14k_ in group survival
+[ERROR] [21/11/2026] [17:04:05] [KICK] Server survival kicked player qbedwars4 for reason: disconnect.timeout
+[ERROR] [21/11/2026] [17:04:05] [FALLBACK] Null lobbies for player qbedwars4 in group survival
+[ERROR] [21/11/2026] [17:04:41] [KICK] Server survival kicked player Dr_icecream23 for reason: velocity.error.internal-server-connection-error
+[ERROR] [21/11/2026] [17:04:41] [FALLBACK] Null lobbies for player Dr_icecream23 in group survival
+[ERROR] [21/11/2026] [17:05:09] [KICK] Server survival kicked player Youssef_jooYT for reason: disconnect.spam
+[ERROR] [21/11/2026] [17:05:09] [FALLBACK] Null lobbies for player Youssef_jooYT in group survival
+[ERROR] [21/11/2026] [17:05:14] [KICK] Server survival kicked player _Ahmed14k_ for reason: disconnect.spam
+[ERROR] [21/11/2026] [17:05:14] [FALLBACK] Null lobbies for player _Ahmed14k_ in group survival
+[ERROR] [21/11/2026] [17:08:47] [KICK] Server survival kicked player DANYELLISMYWIf for reason: disconnect.timeout
+[ERROR] [21/11/2026] [17:08:47] [FALLBACK] Null lobbies for player DANYELLISMYWIf in group survival
+[ERROR] [21/11/2026] [17:22:21] [KICK] Server survival kicked player Youssef_jooYT for reason: disconnect.spam
+[ERROR] [21/11/2026] [17:22:21] [FALLBACK] Null lobbies for player Youssef_jooYT in group survival
+[ERROR] [21/11/2026] [17:24:13] [KICK] Server survival kicked player The_Honored_One for reason: disconnect.timeout
+[ERROR] [21/11/2026] [17:24:13] [FALLBACK] Null lobbies for player The_Honored_One in group survival
+[ERROR] [21/11/2026] [17:30:02] [KICK] Server survival kicked player im_a_pro_player for reason: disconnect.timeout
+[ERROR] [21/11/2026] [17:30:02] [FALLBACK] Null lobbies for player im_a_pro_player in group survival
+[ERROR] [21/11/2026] [17:30:42] [KICK] Server survival kicked player im_a_pro_player for reason: Lost Connection
+[ERROR] [21/11/2026] [17:30:42] [FALLBACK] Null lobbies for player im_a_pro_player in group survival
+[ERROR] [21/11/2026] [17:44:58] [KICK] Server survival kicked player DeathPutc for reason: disconnect.timeout
+[ERROR] [21/11/2026] [17:44:58] [FALLBACK] Null lobbies for player DeathPutc in group survival
+[ERROR] [21/11/2026] [17:50:42] [KICK] Server survival kicked player YeeVool4748 for reason: disconnect.timeout
+[ERROR] [21/11/2026] [17:50:42] [FALLBACK] Null lobbies for player YeeVool4748 in group survival
+[ERROR] [21/11/2026] [18:04:09] [KICK] Server survival kicked player DeathPutc for reason: disconnect.timeout
+[ERROR] [21/11/2026] [18:04:09] [FALLBACK] Null lobbies for player DeathPutc in group survival
+[ERROR] [21/11/2026] [18:05:29] [KICK] Server survival kicked player ultimatedredhead for reason: disconnect.timeout
+[ERROR] [21/11/2026] [18:05:29] [FALLBACK] Null lobbies for player ultimatedredhead in group survival
+[ERROR] [21/11/2026] [18:06:02] [KICK] Server survival kicked player _CyberXD_ for reason: disconnect.spam
+[ERROR] [21/11/2026] [18:06:02] [FALLBACK] Null lobbies for player _CyberXD_ in group survival
+[ERROR] [21/11/2026] [18:10:47] [KICK] Server survival kicked player mr_hacker for reason: multiplayer.disconnect.flying
+[ERROR] [21/11/2026] [18:11:07] [KICK] Server survival kicked player mr_hacker for reason: multiplayer.disconnect.flying
+[ERROR] [21/11/2026] [18:13:03] [KICK] Server survival kicked player mr_hacker for reason: multiplayer.disconnect.flying
+[ERROR] [21/11/2026] [18:17:37] [KICK] Server survival kicked player Jimmy_101_mc for reason: disconnect.timeout
+[ERROR] [21/11/2026] [18:17:37] [FALLBACK] Null lobbies for player Jimmy_101_mc in group survival
+[ERROR] [21/11/2026] [18:20:35] [KICK] Server survival kicked player mr_hacker for reason: multiplayer.disconnect.flying
+[ERROR] [21/11/2026] [18:21:33] [KICK] Server survival kicked player Dr_icecream23 for reason: disconnect.timeout
+[ERROR] [21/11/2026] [18:21:33] [FALLBACK] Null lobbies for player Dr_icecream23 in group survival
+[ERROR] [21/11/2026] [18:21:41] [KICK] Server survival kicked player DaichiNobu for reason: disconnect.timeout
+[ERROR] [21/11/2026] [18:21:41] [FALLBACK] Null lobbies for player DaichiNobu in group survival
+[ERROR] [21/11/2026] [18:22:37] [KICK] Server survival kicked player escapets20 for reason: Lost Connection
+[ERROR] [21/11/2026] [18:22:37] [FALLBACK] Null lobbies for player escapets20 in group survival
+[ERROR] [21/11/2026] [18:22:37] [KICK] Server survival kicked player Drakz for reason: Lost Connection
+[ERROR] [21/11/2026] [18:22:37] [FALLBACK] Null lobbies for player Drakz in group survival
+[ERROR] [21/11/2026] [18:22:37] [KICK] Server survival kicked player Syndx for reason: Lost Connection
+[ERROR] [21/11/2026] [18:22:37] [FALLBACK] Null lobbies for player Syndx in group survival
+[ERROR] [21/11/2026] [18:22:37] [KICK] Server survival kicked player DaichiNobu for reason: Lost Connection
+[ERROR] [21/11/2026] [18:22:37] [FALLBACK] Null lobbies for player DaichiNobu in group survival
+[ERROR] [21/11/2026] [18:22:37] [KICK] Server survival kicked player Banana_12345ALT for reason: Lost Connection
+[ERROR] [21/11/2026] [18:22:37] [FALLBACK] Null lobbies for player Banana_12345ALT in group survival
+[ERROR] [21/11/2026] [18:22:37] [KICK] Server survival kicked player olivio5 for reason: Lost Connection
+[ERROR] [21/11/2026] [18:22:37] [FALLBACK] Null lobbies for player olivio5 in group survival
+[ERROR] [21/11/2026] [18:22:37] [KICK] Server survival kicked player im_a_pro_player for reason: Lost Connection
+[ERROR] [21/11/2026] [18:22:37] [FALLBACK] Null lobbies for player im_a_pro_player in group survival
+[ERROR] [21/11/2026] [18:22:37] [KICK] Server survival kicked player DeathPutc for reason: Lost Connection
+[ERROR] [21/11/2026] [18:22:37] [FALLBACK] Null lobbies for player DeathPutc in group survival
+[ERROR] [21/11/2026] [18:22:37] [KICK] Server survival kicked player qbedwars4 for reason: Lost Connection
+[ERROR] [21/11/2026] [18:22:37] [FALLBACK] Null lobbies for player qbedwars4 in group survival
+[ERROR] [21/11/2026] [18:22:37] [KICK] Server survival kicked player Karii11 for reason: Lost Connection
+[ERROR] [21/11/2026] [18:22:37] [FALLBACK] Null lobbies for player Karii11 in group survival
+[ERROR] [21/11/2026] [18:22:37] [KICK] Server survival kicked player ParrotX234 for reason: Lost Connection
+[ERROR] [21/11/2026] [18:22:37] [FALLBACK] Null lobbies for player ParrotX234 in group survival
+[ERROR] [21/11/2026] [18:22:37] [KICK] Server survival kicked player Yo_kev123 for reason: Lost Connection
+[ERROR] [21/11/2026] [18:22:37] [FALLBACK] Null lobbies for player Yo_kev123 in group survival
+[ERROR] [21/11/2026] [18:22:37] [KICK] Server survival kicked player collin for reason: Lost Connection
+[ERROR] [21/11/2026] [18:22:37] [FALLBACK] Null lobbies for player collin in group survival
+[ERROR] [21/11/2026] [18:22:37] [KICK] Server survival kicked player 11rojx for reason: Lost Connection
+[ERROR] [21/11/2026] [18:22:37] [FALLBACK] Null lobbies for player 11rojx in group survival
+[ERROR] [21/11/2026] [18:22:37] [KICK] Server survival kicked player lokuiouiouio for reason: Lost Connection
+[ERROR] [21/11/2026] [18:22:37] [FALLBACK] Null lobbies for player lokuiouiouio in group survival
+[ERROR] [21/11/2026] [18:22:37] [KICK] Server survival kicked player mr_hacker for reason: Lost Connection
+[ERROR] [21/11/2026] [18:22:37] [KICK] Server survival kicked player Jimmy_101_mc for reason: Lost Connection
+[ERROR] [21/11/2026] [18:22:37] [FALLBACK] Null lobbies for player mr_hacker in group survival
+[ERROR] [21/11/2026] [18:22:37] [FALLBACK] Null lobbies for player Jimmy_101_mc in group survival
+[ERROR] [21/11/2026] [18:22:37] [KICK] Server survival kicked player _Ahmed14k_ for reason: Lost Connection
+[ERROR] [21/11/2026] [18:22:37] [FALLBACK] Null lobbies for player _Ahmed14k_ in group survival
+[ERROR] [21/11/2026] [18:22:37] [KICK] Server survival kicked player somuel for reason: Lost Connection
+[ERROR] [21/11/2026] [18:22:37] [FALLBACK] Null lobbies for player somuel in group survival
+[ERROR] [21/11/2026] [18:22:37] [KICK] Server survival kicked player SURYA for reason: Lost Connection
+[ERROR] [21/11/2026] [18:22:37] [FALLBACK] Null lobbies for player SURYA in group survival
+[ERROR] [21/11/2026] [18:22:37] [KICK] Server survival kicked player ggez for reason: Lost Connection
+[ERROR] [21/11/2026] [18:22:37] [FALLBACK] Null lobbies for player ggez in group survival
+[ERROR] [21/11/2026] [18:22:37] [KICK] Server survival kicked player DANYELLISMYWIf for reason: Lost Connection
+[ERROR] [21/11/2026] [18:22:37] [KICK] Server survival kicked player vexxinism for reason: Lost Connection
+[ERROR] [21/11/2026] [18:22:37] [FALLBACK] Null lobbies for player DANYELLISMYWIf in group survival
+[ERROR] [21/11/2026] [18:22:37] [FALLBACK] Null lobbies for player vexxinism in group survival
+[ERROR] [21/11/2026] [18:22:37] [KICK] Server survival kicked player Youssef_jooYT for reason: Lost Connection
+[ERROR] [21/11/2026] [18:22:37] [FALLBACK] Null lobbies for player Youssef_jooYT in group survival
+[ERROR] [21/11/2026] [18:22:37] [KICK] Server survival kicked player slixence for reason: Lost Connection
+[ERROR] [21/11/2026] [18:22:37] [FALLBACK] Null lobbies for player slixence in group survival
+[ERROR] [21/11/2026] [18:22:37] [KICK] Server survival kicked player Shadow_Black for reason: Lost Connection
+[ERROR] [21/11/2026] [18:22:37] [FALLBACK] Null lobbies for player Shadow_Black in group survival
+[ERROR] [21/11/2026] [18:22:41] [KICK] Server survival kicked player _Ahmed14k_ for reason: Lost Connection
+[ERROR] [21/11/2026] [18:22:41] [FALLBACK] Null lobbies for player _Ahmed14k_ in group survival
+[ERROR] [21/11/2026] [18:22:41] [KICK] Server survival kicked player lokuiouiouio for reason: Lost Connection
+[ERROR] [21/11/2026] [18:22:41] [FALLBACK] Null lobbies for player lokuiouiouio in group survival
+[ERROR] [21/11/2026] [18:22:42] [KICK] Server survival kicked player DANYELLISMYWIf for reason: Lost Connection
+[ERROR] [21/11/2026] [18:22:42] [FALLBACK] Null lobbies for player DANYELLISMYWIf in group survival
+[ERROR] [21/11/2026] [18:22:42] [KICK] Server survival kicked player Jimmy_101_mc for reason: Lost Connection
+[ERROR] [21/11/2026] [18:22:42] [FALLBACK] Null lobbies for player Jimmy_101_mc in group survival
+[ERROR] [21/11/2026] [18:22:42] [KICK] Server survival kicked player mr_hacker for reason: Lost Connection
+[ERROR] [21/11/2026] [18:22:42] [FALLBACK] Null lobbies for player mr_hacker in group survival
+[ERROR] [21/11/2026] [18:22:43] [KICK] Server survival kicked player qbedwars4 for reason: Lost Connection
+[ERROR] [21/11/2026] [18:22:43] [FALLBACK] Null lobbies for player qbedwars4 in group survival
+[ERROR] [21/11/2026] [18:22:43] [KICK] Server survival kicked player Youssef_jooYT for reason: Lost Connection
+[ERROR] [21/11/2026] [18:22:43] [FALLBACK] Null lobbies for player Youssef_jooYT in group survival
+[ERROR] [21/11/2026] [19:01:18] [KICK] Server survival kicked player DANYELLISMYWIf for reason: disconnect.timeout
+[ERROR] [21/11/2026] [19:01:18] [FALLBACK] Null lobbies for player DANYELLISMYWIf in group survival
+[ERROR] [21/11/2026] [19:02:56] [KICK] Server survival kicked player olivio5 for reason: disconnect.timeout
+[ERROR] [21/11/2026] [19:02:56] [FALLBACK] Null lobbies for player olivio5 in group survival
+[ERROR] [21/11/2026] [19:05:04] [KICK] Server survival kicked player _Ahmed14k_ for reason: disconnect.timeout
+[ERROR] [21/11/2026] [19:05:04] [FALLBACK] Null lobbies for player _Ahmed14k_ in group survival
+[ERROR] [21/11/2026] [19:23:17] [KICK] Server survival kicked player MRpotatochipsX for reason: disconnect.timeout
+[ERROR] [21/11/2026] [19:23:17] [FALLBACK] Null lobbies for player MRpotatochipsX in group survival
+[ERROR] [21/11/2026] [19:27:55] [KICK] Server survival kicked player Dr_icecream23 for reason: disconnect.timeout
+[ERROR] [21/11/2026] [19:27:55] [FALLBACK] Null lobbies for player Dr_icecream23 in group survival
+[ERROR] [21/11/2026] [19:32:28] [KICK] Server survival kicked player ultimatedredhead for reason: velocity.error.internal-server-connection-error
+[ERROR] [21/11/2026] [19:32:28] [FALLBACK] Null lobbies for player ultimatedredhead in group survival
+[ERROR] [21/11/2026] [19:42:20] [KICK] Server survival kicked player JumperWhos for reason: You are banned from this server. Reason: The Ban Hammer has spoken!
+[ERROR] [21/11/2026] [19:43:15] [KICK] Server survival kicked player ultimatedredhead for reason: disconnect.timeout
+[ERROR] [21/11/2026] [19:43:15] [FALLBACK] Null lobbies for player ultimatedredhead in group survival
+[ERROR] [21/11/2026] [19:46:26] [KICK] Server survival kicked player Dr_icecream23 for reason: disconnect.timeout
+[ERROR] [21/11/2026] [19:46:26] [FALLBACK] Null lobbies for player Dr_icecream23 in group survival
+[ERROR] [21/11/2026] [19:46:36] [KICK] Server survival kicked player AhmedPlatinumI for reason: disconnect.timeout
+[ERROR] [21/11/2026] [19:46:36] [FALLBACK] Null lobbies for player AhmedPlatinumI in group survival
+[ERROR] [21/11/2026] [19:49:06] [KICK] Server survival kicked player toutiti43_ for reason: disconnect.timeout
+[ERROR] [21/11/2026] [19:49:06] [FALLBACK] Null lobbies for player toutiti43_ in group survival
+[ERROR] [21/11/2026] [19:52:43] [KICK] Server survival kicked player toutiti43_ for reason: disconnect.timeout
+[ERROR] [21/11/2026] [19:52:43] [FALLBACK] Null lobbies for player toutiti43_ in group survival
+[ERROR] [21/11/2026] [20:00:08] [KICK] Server survival kicked player Yo_kev123 for reason: disconnect.timeout
+[ERROR] [21/11/2026] [20:00:08] [FALLBACK] Null lobbies for player Yo_kev123 in group survival
+[ERROR] [21/11/2026] [20:03:53] [KICK] Server survival kicked player Marrlowwww for reason: disconnect.timeout
+[ERROR] [21/11/2026] [20:03:53] [FALLBACK] Null lobbies for player Marrlowwww in group survival
+[ERROR] [21/11/2026] [20:15:22] [KICK] Server survival kicked player AhmedPlatinumI for reason: disconnect.timeout
+[ERROR] [21/11/2026] [20:15:22] [FALLBACK] Null lobbies for player AhmedPlatinumI in group survival
+[ERROR] [21/11/2026] [20:17:34] [KICK] Server survival kicked player isoocray for reason: Lost Connection
+[ERROR] [21/11/2026] [20:17:34] [FALLBACK] Null lobbies for player isoocray in group survival
+[ERROR] [21/11/2026] [20:17:39] [KICK] Server survival kicked player isoocray for reason: You are banned from this server for 55 seconds. Reason: Server Crasher Detected
+[ERROR] [21/11/2026] [20:17:51] [KICK] Server survival kicked player isoocray for reason: You are banned from this server for 43 seconds. Reason: Server Crasher Detected
+[ERROR] [21/11/2026] [20:18:08] [KICK] Server survival kicked player isoocray for reason: You are banned from this server for 26 seconds. Reason: Server Crasher Detected
+[ERROR] [21/11/2026] [20:18:11] [KICK] Server survival kicked player isoocray for reason: You are banned from this server for 23 seconds. Reason: Server Crasher Detected
+[ERROR] [21/11/2026] [20:18:23] [KICK] Server survival kicked player isoocray for reason: You are banned from this server for 10 seconds. Reason: Server Crasher Detected
+[ERROR] [21/11/2026] [20:18:29] [KICK] Server survival kicked player isoocray for reason: You are banned from this server for 5 seconds. Reason: Server Crasher Detected
+[ERROR] [21/11/2026] [20:32:10] [KICK] Server survival kicked player DrDonut for reason: velocity.error.internal-server-connection-error
+[ERROR] [21/11/2026] [20:32:10] [FALLBACK] Null lobbies for player DrDonut in group survival
+[ERROR] [21/11/2026] [20:34:15] [KICK] Server survival kicked player bigboyjordan for reason: disconnect.timeout
+[ERROR] [21/11/2026] [20:34:15] [FALLBACK] Null lobbies for player bigboyjordan in group survival
+[ERROR] [21/11/2026] [20:36:23] [KICK] Server survival kicked player Xemmbu for reason: multiplayer.disconnect.flying
+[ERROR] [21/11/2026] [20:38:27] [KICK] Server survival kicked player Dr_icecream23 for reason: disconnect.timeout
+[ERROR] [21/11/2026] [20:38:27] [FALLBACK] Null lobbies for player Dr_icecream23 in group survival
+[ERROR] [21/11/2026] [20:40:30] [KICK] Server survival kicked player bigboyjordan for reason: disconnect.timeout
+[ERROR] [21/11/2026] [20:40:30] [FALLBACK] Null lobbies for player bigboyjordan in group survival
+[ERROR] [21/11/2026] [20:41:34] [KICK] Server survival kicked player bigboyjordan for reason: disconnect.timeout
+[ERROR] [21/11/2026] [20:41:34] [FALLBACK] Null lobbies for player bigboyjordan in group survival
+[ERROR] [21/11/2026] [20:48:59] [KICK] Server survival kicked player MR_Cobra for reason: velocity.error.internal-server-connection-error
+[ERROR] [21/11/2026] [20:48:59] [FALLBACK] Null lobbies for player MR_Cobra in group survival
+[ERROR] [21/11/2026] [21:16:03] [KICK] Server survival kicked player Yo_kev123 for reason: Lost Connection
+[ERROR] [21/11/2026] [21:16:03] [FALLBACK] Null lobbies for player Yo_kev123 in group survival
+[ERROR] [21/11/2026] [21:16:03] [KICK] Server survival kicked player DANYELLISMYWIf for reason: Lost Connection
+[ERROR] [21/11/2026] [21:16:03] [FALLBACK] Null lobbies for player DANYELLISMYWIf in group survival
+[ERROR] [21/11/2026] [21:16:03] [KICK] Server survival kicked player Ice_Queen for reason: Lost Connection
+[ERROR] [21/11/2026] [21:16:03] [FALLBACK] Null lobbies for player Ice_Queen in group survival
+[ERROR] [21/11/2026] [21:16:03] [KICK] Server survival kicked player _KING_ for reason: Lost Connection
+[ERROR] [21/11/2026] [21:16:03] [FALLBACK] Null lobbies for player _KING_ in group survival
+[ERROR] [21/11/2026] [21:16:03] [KICK] Server survival kicked player qbedwars4 for reason: Lost Connection
+[ERROR] [21/11/2026] [21:16:03] [FALLBACK] Null lobbies for player qbedwars4 in group survival
+[ERROR] [21/11/2026] [21:16:03] [KICK] Server survival kicked player ParrotX234 for reason: Lost Connection
+[ERROR] [21/11/2026] [21:16:03] [FALLBACK] Null lobbies for player ParrotX234 in group survival
+[ERROR] [21/11/2026] [21:16:03] [KICK] Server survival kicked player shyuii for reason: Lost Connection
+[ERROR] [21/11/2026] [21:16:03] [FALLBACK] Null lobbies for player shyuii in group survival
+[ERROR] [21/11/2026] [21:16:03] [KICK] Server survival kicked player Shadow_Black for reason: Lost Connection
+[ERROR] [21/11/2026] [21:16:03] [FALLBACK] Null lobbies for player Shadow_Black in group survival
+[ERROR] [21/11/2026] [21:22:51] [KICK] Server survival kicked player ParrotX234 for reason: Lost Connection
+[ERROR] [21/11/2026] [21:22:51] [FALLBACK] Null lobbies for player ParrotX234 in group survival
+[ERROR] [21/11/2026] [21:23:18] [KICK] Server survival kicked player ParrotX234 for reason: Lost Connection
+[ERROR] [21/11/2026] [21:23:18] [FALLBACK] Null lobbies for player ParrotX234 in group survival
+[ERROR] [21/11/2026] [21:24:17] [KICK] Server survival kicked player ParrotX234 for reason: Lost Connection
+[ERROR] [21/11/2026] [21:24:17] [FALLBACK] Null lobbies for player ParrotX234 in group survival
+[ERROR] [21/11/2026] [21:24:53] [KICK] Server survival kicked player ParrotX234 for reason: Lost Connection
+[ERROR] [21/11/2026] [21:24:53] [FALLBACK] Null lobbies for player ParrotX234 in group survival
+[ERROR] [21/11/2026] [21:25:04] [KICK] Server survival kicked player MR_Cobra for reason: Lost Connection
+[ERROR] [21/11/2026] [21:25:04] [FALLBACK] Null lobbies for player MR_Cobra in group survival
+[ERROR] [21/11/2026] [21:25:49] [KICK] Server survival kicked player ParrotX234 for reason: Lost Connection
+[ERROR] [21/11/2026] [21:25:49] [FALLBACK] Null lobbies for player ParrotX234 in group survival
+[ERROR] [21/11/2026] [21:26:36] [KICK] Server survival kicked player vaguecinder for reason: Lost Connection
+[ERROR] [21/11/2026] [21:26:36] [FALLBACK] Null lobbies for player vaguecinder in group survival
+[ERROR] [21/11/2026] [21:27:08] [KICK] Server survival kicked player lokuiouiouio for reason: Lost Connection
+[ERROR] [21/11/2026] [21:27:08] [FALLBACK] Null lobbies for player lokuiouiouio in group survival
+[ERROR] [21/11/2026] [21:27:31] [KICK] Server survival kicked player ParrotX234 for reason: Lost Connection
+[ERROR] [21/11/2026] [21:27:31] [FALLBACK] Null lobbies for player ParrotX234 in group survival
+[ERROR] [21/11/2026] [21:28:05] [KICK] Server survival kicked player ParrotX234 for reason: Lost Connection
+[ERROR] [21/11/2026] [21:28:05] [FALLBACK] Null lobbies for player ParrotX234 in group survival
+[ERROR] [21/11/2026] [21:28:29] [KICK] Server survival kicked player olivio5 for reason: Lost Connection
+[ERROR] [21/11/2026] [21:28:29] [FALLBACK] Null lobbies for player olivio5 in group survival
+[ERROR] [21/11/2026] [21:28:52] [KICK] Server survival kicked player ParrotX234 for reason: Lost Connection
+[ERROR] [21/11/2026] [21:28:52] [FALLBACK] Null lobbies for player ParrotX234 in group survival
+[ERROR] [21/11/2026] [21:28:57] [KICK] Server survival kicked player olivio5 for reason: Lost Connection
+[ERROR] [21/11/2026] [21:28:57] [FALLBACK] Null lobbies for player olivio5 in group survival
+[ERROR] [21/11/2026] [21:32:54] [KICK] Server survival kicked player Wembbu_Money for reason: Lost Connection
+[ERROR] [21/11/2026] [21:32:54] [FALLBACK] Null lobbies for player Wembbu_Money in group survival
+[ERROR] [21/11/2026] [21:35:31] [KICK] Server survival kicked player ParrotX234 for reason: Lost Connection
+[ERROR] [21/11/2026] [21:35:31] [FALLBACK] Null lobbies for player ParrotX234 in group survival
+[ERROR] [21/11/2026] [21:38:19] [KICK] Server survival kicked player Dr_icecream23 for reason: Lost Connection
+[ERROR] [21/11/2026] [21:38:19] [FALLBACK] Null lobbies for player Dr_icecream23 in group survival
+[ERROR] [21/11/2026] [21:38:58] [KICK] Server survival kicked player ParrotX234 for reason: Lost Connection
+[ERROR] [21/11/2026] [21:38:58] [FALLBACK] Null lobbies for player ParrotX234 in group survival
+[ERROR] [21/11/2026] [21:42:12] [KICK] Server survival kicked player ParrotX234 for reason: Lost Connection
+[ERROR] [21/11/2026] [21:42:12] [FALLBACK] Null lobbies for player ParrotX234 in group survival
+[ERROR] [21/11/2026] [21:48:01] [KICK] Server survival kicked player ParrotX234 for reason: Lost Connection
+[ERROR] [21/11/2026] [21:48:01] [FALLBACK] Null lobbies for player ParrotX234 in group survival
+[ERROR] [21/11/2026] [21:50:01] [KICK] Server survival kicked player shyuii for reason: Lost Connection
+[ERROR] [21/11/2026] [21:50:01] [FALLBACK] Null lobbies for player shyuii in group survival
+[ERROR] [21/11/2026] [21:51:43] [KICK] Server survival kicked player shyuii for reason: Lost Connection
+[ERROR] [21/11/2026] [21:51:43] [FALLBACK] Null lobbies for player shyuii in group survival
+[ERROR] [21/11/2026] [21:52:13] [KICK] Server survival kicked player im_a_pro_player for reason: Lost Connection
+[ERROR] [21/11/2026] [21:52:13] [FALLBACK] Null lobbies for player im_a_pro_player in group survival
+[ERROR] [21/11/2026] [21:55:31] [KICK] Server survival kicked player ParrotX234 for reason: Lost Connection
+[ERROR] [21/11/2026] [21:55:31] [FALLBACK] Null lobbies for player ParrotX234 in group survival
+[ERROR] [21/11/2026] [22:05:54] [KICK] Server survival kicked player ParrotX234 for reason: Lost Connection
+[ERROR] [21/11/2026] [22:05:54] [FALLBACK] Null lobbies for player ParrotX234 in group survival
+[ERROR] [21/11/2026] [22:06:27] [KICK] Server survival kicked player ParrotX234 for reason: Lost Connection
+[ERROR] [21/11/2026] [22:06:27] [FALLBACK] Null lobbies for player ParrotX234 in group survival
+[ERROR] [21/11/2026] [22:09:22] [KICK] Server survival kicked player Ollie_090 for reason: Lost Connection
+[ERROR] [21/11/2026] [22:09:22] [FALLBACK] Null lobbies for player Ollie_090 in group survival
+[ERROR] [21/11/2026] [22:09:24] [KICK] Server survival kicked player Ice_Queen for reason: Lost Connection
+[ERROR] [21/11/2026] [22:09:24] [FALLBACK] Null lobbies for player Ice_Queen in group survival
+[ERROR] [21/11/2026] [22:09:55] [KICK] Server survival kicked player Ollie_090 for reason: Lost Connection
+[ERROR] [21/11/2026] [22:09:55] [FALLBACK] Null lobbies for player Ollie_090 in group survival
+[ERROR] [21/11/2026] [22:10:21] [KICK] Server survival kicked player Ice_Queen for reason: Lost Connection
+[ERROR] [21/11/2026] [22:10:21] [FALLBACK] Null lobbies for player Ice_Queen in group survival
+[ERROR] [21/11/2026] [22:11:02] [KICK] Server survival kicked player Ice_Queen for reason: Lost Connection
+[ERROR] [21/11/2026] [22:11:02] [FALLBACK] Null lobbies for player Ice_Queen in group survival
+[ERROR] [21/11/2026] [22:11:27] [KICK] Server survival kicked player ultimatedredhead for reason: Lost Connection
+[ERROR] [21/11/2026] [22:11:27] [FALLBACK] Null lobbies for player ultimatedredhead in group survival
+[ERROR] [21/11/2026] [22:14:40] [KICK] Server survival kicked player IceQueen_TheGoat for reason: Lost Connection
+[ERROR] [21/11/2026] [22:14:40] [FALLBACK] Null lobbies for player IceQueen_TheGoat in group survival
+[ERROR] [21/11/2026] [22:25:07] [KICK] Server survival kicked player isoocray for reason: Lost Connection
+[ERROR] [21/11/2026] [22:25:07] [FALLBACK] Null lobbies for player isoocray in group survival
+[ERROR] [21/11/2026] [22:25:53] [KICK] Server survival kicked player isoocray for reason: Lost Connection
+[ERROR] [21/11/2026] [22:25:53] [FALLBACK] Null lobbies for player isoocray in group survival
+[ERROR] [21/11/2026] [22:35:26] [KICK] Server survival kicked player hellotherebro67 for reason: Lost Connection
+[ERROR] [21/11/2026] [22:35:26] [FALLBACK] Null lobbies for player hellotherebro67 in group survival
+[ERROR] [21/11/2026] [22:35:54] [KICK] Server survival kicked player hellotherebro67 for reason: Lost Connection
+[ERROR] [21/11/2026] [22:35:54] [FALLBACK] Null lobbies for player hellotherebro67 in group survival
+[ERROR] [21/11/2026] [22:39:33] [KICK] Server survival kicked player Karii11 for reason: Lost Connection
+[ERROR] [21/11/2026] [22:39:33] [FALLBACK] Null lobbies for player Karii11 in group survival
+[ERROR] [21/11/2026] [22:40:52] [KICK] Server survival kicked player Ollie_090 for reason: Lost Connection
+[ERROR] [21/11/2026] [22:40:52] [FALLBACK] Null lobbies for player Ollie_090 in group survival
+[ERROR] [21/11/2026] [22:41:28] [KICK] Server survival kicked player Ollie_090 for reason: Lost Connection
+[ERROR] [21/11/2026] [22:41:28] [FALLBACK] Null lobbies for player Ollie_090 in group survival
+[ERROR] [21/11/2026] [22:52:38] [KICK] Server survival kicked player what_did_i_dodo for reason: Lost Connection
+[ERROR] [21/11/2026] [22:52:38] [FALLBACK] Null lobbies for player what_did_i_dodo in group survival
+[ERROR] [21/11/2026] [22:53:07] [KICK] Server survival kicked player what_did_i_dodo for reason: Lost Connection
+[ERROR] [21/11/2026] [22:53:07] [FALLBACK] Null lobbies for player what_did_i_dodo in group survival
+[ERROR] [21/11/2026] [23:21:28] [KICK] Server survival kicked player Karii11 for reason: Lost Connection
+[ERROR] [21/11/2026] [23:21:28] [FALLBACK] Null lobbies for player Karii11 in group survival
+[ERROR] [21/11/2026] [23:26:14] [KICK] Server survival kicked player Karii11 for reason: Lost Connection
+[ERROR] [21/11/2026] [23:26:14] [FALLBACK] Null lobbies for player Karii11 in group survival
+[ERROR] [21/11/2026] [23:31:38] [KICK] Server survival kicked player hellotherebro67 for reason: Lost Connection
+[ERROR] [21/11/2026] [23:31:38] [FALLBACK] Null lobbies for player hellotherebro67 in group survival
+[ERROR] [21/11/2026] [23:34:51] [KICK] Server survival kicked player Ice_Queen_7864 for reason: Lost Connection
+[ERROR] [21/11/2026] [23:34:51] [FALLBACK] Null lobbies for player Ice_Queen_7864 in group survival
+[ERROR] [21/11/2026] [23:37:36] [KICK] Server survival kicked player Youssef_jooYT for reason: Lost Connection
+[ERROR] [21/11/2026] [23:37:36] [FALLBACK] Null lobbies for player Youssef_jooYT in group survival

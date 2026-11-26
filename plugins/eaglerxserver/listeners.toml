@@ -1,8 +1,8 @@
 [[listener_list]]
 	listener_name = "listener0"
-	inject_address = "0.0.0.0:10000"
+	inject_address = "0.0.0.0:24717"
 	velocity_clone_listener = false
-	dual_stack = false
+	dual_stack = true
 	# Default value is false, sets if connections to this listener will use an HTTP
 	# header to forward the player's real IP address from a reverse proxy (or
 	# CloudFlare) to the BungeeCord/Velocity server. This is required for
@@ -48,7 +48,7 @@
 	# contents of the listener's MOTD, which is the text displayed along with the
 	# server_icon when players add this server's listener address to their client's
 	# Multiplayer menu server list.
-	server_motd = ["§r                    §1§lSh§9§lado§b§lwFl§f§lare§r\n§3                        ꜱᴜʀᴠɪᴠᴀʟ"]
+	server_motd = ["§r§dShadowFlare.com §8(§7DonutSMP§8)\n§r§fSurvival - Practice"]
 	# Default value is true, is this listener should respond to MOTD queries or not
 	allow_motd = true
 	# Default value is true, is this listener should respond to other query types or
@@ -73,7 +73,7 @@
 		enable_tls = false
 		# Default value is true, sets if this listener should always assume connections to
 		# be HTTPS (WSS), requires enable_tls to be true.
-		require_tls = true
+		require_tls = false
 		# Default value is false, if the TLS certificates for this listener are managed by
 		# another plugin.
 		tls_managed_by_external_plugin = false
